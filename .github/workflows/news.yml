@@ -1,0 +1,34 @@
+name: news
+on:
+  schedule:
+    - cron: "*/15 14-21 * * 1-5"   # рынок США (UTC, зима). GitHub не гарантирует точность: возможны задержки 5-30 мин
+  workflow_dispatch:
+concurrency:
+  group: ssh-state
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11", cache: pip}
+      - run: pip install -r requirements.txt
+      - run: python -m ssh.run commands
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      - run: python -m ssh.run news
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      - name: commit state
+        run: |
+          git config user.name "ssh-bot"; git config user.email "ssh-bot@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || (git commit -m "news state" && git pull --rebase && git push)

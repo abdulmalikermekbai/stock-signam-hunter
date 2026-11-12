@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="kk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Signal Hunter</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2310b981'/%3E%3Cpath d='M6 22l7-8 5 5 8-11' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root{--bg:#0a0e14;--bg2:#0f1520;--card:#131a26;--card2:#18212f;--bd:#222d3f;--tx:#e8edf5;--mut:#8a97ad;
+--g:#10b981;--y:#f5b942;--r:#f0645a;--b:#5aa2ff;--p:#a78bfa;--rad:14px}
+:root[data-theme=light]{--bg:#f3f5f9;--bg2:#fff;--card:#fff;--card2:#f6f8fb;--bd:#dde3ec;--tx:#162033;--mut:#667389}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:radial-gradient(1200px 500px at 70% -10%,rgba(16,185,129,.10),transparent),var(--bg);color:var(--tx);
+font:14px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;font-variant-numeric:tabular-nums}
+a{color:var(--b);text-decoration:none}a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:5;backdrop-filter:blur(12px);background:color-mix(in srgb,var(--bg) 82%,transparent);border-bottom:1px solid var(--bd)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+.top{display:flex;align-items:center;gap:12px;height:58px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:700;font-size:16px;letter-spacing:.2px}
+.logo i{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,#10b981,#059669);display:grid;place-items:center;color:#fff;font-style:normal}
+.sp{flex:1}.pill{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60vw;font-size:12px;padding:4px 10px;border-radius:99px;border:1px solid var(--bd);color:var(--mut);background:var(--card)}
+.pill.ok{color:var(--g);border-color:color-mix(in srgb,var(--g) 40%,var(--bd))}.pill.bad{color:var(--r)}
+button.ic{background:var(--card);border:1px solid var(--bd);color:var(--tx);border-radius:10px;padding:6px 10px;cursor:pointer}
+nav{display:flex;gap:4px;overflow-x:auto;padding-bottom:8px;scrollbar-width:none}
+nav button{background:none;border:0;color:var(--mut);padding:8px 14px;border-radius:10px;cursor:pointer;font:inherit;white-space:nowrap}
+nav button.on{background:var(--card);color:var(--tx);box-shadow:inset 0 0 0 1px var(--bd)}
+main{padding:20px 0 60px}
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:14px;margin-bottom:14px}
+@media(max-width:820px){.hero{grid-template-columns:1fr}}
+@media(max-width:520px){.pill{max-width:46vw;font-size:11px}.logo{font-size:15px}.grid{grid-template-columns:1fr}input{min-width:0;flex:1}}
+.panel{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--bd);border-radius:var(--rad);padding:18px}
+.hero h2{margin:0 0 4px;font-size:22px;letter-spacing:-.3px}.mut{color:var(--mut)}.sm{font-size:12px}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.kpi{background:var(--card2);border:1px solid var(--bd);border-radius:12px;padding:12px}
+.kpi b{display:block;font-size:24px;line-height:1.1;margin-top:2px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
+input,select{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:10px;padding:9px 12px;font:inherit}
+input{min-width:200px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
+.card{background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--bd);border-radius:var(--rad);padding:16px;display:flex;flex-direction:column;gap:12px;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-2px);border-color:color-mix(in srgb,var(--g) 35%,var(--bd))}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.tk{font-size:20px;font-weight:700;letter-spacing:-.3px}
+.tag{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:99px;font-size:12px;font-weight:600;border:1px solid}
+.tag.BUY,.tag.STRONG_BUY{color:var(--g);background:color-mix(in srgb,var(--g) 12%,transparent);border-color:color-mix(in srgb,var(--g) 40%,transparent)}
+.tag.WAIT{color:var(--y);background:color-mix(in srgb,var(--y) 12%,transparent);border-color:color-mix(in srgb,var(--y) 40%,transparent)}
+.tag.WATCHLIST{color:var(--b);background:color-mix(in srgb,var(--b) 12%,transparent);border-color:color-mix(in srgb,var(--b) 40%,transparent)}
+.tag.AVOID{color:var(--r);background:color-mix(in srgb,var(--r) 12%,transparent);border-color:color-mix(in srgb,var(--r) 40%,transparent)}
+.tag.halal{color:var(--p);border-color:color-mix(in srgb,var(--p) 40%,transparent)}
+.rings{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}
+.ring{--v:0;--c:var(--g);display:flex;flex-direction:column;align-items:center;gap:4px}
+.ring .o{width:46px;height:46px;border-radius:50%;background:conic-gradient(var(--c) calc(var(--v)*1%),var(--bd) 0);display:grid;place-items:center}
+.ring .o b{width:36px;height:36px;border-radius:50%;background:var(--card);display:grid;place-items:center;font-size:12px}
+.ring span{font-size:10px;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
+svg.chart{width:100%;height:auto;display:block;background:var(--card2);border-radius:10px;border:1px solid var(--bd)}
+.plan{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.plan div{background:var(--card2);border:1px solid var(--bd);border-radius:10px;padding:7px 8px}
+.plan small{display:block;color:var(--mut);font-size:10px;text-transform:uppercase}
+.plan b{font-size:13px}.plan .sl b{color:var(--r)}.plan .tp b{color:var(--g)}
+.gate{font-size:12px;color:var(--y);background:color-mix(in srgb,var(--y) 9%,transparent);border-radius:8px;padding:6px 8px}
+.ready{border-color:color-mix(in srgb,var(--y) 55%,var(--bd))}
+details summary{cursor:pointer;color:var(--mut);font-size:12px}
+details div.l{font-size:12px;padding:2px 0}
+.empty{padding:40px;text-align:center;color:var(--mut);border:1px dashed var(--bd);border-radius:var(--rad)}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--bd);font-size:13px}th{color:var(--mut);font-weight:500}
+.warn{background:color-mix(in srgb,var(--y) 9%,transparent);border:1px solid color-mix(in srgb,var(--y) 35%,var(--bd));color:var(--tx);padding:10px 14px;border-radius:12px;margin-bottom:14px;font-size:13px}
+.tab{display:none}.tab.on{display:block}
+ol.how li{margin:8px 0}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="top">
+    <div class="logo"><i>↗</i><span>Signal Hunter</span></div><div class="sp"></div>
+    <span class="pill" id="upd">жүктелуде…</span>
+    <button class="ic" id="th" title="Тақырып">◐</button>
+  </div>
+  <nav id="nav">
+    <button data-t="sig" class="on">Сигналдар</button><button data-t="ready">Халяль күтуде</button>
+    <button data-t="perf">Нәтижелер</button><button data-t="bt">Бэктест</button><button data-t="how">Қалай жұмыс істейді</button>
+  </nav>
+</div></header>
+<main class="wrap">
+  <div class="warn">⚠️ Аналитикалық құрал, қаржылық кеңес емес. Пайда кепілденбейді. Сигналдарды алдымен ақшасыз (paper) бақылап, нәтижесін «Нәтижелер» бетінен көріңіз.</div>
+
+  <section class="tab on" id="t-sig">
+    <div class="hero">
+      <div class="panel"><h2 id="h1">…</h2><div class="mut" id="h2"></div></div>
+      <div class="kpis" id="kpis"></div>
+    </div>
+    <div class="bar"><input id="q" placeholder="Тикер іздеу…"><select id="st"><option value="">Барлық статус</option>
+      <option>BUY</option><option>WAIT</option><option>WATCHLIST</option><option>AVOID</option></select>
+      <select id="sort"><option value="rank">Рейтинг бойынша</option><option value="entry">Entry бойынша</option><option value="risk">Қауіпсіздік бойынша</option></select></div>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <section class="tab" id="t-ready"><div class="panel" style="margin-bottom:14px"><b>Сетап дайын, тек халяль расталмаған.</b>
+    <div class="mut sm">Musaffa / Zoya / 10-K арқылы өзіңіз тексеріңіз, сосын Telegram-да <code>/halal TICKER</code> деп жазыңыз — бот келесі сканда BUY бере алады.</div></div>
+    <div class="grid" id="gready"></div></section>
+
+  <section class="tab" id="t-perf"><div class="kpis" id="pk" style="margin-bottom:14px"></div><div class="panel"><div id="pt" class="sm"></div></div></section>
+  <section class="tab" id="t-bt"><div class="panel" id="btp">Бэктест әлі жасалмаған. Actions → backtest → Run workflow.</div></section>
+
+  <section class="tab" id="t-how"><div class="panel"><ol class="how">
+    <li><b>Сканер</b> күн сайын нарық жабылған соң универсумды жүктеп, деңгейлер мен ретестерді іздейді.</li>
+    <li><b>Алты балл:</b> Signal (жалпы сапа), Halal, Momentum (SPY-дан күшті ме), Entry (қазір кіруге бола ма), Catalyst (жаңалық/есеп/инсайдер), Risk (100 = төмен тәуекел).</li>
+    <li><b>Қатаң гейттер:</b> халяль расталмаса, есеп жақын болса, RR &lt; 2 болса, стоп 2 ATR-дан алыс болса, деректер ескірсе — BUY жоқ.</li>
+    <li><b>Жаңалық статусы:</b> VERIFIED (бастапқы дерек), CORROBORATED (бірнеше тәуелсіз көз), UNCONFIRMED, OUTDATED. Бот «жалған» деп өздігінен айтпайды.</li>
+    <li><b>Нәтижелер:</b> әр сигнал SL / TP1 бойынша бақыланады — шынайы win rate осында көрінеді.</li>
+  </ol></div></section>
+</main>
+<script>
+const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const url=u=>/^https?:\/\//i.test(u||"")?esc(u):"#";
+const col=v=>v>=70?"var(--g)":v>=45?"var(--y)":"var(--r)";
+let D={signals:[],meta:{}},P=null;
+try{const t=localStorage.getItem("th");if(t)document.documentElement.dataset.theme=t}catch(e){}
+$("#th").onclick=()=>{const n=document.documentElement.dataset.theme==="light"?"dark":"light";document.documentElement.dataset.theme=n;try{localStorage.setItem("th",n)}catch(e){}};
+$("#nav").onclick=e=>{const t=e.target.dataset.t;if(!t)return;document.querySelectorAll("nav button").forEach(b=>b.classList.toggle("on",b===e.target));
+  document.querySelectorAll(".tab").forEach(s=>s.classList.toggle("on",s.id==="t-"+t))};
+const j=async f=>{try{const r=await fetch(f+"?"+Date.now());return r.ok?await r.json():null}catch(e){return null}};
+async function load(){
+  D=(await j("signals.json"))||D;P=await j("performance.json");const B=await j("backtest.json");
+  if(B)$("#btp").innerHTML=["all","in_sample_first_half","out_of_sample_second_half"].map(k=>`<h4>${esc(k)}</h4><div class="sm mut">${Object.entries(B[k]||{}).map(([a,b])=>`${esc(a)}: <b style="color:var(--tx)">${esc(b)}</b>`).join(" · ")}</div>`).join("")+`<p class="sm mut">${esc(B.note)}</p>`;
+  render();perf();
+}
+const ring=(l,v,inv)=>`<div class="ring" style="--v:${v};--c:${col(v)}" title="${l}"><div class="o"><b>${v}</b></div><span>${l}</span></div>`;
+function chart(s){
+  const t=s.technical||{},i=t.ind||{},c=i.spark||[],p=t.setup||{};if(c.length<5)return"";
+  const lv=[],ex=[];if(p.type==="level_retest"){ex.push(["Entry",p.entry,"#5aa2ff"],["SL",p.sl,"#f0645a"],["TP1",p.tps[0],"#10b981"])}
+  (t.levels||[]).forEach(l=>lv.push(l.price));
+  const all=c.concat(ex.map(e=>e[1]));const lo=Math.min(...all)*.995,hi=Math.max(...all)*1.005,W=320,H=120,Y=v=>H-6-(v-lo)/(hi-lo)*(H-12),X=k=>6+k/(c.length-1)*(W-12);
+  const line=c.map((v,k)=>`${k?"L":"M"}${X(k).toFixed(1)},${Y(v).toFixed(1)}`).join(" ");
+  const area=line+` L${X(c.length-1)},${H} L${X(0)},${H} Z`;
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}"><defs><linearGradient id="g${s.ticker}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10b981" stop-opacity=".28"/><stop offset="1" stop-color="#10b981" stop-opacity="0"/></linearGradient></defs>
+  ${lv.filter(v=>v>lo&&v<hi).map(v=>`<line x1="0" x2="${W}" y1="${Y(v)}" y2="${Y(v)}" stroke="#8a97ad" stroke-opacity=".35" stroke-dasharray="3 4"/>`).join("")}
+  <path d="${area}" fill="url(#g${s.ticker})"/><path d="${line}" fill="none" stroke="#10b981" stroke-width="1.8" vector-effect="non-scaling-stroke"/>
+  ${ex.map(([n,v,cl])=>`<line x1="0" x2="${W}" y1="${Y(v)}" y2="${Y(v)}" stroke="${cl}" stroke-width="1.2" vector-effect="non-scaling-stroke"/><text x="${W-4}" y="${Y(v)<12?Y(v)+10:Y(v)-3}" fill="${cl}" font-size="9" text-anchor="end">${n} ${v}</text>`).join("")}</svg>`;
+}
+function card(s){
+  const t=s.technical||{},i=t.ind||{},p=t.setup||{},h=s.halal||{},z=s.six||{};
+  const plan=p.type==="level_retest"?`<div class="plan"><div><small>Entry</small><b>${p.entry}</b></div><div class="sl"><small>SL · ${p.sl_atr} ATR</small><b>${p.sl}</b></div><div class="tp"><small>TP1 / TP2</small><b>${p.tps[0]} / ${p.tps[1]}</b></div><div><small>RR</small><b>${p.rr_tp1}</b></div></div>`:"";
+  const rk=s.risk&&s.risk.shares?`<div class="sm mut">Көлем: <b style="color:var(--tx)">${s.risk.shares} дана</b> ≈ ${(s.risk.notional_kzt||0).toLocaleString()} ₸ · тәуекел ${(s.risk.risk_kzt||0).toLocaleString()} ₸</div>`:"";
+  const n=(s.news||[]).slice(0,3).map(x=>`<div class="l"><span class="tag" style="padding:1px 8px">${esc(x.status)}</span> <a href="${url(x.links?.[0])}" target="_blank" rel="noopener noreferrer">${esc(x.title)}</a></div>`).join("");
+  const f=(s.fundamentals?.rows||[]).map(r=>`<div class="l">${r.ok===null?"▫️":r.ok?"✅":"❌"} ${esc(r.check)}: ${esc(r.value)}</div>`).join("");
+  return `<div class="card ${s.only_halal_blocks?"ready":""}"><div class="row"><div><div class="tk">${esc(s.ticker)}</div><div class="sm mut">${esc(s.name||"")}</div></div>
+  <div style="text-align:right"><span class="tag ${s.status}">${s.status==="STRONG_BUY"?"STRONG BUY":s.status}</span><div class="sm mut" style="margin-top:4px">рейтинг <b style="color:var(--tx)">${z.rank??s.composite}</b></div></div></div>
+  ${chart(s)}${plan}
+  <div class="rings">${ring("Signal",z.signal??0)}${ring("Halal",z.halal??0)}${ring("Mom.",z.momentum??0)}${ring("Entry",z.entry??0)}${ring("Catal.",z.catalyst??0)}${ring("Risk",z.risk??0)}</div>
+  ${rk}<div class="sm mut">RSI ${i.rsi} · ATR ${i.atr_pct}% · RelVol ${i.rel_volume} · Нақ. ${t.acc?.score}/100 · <span class="tag halal" style="padding:1px 8px">${esc(h.status)}</span></div>
+  ${(s.gates_failed||[]).length?`<div class="gate">⛔ ${esc(s.gates_failed.join(" · "))}</div>`:""}
+  <details><summary>Фундамент және жаңалық</summary>${f}${n}</details></div>`;
+}
+function render(){
+  const m=D.meta||{},S=D.signals||[];const age=m.generated_at?(Date.now()-new Date(m.generated_at))/36e5:null;
+  $("#upd").textContent=m.generated_at?`жаңарған: ${new Date(m.generated_at).toLocaleString()} · ${m.provider?.provider||"?"}`:"деректер жоқ — scan іске қосыңыз";
+  $("#upd").className="pill "+(age===null?"bad":age<30?"ok":"bad");
+  const c=(...k)=>S.filter(x=>k.includes(x.status)).length,rd=S.filter(x=>x.only_halal_blocks).length;
+  $("#h1").textContent=c("BUY","STRONG_BUY")?`${c("BUY","STRONG_BUY")} расталған BUY сигнал`:rd?`${rd} сетап дайын — халялды растау керек`:"Бүгін расталған сигнал жоқ";
+  $("#h2").textContent=c("BUY","STRONG_BUY")||rd?"Кіру жоспары мен көлем төменде. Көлем — тәуекел шегіне сай есептелген.":"Бұл қалыпты: жүйе белсенділік үшін BUY жасамайды. Жақсы сетапты күтеміз.";
+  $("#kpis").innerHTML=[["BUY",c("BUY","STRONG_BUY")],["Халяль күтуде",rd],["WAIT",c("WAIT")],["WATCHLIST",c("WATCHLIST")],["Талданды",m.deep??0],["USD/KZT",m.fx?Math.round(m.fx.usdkzt):"—"]].map(([a,b])=>`<div class="kpi"><span class="mut sm">${a}</span><b>${b}</b></div>`).join("");
+  const q=$("#q").value.toUpperCase(),st=$("#st").value,so=$("#sort").value;
+  let L=S.filter(s=>(!q||s.ticker.includes(q))&&(!st||s.status===st||(st==="BUY"&&s.status==="STRONG_BUY")));
+  L=[...L].sort((a,b)=>so==="rank"?0:(b.six?.[so]||0)-(a.six?.[so]||0));
+  $("#grid").innerHTML=L.map(card).join("")||'<div class="empty" style="grid-column:1/-1">Нәтиже жоқ</div>';
+  $("#gready").innerHTML=S.filter(s=>s.only_halal_blocks).map(card).join("")||'<div class="empty" style="grid-column:1/-1">Қазір халяльмен ғана бөгелген сетап жоқ</div>';
+}
+function perf(){
+  if(!P){$("#pt").textContent="Нәтижелер әлі жоқ: алғашқы сигналдардан кейін жиналады.";return}
+  const k=P.summary||{},f=x=>x==null?"—":x;
+  $("#pk").innerHTML=[["live","Нақты BUY"],["pending_halal","Халяль күткен («болар еді»)"]].map(([a,l])=>`<div class="kpi"><span class="mut sm">${l}</span><b>${k[a]?.closed||0}<small class="mut sm"> жабылды / ${k[a]?.open||0} ашық</small></b><div class="sm mut">win rate ${k[a]?.win_rate==null?"—":Math.round(k[a].win_rate*100)+"%"} · avg R ${f(k[a]?.avg_R)} · Σ ${f(k[a]?.total_R)}R</div></div>`).join("");
+  $("#pt").innerHTML=`<table><tr><th>Күні</th><th>Тикер</th><th>Түрі</th><th>Вход</th><th>SL</th><th>TP1</th><th>Күй</th><th>R</th></tr>${(P.rows||[]).slice().reverse().map(r=>`<tr><td>${esc(r.date)}</td><td><b>${esc(r.ticker)}</b></td><td>${r.kind==="live"?"BUY":"халяль күтті"}</td><td>${r.entry}</td><td>${r.sl}</td><td>${r.tp1}</td><td>${esc(r.state)}</td><td style="color:${(r.mtm_r||0)>=0?"var(--g)":"var(--r)"}">${r.mtm_r??"—"}</td></tr>`).join("")||'<tr><td colspan=8 class="mut">Әзірге жазба жоқ</td></tr>'}</table>`;
+}
+["q","st","sort"].forEach(i=>$("#"+i).addEventListener("input",render));load();
+</script>
+</body>
+</html>

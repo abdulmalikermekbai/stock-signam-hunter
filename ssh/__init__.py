@@ -1,0 +1,1 @@
+"""Stock Signal Hunter AI."""

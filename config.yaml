@@ -1,0 +1,60 @@
+# Все параметры системы. Меняйте здесь, не в коде.
+local_timezone: Asia/Almaty
+language: ru
+
+capital_kzt: 250000
+monthly_topup_kzt: 100000
+fx_fallback_usdkzt: 500        # используется ТОЛЬКО если не удалось получить курс KZT=X
+
+risk:
+  risk_pct: 0.0075             # риск на сделку (0.75% капитала)
+  max_position_pct: 0.35       # макс. доля капитала в одной позиции
+  min_rr: 2.0                  # RR до TP1
+  slippage_bps: 10
+  max_stop_atr: 2.0            # стоп не дальше 2 ATR (правило из чек-листа 1-2 ATR)
+  earnings_blackout_days: 7
+
+# Тарифы НЕ выдуманы: заполните из тарифов брокера и укажите дату актуальности.
+brokers:
+  freedom_broker: {commission_pct: null, min_fee_usd: null, fx_spread_pct: null, as_of: null}
+  paydax:         {commission_pct: null, min_fee_usd: null, fx_spread_pct: null, as_of: null}
+
+technical:
+  level_tol: 0.015
+  min_atr_pct: 1.0             # ATR% от цены (Weekly strategy: >1-2%)
+  min_avg_volume: 1000000
+
+fundamentals:                  # чек-лист из PDF; N/A не засчитывается как пройденный
+  pe_min: 5
+  pb_min: 1
+  roe_min: 0.10
+  roa_min: 0.05
+  de_max: 1.0
+  current_ratio_min: 1.5
+  quick_ratio_min: 1.0
+  min_pass_ratio: 0.70
+  min_available: 5
+
+halal:
+  validity_days: 90
+  max_debt_to_mcap: 0.30       # AAOIFI-подход (аппроксимация: текущая капитализация)
+  max_cash_to_mcap: 0.30
+  prohibited_keywords: [alcohol, wineries, distillers, tobacco, gambling, casinos, banks, insurance,
+                        credit services, mortgage, capital markets, asset management, brokerage,
+                        adult, pork, weapons, defense]
+  # Подтверждённые вручную (Musaffa/Zoya/10-K): {TICKER: "YYYY-MM-DD"}. Пусто = BUY невозможен.
+  confirmed: {}
+
+weights: {technical: 0.45, fundamental: 0.25, news: 0.15, accumulation: 0.15}
+thresholds: {buy: 75, strong_buy: 85, watchlist_accumulation: 60}
+
+universe:
+  tickers: [AAPL, MSFT, NVDA, AMD, AVGO, TSM, ASML, ADBE, CRM, ORCL, NOW, PANW, CRWD, SNPS,
+            ISRG, TMO, ABT, DHR, REGN, VRTX, LLY, NKE, COST, HD, LOW, TXN, QCOM, MU, AMAT,
+            LRCX, KLAC, INTU, ANET, SHOP, DDOG, NET, ZS, ENPH, KSPI]
+  max_deep_candidates: 25
+
+news:
+  hype_words: [explosive, guaranteed, "1000%", skyrocket, "next big", "to the moon", "once in a lifetime",
+               "get in now", "secret", "massive upside"]
+  max_age_days: 7
