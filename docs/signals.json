@@ -1,0 +1,7096 @@
+{
+ "signals": [
+  {
+   "ticker": "ISRG",
+   "name": "Intuitive Surgical, Inc.",
+   "generated_at": "2026-11-12T05:34:17.929473+00:00",
+   "composite": 76.5,
+   "scores": {
+    "technical": 93,
+    "fundamental": 90,
+    "news": 50,
+    "accumulation": 31
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 449.53,
+     "atr": 15.034,
+     "atr_pct": 3.34,
+     "ema20": 444.23,
+     "ema50": 424.64,
+     "ema200": 432.65,
+     "vwap20": 445.88,
+     "rsi": 54.8,
+     "rel_volume": 0.62,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 2799535,
+     "last_bar": "2026-11-11",
+     "spark": [
+      415.1,
+      411.55,
+      406.78,
+      407.12,
+      379.5,
+      388.97,
+      402.33,
+      345.42,
+      353.17,
+      350.06,
+      340.69,
+      332.02,
+      337.5,
+      356.83,
+      361.8,
+      353.1,
+      352.97,
+      353.33,
+      375.41,
+      368.27,
+      375.2,
+      373.71,
+      378.81,
+      393.38,
+      401.23,
+      401.27,
+      401.27,
+      394.51,
+      390.33,
+      391.18,
+      397.72,
+      374.48,
+      378.81,
+      373.57,
+      371.84,
+      370.42,
+      367.07,
+      372.6,
+      376.86,
+      369.25,
+      371.88,
+      369.83,
+      366.7,
+      350.16,
+      353.24,
+      360.46,
+      369.15,
+      377.94,
+      377.16,
+      382.29,
+      383.54,
+      393.33,
+      401.65,
+      402.09,
+      398.3,
+      399.52,
+      405.18,
+      414.79,
+      412.18,
+      406.63,
+      401.24,
+      391.95,
+      406.48,
+      404.76,
+      414.52,
+      415.41,
+      423.96,
+      427.64,
+      422.06,
+      420.24,
+      427.86,
+      426.7,
+      433.18,
+      438.0,
+      428.12,
+      443.85,
+      452.29,
+      451.63,
+      445.88,
+      444.18,
+      448.76,
+      432.01,
+      436.87,
+      440.75,
+      482.1,
+      468.52,
+      452.8,
+      460.56,
+      450.04,
+      449.53
+     ],
+     "ret63": 0.1203,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 25.6,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 31,
+     "flat": false,
+     "vol_ratio": 1.23,
+     "low_touches": 1,
+     "range_pct": 34.4,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-02",
+      "pct": 1.8,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-04",
+      "pct": 4.14,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -2.46,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "bear_trap",
+     "bias": "bullish"
+    },
+    "levels": [
+     {
+      "price": 397.73,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 417.12,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 431.02,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 448.17,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 458.44,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 488.5,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 515.26,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 448.17,
+     "touches": 4,
+     "mirror": true,
+     "entry": 449.53,
+     "entry_zone": [
+      448.17,
+      455.69
+     ],
+     "sl": 433.14,
+     "sl_atr": 1.09,
+     "tps": [
+      458.44,
+      488.5,
+      515.26
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 0.54,
+     "rr_tp2": 2.38,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 93,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 90,
+    "available": 10,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.217,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.236,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 54.4225,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 9.7463,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.1793,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1185,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": "N/A",
+      "ok": null
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 3.327,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 2.316,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 3434800128.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 2399681.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "medical instruments & supplies healthcare",
+     "debt_to_mcap": 0.0,
+     "cash_to_mcap": 0.026,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "ISRG",
+     "title": "ISRG Stock Quote Price and Forecast - CNN",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "cnn.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zSURLcjFNX1pSclFQbjNRRVZHbnV6bXpFQmtwWHBmUXJKX2c3aFMxOS1Ob3hJNHZIS3ZlOFpZVEhQdG5mdERGVWVDVnM5REcz?oc=5"
+     ],
+     "published": "2026-11-09T18:54:39+00:00",
+     "latency_min": 3519.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Is Intuitive Surgical (ISRG) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnpLTmE0dklyYmp0MGJRU2hzQmQ2T2luWnppTmJFWl9rSWhXS3djTWNyS29RUTlpYXpXemF0SkdHUGZNOEp3ZXRiTnBlSHl3Nnp0Z01EcWhuekZ1OW0xX0hpdVpIS29PaHc5cG5VTDhLcHQ0d2RYU3ZYd3IzYnJfQ05ac3hlM0pudHY5QlZIU1haUHlYU0ZwWDBvSUk5eF9vckFn?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-solid-growth-164502240.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T16:45:02+00:00",
+     "latency_min": 769.2,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Intuitive Surgical Inc Stock (ISRG) Moved Down by 3.35% on Nov 10: Drivers Behind the Movement - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXdvN1pkV0dSakVkc2ZWekJ3WUVjUXJEZGV3TkpyWWl1dEViMW5GZl9EN1NJY2l4TVU3aEJoa00tWUtoMXRrSzBYY1MxQ3ZhOV9ZOWJPN2l5WDd0QUIwRGRiNm0xd0Uyd1l5S0FuUjBLbzF5RWd3bDNkWEh3RnVjWFB5WW9ZUENxbVRV?oc=5",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzRMWnpSQVd0eDlIbnROTzZUekFNN2U3QjRVMEphdTZYM1hVY0JNOEdDem1BUm1CRC1oU0NoNDB2eWJwd2hBTEgtemktYTU3TE8zVU9XWDZXUWc5aDlSU2dMSGo5dlc5Smd2XzBubmFLMFFuZVB4Ml9JbWljbWtsWTBVSHRZUnJmOUdN?oc=5"
+     ],
+     "published": "2026-11-10T16:15:27+00:00",
+     "latency_min": 2238.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Intuitive Surgical Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketwatch.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlZBOTF1WE04WUhQQzdaUEZzYzFIbXlVeWs1S2hrSXB4cGh2Nzc2SjhBQU5INlNqR3Q2OTA0Nmh3cDlEdG9BWTFDVGlaa3IzWGRDbTNjbk9jWG5WaWhENXhCVzhodnZmQ0g4SHNpRzg4TFd3VG82RmdwYjhFOTUweUszV1hLeUJZTDU1RS1GdWpVS1ltYmpZZW1mM0dsY1NpUFE3ZmpyS0FlOUFWTjVaMTJNYmZlZG16QzhJbS1TOFZBenJsQ3pYQ0VyX0xQT1l3SVpCVXd3?oc=5"
+     ],
+     "published": "2026-11-10T21:36:00+00:00",
+     "latency_min": 1918.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Intuitive Surgical (ISRG) Just Grew Revenue 22%. Why Is the Stock Still Down This Year? - The Motley Fool",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "fool.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0VjZkZMUjNBQ0J4cUNTQ3hnREhVcWVOa3lqdzF5NUx3a1Q4ZTB2cU4teHI3Q044Q3JhOG1pTmRWLWdkcHVNQ0hYNWV4eFlVMUNZYXI1aGkxVXRxdHZTZ3pHVDBjTzhzbXZxNzVBZXBfbU02emVhaXNyczZBR1ItS21sdTZ2a05rMmFEOVBDU2thbVhScDNpbw?oc=5",
+      "https://www.fool.com/investing/2026/11/09/intuitive-surgical-isrg-just-grew-revenue-22-why-i/?.tsrc=rss"
+     ],
+     "published": "2026-11-09T15:15:00+00:00",
+     "latency_min": 3739.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-01-21",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.54 < 2.0",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 448.17 (4 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 76,
+    "halal": 55,
+    "momentum": 66,
+    "entry": 80,
+    "catalyst": 30,
+    "risk": 98,
+    "rank": 73.1
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals Incorpor",
+   "generated_at": "2026-11-12T05:34:21.479705+00:00",
+   "composite": 80.2,
+   "scores": {
+    "technical": 87,
+    "fundamental": 91,
+    "news": 50,
+    "accumulation": 72
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 547.03,
+     "atr": 16.584,
+     "atr_pct": 3.03,
+     "ema20": 535.52,
+     "ema50": 524.44,
+     "ema200": 491.05,
+     "vwap20": 534.91,
+     "rsi": 57.3,
+     "rel_volume": 0.64,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 1644175,
+     "last_bar": "2026-11-11",
+     "spark": [
+      498.43,
+      496.5,
+      485.39,
+      480.25,
+      476.31,
+      477.08,
+      486.03,
+      485.65,
+      480.5,
+      482.0,
+      472.57,
+      473.09,
+      477.36,
+      479.0,
+      490.39,
+      483.33,
+      481.7,
+      477.1,
+      470.72,
+      478.71,
+      484.83,
+      484.03,
+      496.07,
+      523.91,
+      529.65,
+      525.73,
+      516.44,
+      505.75,
+      515.55,
+      528.19,
+      552.06,
+      540.26,
+      548.05,
+      547.59,
+      552.85,
+      547.29,
+      547.55,
+      541.69,
+      544.52,
+      547.65,
+      556.75,
+      557.96,
+      546.12,
+      528.9,
+      521.12,
+      514.56,
+      515.44,
+      519.51,
+      514.63,
+      513.26,
+      516.34,
+      508.34,
+      510.72,
+      514.99,
+      516.34,
+      522.38,
+      526.19,
+      527.67,
+      526.73,
+      522.81,
+      506.74,
+      504.73,
+      503.5,
+      502.31,
+      505.64,
+      503.25,
+      510.08,
+      507.0,
+      485.22,
+      498.5,
+      508.75,
+      499.74,
+      501.95,
+      514.65,
+      524.52,
+      535.17,
+      523.93,
+      517.49,
+      521.03,
+      529.69,
+      540.0,
+      558.88,
+      553.15,
+      530.76,
+      549.04,
+      542.5,
+      547.09,
+      550.87,
+      547.89,
+      547.03
+     ],
+     "ret63": 0.0592,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 3.8,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 72,
+     "flat": true,
+     "vol_ratio": 1.15,
+     "low_touches": 2,
+     "range_pct": 16.1,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": 1.99,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -2.02,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 1.63,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 426.26,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 449.83,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 465.68,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 485.53,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 498.54,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 531.78,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 557.97,
+      "touches": 2,
+      "mirror": false
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 531.78,
+     "touches": 2,
+     "mirror": true,
+     "entry": 547.03,
+     "entry_zone": [
+      531.78,
+      540.07
+     ],
+     "sl": 515.2,
+     "sl_atr": 1.92,
+     "tps": [
+      557.97,
+      642.53,
+      674.37
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 0.34,
+     "rr_tp2": 3.0,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 87,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 91,
+    "available": 11,
+    "passed": 10,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.118,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.39,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 35.2014,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 6.6332,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.208,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1062,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.3099,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 2.337,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.723,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 2337787392.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 1242201.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "biotechnology healthcare",
+     "debt_to_mcap": 0.047,
+     "cash_to_mcap": 0.045,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "VRTX",
+     "title": "What Will Decide Vertex Stock Over The Next Six Months? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnVWQ0NDLUY4cTBaRHRQekZxSEJUTGM3bktQYWNKLUJvanRYVl9yWGtWakpsSDZiXzVWZTdTZExNLU9NckNmMmsxS2pydW5tU0NNNmlKbS1CbFNZWjFnWkVyWWdWU01TUjJzQ1E0OGFVTXhpYnB4ajVReHQ3THVnTElxTWJiZ3QwY1BhSDFBWDdLSFA1Z2drMldFS3ZEM1dOdlp4Z3ptSnJiWVNFTS01elNJdFM1dw?oc=5",
+      "https://www.trefis.com/stock/vrtx/articles/624402/what-will-decide-vertex-stock-over-the-next-six-months/2026-11-11?.tsrc=rss"
+     ],
+     "published": "2026-11-11T15:38:33+00:00",
+     "latency_min": 835.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "Therapeutics stocks Q3 results: benchmarking Vertex Pharmaceuticals (NASDAQ:VRTX) - TradingView",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingview.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGl0WVFXX29KeXRsVElkNTRRd0ZqLVB6TERzaVRWOFhRSUNpRWl0VDN0b21GNEZzdjlfRjcwdE1JQUJoc1ROV2diVDEwSTJxNmtFYTEyenpQXzdCdDdVX3I4Y0VLZjRDRnNKd2xxRmFEYXNUS2FCdktIZXNQYkdGczBEZEdXYnRUcEJvN0RTNEpTZUVTdW1WNklVUURMeVBUTm5qS29xQlZFOVRTTzRvSG81SW1mOEFrbmdvN2JpLS1kTUhENkR0OGtQcV9wZmxRNWZMeFpn?oc=5"
+     ],
+     "published": "2026-11-11T14:34:44+00:00",
+     "latency_min": 899.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "Vertex (VRTX) Stock May Be 35% Undervalued Despite New ALYFTREK Data - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUhGcExoU1FjUzYwTzMwcUNfTm8xcXJBR1BIQkh4ZWxBenR0OHZONFZyOXQyak9hazdsRlZVODRWemxPcVUybXJvNWFLc1NhS2xlUmhOV1JrUE5rWW9ZSktPa3lQNkJFWFI5OFZpQWNPc0NSdVhHdjhBd2JYN29JMm5UNFFpWHB3aUg3OEt0Y2gtWW8?oc=5"
+     ],
+     "published": "2026-10-17T07:00:00+00:00",
+     "latency_min": 37354.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "Vertex Pharmaceuticals (VRTX) Stock Rises 0.69% (November 9, 2026): Golden Cross Formed - JournalArta",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "journalarta.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0FPaTlSVF81V2pCYUd4cTJGajR2YmJtUy1WaERGR2dscjMyN09zQUg1NHd1T2w5TnNmamdsX3dXN3lGUDBJdU5xVlE1djFidHhzYy1fXzdyX292MlAwV3owYUhHWG5HOUxhVTlGcV8xWHRWci1Icl9kYnFTdFduSmJVdjJaRXNtWWxLTTJXa1k5VHlOSjRfV2FERVlyRXE5djIyN2VWTWtVVFhac1k1RnhuZU9kdlcwYTY0?oc=5"
+     ],
+     "published": "2026-11-10T10:35:55+00:00",
+     "latency_min": 2578.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "Vertex Pharmaceuticals (VRTX) Stock May Still Have Value Following A 190% Run - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmNwc0xocS0xbmFjdVY5SkdrX1lqejg3WkZpTzJLNEFtanRVdm4zYVdCRktFYUlYb0syRng3SGFsZ0RZU2llcFllR28zU0Rzb01KTGVfVUhwV29qQTdySmpXOXljYUFBMVEwaHIyOWExb0pJN1ViUFZyajdrRF81bzJEeVNaay1FZHExTE9GLU9yU2ZRYm1hX1Q2Slh4cm8zLUE1Nw?oc=5"
+     ],
+     "published": "2026-10-31T07:00:00+00:00",
+     "latency_min": 17194.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-11-02",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.34 < 2.0",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 531.78 (2 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 80,
+    "halal": 50,
+    "momentum": 75,
+    "entry": 70,
+    "catalyst": 30,
+    "risk": 85,
+    "rank": 72.2
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "ABT",
+   "name": "Abbott Laboratories",
+   "generated_at": "2026-11-12T05:34:20.463919+00:00",
+   "composite": 71.7,
+   "scores": {
+    "technical": 87,
+    "fundamental": 55,
+    "news": 50,
+    "accumulation": 75
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 109.29,
+     "atr": 2.932,
+     "atr_pct": 2.68,
+     "ema20": 107.34,
+     "ema50": 104.94,
+     "ema200": 104.42,
+     "vwap20": 106.29,
+     "rsi": 56.6,
+     "rel_volume": 0.93,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 9697400,
+     "last_bar": "2026-11-11",
+     "spark": [
+      93.93,
+      93.16,
+      92.69,
+      90.9,
+      87.79,
+      88.72,
+      98.23,
+      100.06,
+      101.04,
+      99.06,
+      99.95,
+      100.13,
+      102.43,
+      103.85,
+      106.61,
+      107.34,
+      104.96,
+      105.05,
+      106.46,
+      104.81,
+      105.06,
+      107.3,
+      107.15,
+      107.96,
+      109.05,
+      110.23,
+      110.59,
+      110.57,
+      109.69,
+      111.99,
+      113.73,
+      113.44,
+      115.93,
+      115.96,
+      115.42,
+      113.4,
+      110.91,
+      111.78,
+      109.68,
+      108.26,
+      109.79,
+      108.12,
+      107.67,
+      104.87,
+      104.59,
+      102.73,
+      101.33,
+      102.46,
+      101.41,
+      101.73,
+      101.6,
+      101.98,
+      102.35,
+      103.06,
+      102.86,
+      100.45,
+      100.67,
+      100.36,
+      100.33,
+      98.23,
+      96.1,
+      96.9,
+      99.49,
+      97.56,
+      98.13,
+      97.89,
+      98.99,
+      101.2,
+      101.98,
+      102.34,
+      104.68,
+      104.89,
+      104.06,
+      102.45,
+      100.51,
+      102.51,
+      103.7,
+      104.88,
+      103.1,
+      102.64,
+      104.57,
+      106.2,
+      110.16,
+      109.4,
+      115.51,
+      113.6,
+      109.93,
+      110.51,
+      110.46,
+      109.29
+     ],
+     "ret63": -0.0117,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 15.2,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 75,
+     "flat": true,
+     "vol_ratio": 0.88,
+     "low_touches": 2,
+     "range_pct": 21.5,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": 1.51,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-04",
+      "pct": 2.97,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -2.22,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "bear_trap",
+     "bias": "bullish"
+    },
+    "levels": [
+     {
+      "price": 86.51,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 97.26,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 99.32,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 102.99,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 109.2,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 117.2,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 119.33,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 126.51,
+      "touches": 3,
+      "mirror": false
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 109.2,
+     "touches": 2,
+     "mirror": true,
+     "entry": 109.29,
+     "entry_zone": [
+      109.2,
+      110.67
+     ],
+     "sl": 106.27,
+     "sl_atr": 1.03,
+     "tps": [
+      117.2,
+      119.33,
+      126.51
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 2.62,
+     "rr_tp2": 3.32,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 87,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 55,
+    "available": 11,
+    "passed": 6,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.145,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.436,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 40.7799,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 3.7095,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.0914,
+      "ok": false
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.049,
+      "ok": false
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.609,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.455,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.825,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 6066999808.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 8887195.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": false,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "medical devices healthcare",
+     "debt_to_mcap": 0.166,
+     "cash_to_mcap": 0.023,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "ABT",
+     "title": "Is Trending Stock Abbott Laboratories (ABT) a Buy Now? - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUtCbGpYY1hoWEtlMFI1MUJ3LURITXF6Wms4UzlfVUVvbE91S0YzRXdFaGg3UjRESzRBY18zQV9KZjRmMUFkMlh1TnlXaVJJX2JmTVQyRTdWTWpoLXAteURxbXlBV3NuS0RBNWF4WU5WWks0aUFkeVMxR01nMnN5VFV0b1ZDc3l1SjQ0YmYzSlBWNlVJV0NZMTRMc0hiOFVFajFrS2dB?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/trending-stock-abbott-laboratories-abt-202143682.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T20:21:43+00:00",
+     "latency_min": 552.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories stock underperforms Friday when compared to competitors - MarketWatch",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketwatch.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW9EUkVhT21fM1FJTHJyODdEb2NkaWtmbDEtTlBuXzR6emE5dDhoczJhNEpiYzhKZTB4SGFxMkRRblF3a1hOcUI5UzFmenJaanhxWXk5QzI3S3I2TlJNN0VNY0xiUTl3YTNqMjRLTVdZNjY5Ry1udVBoa0tBT3VzLUhNMTRBRzZYb0pqbGxfeklHZlJNbHg3bkR1Qnd3UDJrdDI0Z3VITFRHZlhzYzQ2bnhWODFmT3RkRjYtUmVPYUlzajdDZDQ5SFdLMjFMamlV?oc=5"
+     ],
+     "published": "2026-11-06T21:34:00+00:00",
+     "latency_min": 7680.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories (ABT) Stock: $109.93, Down 3.23% Nov 6 - JournalArta",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "journalarta.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamN5ZGpmOGpyeDl3LWhNV1ZhelZwc2lvcnZVMFBReS1YYkNkUVVBUUpscE9DRE9iN2tPRXFTWmQ0WWNUYXljWUpjUW96SERtb21yV00yRHQwWEtkRjVtaXhWTTFDbmR1d2Y1QV9LQy1CMXB6UG9vNDJ6SmJHMFBOZ0NPbzJDVWRXenU0cWtLY0ZQTW9SZDllU1R3Z29Ib1JkS0p4TUxhSmkzYTJvOXY4bHBlYXJOOU9tVi1SSg?oc=5"
+     ],
+     "published": "2026-11-09T11:23:00+00:00",
+     "latency_min": 3971.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories Stock (ABT) Closed Down by 3.23% on Nov 6: What Investors Need To Know - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlRKeXk4NS05ZXNHVGVMZVdLNW53NGVUcVFqdEZoUU9BaFVFamNRSDNaR0F5ZXEzS0ktQjMzQ0R1X2ppUDdVSUhQYnNkNi1UeHdDeW5IcC10blh4ekJuclFGSHVTN1hET3Itam5Hc2xvdmtJQ0tTSnVOTDZlVEtWMm9zekR0NFBmSkE?oc=5"
+     ],
+     "published": "2026-11-06T21:16:09+00:00",
+     "latency_min": 7698.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott (ABT) Stock Could Be 24% Overvalued After Heart Failure News - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUxqb240M2o4VW9mWTlIZ2czWktrOEhVa0REOHlLY1RYMXEzZ0tzd3gtb3dPbVRsUml5a0NyMzc4OWVfZXYzNnpZLVNEUG5HV2I1djNPcHpPenBCLWNvQzJ4TFM2dnNkeWp3TENUVWlPcDVRS3ZZUDQyckVjS2tJUTlqWWxfWDRiLVJhRW9rc2xkcVpa?oc=5"
+     ],
+     "published": "2026-10-10T07:00:00+00:00",
+     "latency_min": 47434.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-01-28",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "не пройден фундаментальный чек-лист / мало данных"
+   ],
+   "reasons": [
+    "ретест уровня 109.2 (2 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 1,
+    "notional_usd": 109.29,
+    "notional_kzt": 48776,
+    "risk_usd": 3.02,
+    "risk_kzt": 1348,
+    "slippage_usd": 0.22,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 72,
+    "halal": 27,
+    "momentum": 76,
+    "entry": 76,
+    "catalyst": 30,
+    "risk": 89,
+    "rank": 71.1
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft Corporation",
+   "generated_at": "2026-11-12T05:34:27.253848+00:00",
+   "composite": 73.9,
+   "scores": {
+    "technical": 72,
+    "fundamental": 91,
+    "news": 50,
+    "accumulation": 75
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 521.13,
+     "atr": 15.861,
+     "atr_pct": 3.04,
+     "ema20": 529.36,
+     "ema50": 515.37,
+     "ema200": 468.47,
+     "vwap20": 531.88,
+     "rsi": 47.7,
+     "rel_volume": 1.11,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 26443635,
+     "last_bar": "2026-11-11",
+     "spark": [
+      382.62,
+      383.64,
+      384.38,
+      390.26,
+      384.21,
+      394.89,
+      400.35,
+      393.08,
+      401.53,
+      397.0,
+      389.61,
+      380.86,
+      380.98,
+      388.37,
+      392.61,
+      389.81,
+      450.25,
+      463.85,
+      486.73,
+      491.88,
+      486.54,
+      498.92,
+      499.05,
+      505.11,
+      502.86,
+      491.5,
+      495.95,
+      494.47,
+      479.45,
+      480.73,
+      483.4,
+      481.15,
+      483.24,
+      487.31,
+      491.71,
+      496.37,
+      505.06,
+      513.53,
+      507.29,
+      501.02,
+      496.82,
+      510.12,
+      499.7,
+      493.95,
+      491.65,
+      492.44,
+      495.63,
+      505.41,
+      497.12,
+      490.3,
+      497.75,
+      493.78,
+      501.61,
+      498.0,
+      500.59,
+      497.93,
+      516.17,
+      509.22,
+      508.96,
+      512.9,
+      512.8,
+      517.53,
+      525.18,
+      529.3,
+      529.76,
+      522.61,
+      535.07,
+      541.15,
+      543.45,
+      533.69,
+      539.44,
+      529.05,
+      533.52,
+      531.87,
+      532.95,
+      521.08,
+      524.51,
+      532.6,
+      531.33,
+      531.01,
+      530.14,
+      521.91,
+      507.12,
+      520.99,
+      555.8,
+      535.93,
+      530.61,
+      545.18,
+      533.16,
+      521.13
+     ],
+     "ret63": 0.0508,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 6.8,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 75,
+     "flat": true,
+     "vol_ratio": 0.97,
+     "low_touches": 3,
+     "range_pct": 15.7,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-04",
+      "pct": 4.36,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -1.91,
+      "direction": "down",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 2.62,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 395.08,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 408.47,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 423.63,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 432.94,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 465.46,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 478.47,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 487.38,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 515.27,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 555.15,
+      "touches": 2,
+      "mirror": false
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 515.27,
+     "touches": 2,
+     "mirror": true,
+     "entry": 521.13,
+     "entry_zone": [
+      515.27,
+      523.2
+     ],
+     "sl": 499.41,
+     "sl_atr": 1.37,
+     "tps": [
+      555.15,
+      586.29,
+      608.01
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 1.57,
+     "rr_tp2": 3.0,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 72,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": false,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 91,
+    "available": 11,
+    "passed": 10,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.188,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.323,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 27.823,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 8.226,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.3422,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1441,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.2847,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.225,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.068,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 2994125056.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 23129720.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "software - infrastructure technology",
+     "debt_to_mcap": 0.035,
+     "cash_to_mcap": 0.017,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "MSFT",
+     "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "reuters.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5"
+     ],
+     "published": "2026-11-12T02:03:25+00:00",
+     "latency_min": 211.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "Microsoft Corporation (MSFT) stock price, news, quote and history - Yahoo Finance Singapore",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "sg.finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiNU1JZVotUjB3Um5rQmItVmlTbjFFa19vcWdDMlNPVUx4V1R2dGc1NXZiZmdFMEE0enNtYW4tclROdEJYUkZVT2J4MkVJa1VKQ3c?oc=5"
+     ],
+     "published": "2026-11-10T17:16:18+00:00",
+     "latency_min": 2178.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "Microsoft Beats Nvidia for the First Time Since 2025: So Why Is MSFT Stock Falling? - BeInCrypto",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "beincrypto.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
+     ],
+     "published": "2026-11-11T22:38:37+00:00",
+     "latency_min": 415.8,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
+     ],
+     "published": "2026-11-11T17:30:12+00:00",
+     "latency_min": 724.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Workplace Competition Intensify - FXLeaders",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "fxleaders.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmRmblVraFZUY3FENjZyMWxMN2NRVVowQW12VGtOVGMwSTRGZDdyQnNlV1FRVXFIb2w0N0tIdzVDNGs4cllUdW1ibmpMSTFmdXA1NHVHZm5jWFdYWm1NcEtHc3hKbVFlMHhnWC1TcTl2OUVDeUI1OXR1M0NZR1drRFdMVThDS0ROOXpmSVpxLXkzNjVDRVl3TzhvRk44SUZGQzZrY0U3RDZGM0tXdGM0ZEsyeV9FRUJmNGlfUmZWU2tUT0J1SlkzdzBtZ2tISG9JT3Y2X2JpNlVSNVYyNGc4?oc=5"
+     ],
+     "published": "2026-11-12T04:02:09+00:00",
+     "latency_min": 92.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-01-27",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 1.57 < 2.0",
+    "цена не выше VWAP/EMA50 либо EMA50 не растёт",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 515.27 (2 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 74,
+    "halal": 53,
+    "momentum": 81,
+    "entry": 60,
+    "catalyst": 30,
+    "risk": 98,
+    "rank": 69.5
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "INTU",
+   "name": "Intuit Inc.",
+   "generated_at": "2026-11-12T05:34:19.032267+00:00",
+   "composite": 72.4,
+   "scores": {
+    "technical": 92,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 20
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 342.64,
+     "atr": 13.41,
+     "atr_pct": 3.91,
+     "ema20": 335.96,
+     "ema50": 325.81,
+     "ema200": 375.44,
+     "vwap20": 339.85,
+     "rsi": 56.1,
+     "rel_volume": 0.85,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 3021600,
+     "last_bar": "2026-11-11",
+     "spark": [
+      269.64,
+      272.11,
+      273.68,
+      288.41,
+      281.12,
+      278.4,
+      293.42,
+      289.74,
+      292.46,
+      288.57,
+      283.15,
+      280.22,
+      294.95,
+      302.5,
+      311.54,
+      331.58,
+      314.04,
+      314.6,
+      316.91,
+      322.1,
+      326.42,
+      320.42,
+      323.74,
+      332.88,
+      334.88,
+      333.16,
+      356.63,
+      344.06,
+      334.04,
+      348.78,
+      360.79,
+      360.19,
+      365.3,
+      368.2,
+      355.8,
+      344.27,
+      346.38,
+      356.4,
+      357.63,
+      343.33,
+      341.35,
+      342.7,
+      331.16,
+      317.45,
+      312.48,
+      311.32,
+      320.08,
+      337.58,
+      327.74,
+      316.65,
+      311.68,
+      301.78,
+      302.71,
+      290.99,
+      285.47,
+      275.84,
+      274.51,
+      268.15,
+      266.79,
+      274.43,
+      281.47,
+      279.78,
+      283.36,
+      288.46,
+      295.86,
+      303.88,
+      302.75,
+      305.99,
+      301.45,
+      310.44,
+      330.17,
+      325.15,
+      325.62,
+      335.29,
+      335.61,
+      354.9,
+      343.39,
+      339.89,
+      328.45,
+      328.19,
+      331.19,
+      341.09,
+      352.1,
+      344.72,
+      356.64,
+      354.84,
+      341.5,
+      338.23,
+      340.44,
+      342.64
+     ],
+     "ret63": -0.0392,
+     "above_ema50": true,
+     "above_ema200": false,
+     "ema50_rising": true,
+     "dist_high_pct": 49.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 20,
+     "flat": false,
+     "vol_ratio": 0.83,
+     "low_touches": 1,
+     "range_pct": 34.0,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": 2.59,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-04",
+      "pct": 2.76,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -2.58,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "bear_trap",
+     "bias": "bullish"
+    },
+    "levels": [
+     {
+      "price": 259.63,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 299.23,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 320.05,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 337.2,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 358.96,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 369.43,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 416.58,
+      "touches": 3,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 337.2,
+     "touches": 2,
+     "mirror": true,
+     "entry": 342.64,
+     "entry_zone": [
+      337.2,
+      343.9
+     ],
+     "sl": 323.79,
+     "sl_atr": 1.41,
+     "tps": [
+      358.96,
+      369.43,
+      416.58
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 0.87,
+     "rr_tp2": 1.42,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 92,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.137,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.014,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 20.6783,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 4.842,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.236,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1047,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.4434,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.507,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.782,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 6353625088.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 3631134.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "software - application technology",
+     "debt_to_mcap": 0.092,
+     "cash_to_mcap": 0.079,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkxsY0ZOSmZIOFd0dlE4UkpUYnkzSnpYU1BjT0xRd09mUE5QaXFOeU5TSDlQUW9CTTN3eWdGaHBHUEcwYlVmSDMzSVlfajd6QWxybVptcHl0TFd3WHZmTnJaR2cxMlVCVmFuWkRTS0pQOVJ5Z1VwMDYwOXBta2NnRGFDalJCM2tSaDJQbXhkQXdiTDlZQzZHLUtkY2E?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-stock-drops-despite-214501607.html?.tsrc=rss"
+     ],
+     "published": "2026-11-06T21:45:01+00:00",
+     "latency_min": 7669.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Why Intuit (INTU) Stock Is Trading Up Today - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWRwU2RVZ254RWs2RnZOWkVMY3NEQkxQS1AwSGVLYUpfSDI0bzlKRE1WWEJsZkl4b0s5N2VFMlVZZmxXSVJ1UnlSNEF3QWFMeU9POUZLN3lGNGxmSm02bDE2TGV6cXZDMjR0RmdzV1A5UU9QTWdXaHdBWVVkT08xdC1lb1c3YVBRd1JRQU1ab19oV2hSTWpkeDFR?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU0yNHpYTkVha1Y2RDNXLUJiNVpfX0VwblAtaEtHQ2xqUE5uWmg5akZrUlk5aFM1UzhWYWk5UzZNelNxbG5yLTBXMjhtVjlBSlBKTHJSM2RQSnlKQ1pwZXpJeFMzMEJBQkVMTW9uVnJ1S0VYSGVQZWRlZl95VFh0Y3hNZC1IVlRTOE1fSHdPeEpNTmprTWVBM0Nn?oc=5"
+     ],
+     "published": "2026-10-15T07:00:00+00:00",
+     "latency_min": 40234.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Stock May Look Reasonable As Investor Day Backs AI Plans - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkhpbEUwUzZ0QWc2S0VrYzROWDFGRzFSSjVpVWxDWTlQNDdZekNjNnBhRE0xV0xxVGR0VGVabkxNNmhzRi1oeG92U25NaDF2M0tIbEFBSEdPZl9Zam5rUWZXR1lWMkFCY01fazBqSC1pbXJoMk1jcU9fWHRkWW9JMHFpV1dlbGVsWVUzMnhmeVJ1RW5wdmc?oc=5"
+     ],
+     "published": "2026-09-26T07:00:00+00:00",
+     "latency_min": 67594.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXk5akpPUEFEc1VzWmtkVF84VVJHVHh1bC16NVhUYk4zU2tlSGhWMlBNVnpRSFUzV0lxS0FWbllETGkyQjlqMFN6aTZfdTNrRTZBd1ZyUWY3al8xd2NjdVdJTEllLXRjZU4zX0hQRjlnZl9KcS1pTDFPVk5JN0FGaEVlYldlMWFGX3VGdi1OdkNOYWloanN3aWhRdVF3QQ?oc=5",
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW0yRkRrOHpqX3ctbDRwN1pRUl96VUdta1hxOENJa2t6bnVabTRHTHNTWURDQUktZzJoT0l6eWY2R1ZrLU9Vd2prcVVRWTBLSTdrZHFMTnJ1TF9RMExXMUQ2c01QNHkyR1UxUDBhVzlSUmtlckMyUnBZVWpLY2JpTmtuQXhsM2RZSFU0a01uUV81b1J6SmdCNmR3eERDdw?oc=5"
+     ],
+     "published": "2026-10-02T07:00:00+00:00",
+     "latency_min": 58954.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit Inc. (INTU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1kdXJKbmR4bXRNZ3MyLXpHREJTcmczcDV5QXhleUpZN1Vob0J1OUF1b0hnd0dER0FndWlYclJoaGVlZzRnemV6VEs0RzNzT0Vkd05rTkFyc0lDeFUwT1JyanVIVTdmZlkxRDZ6bFlHUWJWUnFJbGpmNmVVUGo0Slc1OEpOMDE4RzM4OXEtNUdjekM5eWxzV290SQ?oc=5"
+     ],
+     "published": "2026-10-01T07:00:00+00:00",
+     "latency_min": 60394.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-11-19",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.87 < 2.0",
+    "отчёт 2026-11-19 — gap risk",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 337.2 (2 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 72,
+    "halal": 41,
+    "momentum": 54,
+    "entry": 80,
+    "catalyst": 40,
+    "risk": 46,
+    "rank": 65.5
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "DHR",
+   "name": "Danaher Corporation",
+   "generated_at": "2026-11-12T05:34:22.646154+00:00",
+   "composite": 76.5,
+   "scores": {
+    "technical": 86,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 65
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 235.31,
+     "atr": 6.797,
+     "atr_pct": 2.89,
+     "ema20": 230.37,
+     "ema50": 222.87,
+     "ema200": 208.04,
+     "vwap20": 230.47,
+     "rsi": 57.7,
+     "rel_volume": 0.75,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 4288660,
+     "last_bar": "2026-11-11",
+     "spark": [
+      190.43,
+      195.63,
+      198.7,
+      199.81,
+      198.7,
+      200.43,
+      204.65,
+      203.47,
+      200.75,
+      178.69,
+      178.82,
+      192.16,
+      191.16,
+      196.15,
+      198.7,
+      196.14,
+      195.82,
+      194.64,
+      197.15,
+      194.44,
+      199.31,
+      199.63,
+      204.4,
+      209.0,
+      207.07,
+      205.43,
+      203.53,
+      202.09,
+      202.27,
+      199.23,
+      211.13,
+      215.53,
+      218.46,
+      214.73,
+      215.59,
+      214.98,
+      215.3,
+      215.69,
+      213.18,
+      206.56,
+      209.54,
+      210.66,
+      207.29,
+      204.87,
+      204.49,
+      200.18,
+      199.79,
+      202.89,
+      208.99,
+      207.99,
+      212.12,
+      211.44,
+      215.46,
+      220.7,
+      221.17,
+      223.37,
+      224.09,
+      226.93,
+      225.71,
+      221.55,
+      211.76,
+      214.06,
+      221.21,
+      215.61,
+      218.49,
+      217.46,
+      219.81,
+      221.2,
+      222.84,
+      224.69,
+      231.5,
+      229.04,
+      224.43,
+      224.24,
+      233.86,
+      229.75,
+      230.5,
+      232.97,
+      232.0,
+      234.07,
+      236.98,
+      232.23,
+      227.97,
+      230.11,
+      234.93,
+      226.34,
+      230.25,
+      235.12,
+      236.11,
+      235.31
+     ],
+     "ret63": 0.1561,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 2.5,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 65,
+     "flat": true,
+     "vol_ratio": 1.3,
+     "low_touches": 1,
+     "range_pct": 18.0,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-04",
+      "pct": 2.27,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 187.91,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 199.35,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 208.98,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 219.61,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 227.06,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 230.88,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 239.31,
+      "touches": 3,
+      "mirror": false
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 227.06,
+     "touches": 4,
+     "mirror": true,
+     "entry": 235.31,
+     "entry_zone": [
+      227.06,
+      230.46
+     ],
+     "sl": 220.26,
+     "sl_atr": 2.21,
+     "tps": [
+      239.31,
+      280.45,
+      295.49
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 0.27,
+     "rr_tp2": 3.0,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 86,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.083,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.378,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 39.088,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 3.0868,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.0819,
+      "ok": false
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.0406,
+      "ok": false
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.518,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.634,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.194,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 4746250240.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 4003940.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "diagnostics & research healthcare",
+     "debt_to_mcap": 0.168,
+     "cash_to_mcap": 0.034,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "DHR",
+     "title": "LH vs. DHR: Which Stock Is the Better Value Option? - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGdEaXQ0am9JVDJfUmpJdlpWN1RuQWYtSEItMldtQzZKWk5ZYXhWdkFFTGhScjFac2FqbE5OZHFhQTJ4TnQzMDAxSEFxT0x4ajh2XzF2bnNQdWYzTmp6a3NyTE5UQnVZd3A4RjcxdTZjTDZuUDlEdW5tZExWakFTTnJ4dUQwNW9tR085ZTNpSms?oc=5"
+     ],
+     "published": "2026-10-22T07:00:00+00:00",
+     "latency_min": 30154.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "DHR",
+     "title": "Why Danaher (DHR) Shares Are Trading Lower Today - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzJ2NzRwT0hUNWlTWkU3c0hpT3gxMW5hNVRTSkV0UmJ4TmJDazh5Qmd5YmdHajNvclhhS1hEZnpCMWVMcGxvVzNabzV2UklnbmtsUEJwWnpFVnJpTkdZdmxlWF9uRERFV3c5MFNqLVpRbzVxTFlacDh6cm9aTWJjb2ZWSXNoTGxaWngxQl9uVDNBaWFMU2Q2RnVDUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnJYWGFiRUplbVhLdTM3SjlvclZnX0oyUUVjRzgyMEVoY0tQS0RzY3BuSjcwSEo4UHFmd0JRX0NhUEp6c2h6ZzVIeGRsTU51VHpCb0ZDY2NPN3F0aG0yMHVkNVdrUk92Z0RhdjZRcTNkZFhNaUJyMkVpRnlvTDQtWHdBQjA0Xzc3dXZ0OGZvSFNJWVhHbHJXSmlQRQ?oc=5"
+     ],
+     "published": "2026-10-01T07:00:00+00:00",
+     "latency_min": 60394.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "DHR",
+     "title": "Danaher (DHR) Stock Fair Value Rises After Higher Analyst Targets And Q3 Commentary - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGcwdlJPY2Fpc0VwZ1EzM2VhaXNLeDFNR2JfdjdMS2YtYlZUbF9xS3h2bmNqdThjc3hzUkNRdUZhbzBTZFhkN3Zpc3MwVEdPc3VwSWo2elNmTEstTTdwQnBfck1NVTUydV9QbGhwVEdqMEJQbjU5VjhlQjZGbzd6SF92d01EOHEtdjR1dnkxcWtLQy1SdmVZUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9BejNfTFdRVVNDZDNfRDdpeTdGekh4N3dVLUlrTHJzRjJnNXhlV3FwbHN1eDdCQVo2d0VmcVJNWTV3OFNSbjlPRzhpSmV4aWVzRHJ2bkpEMThFTENKRzF6T3JxV2wxZDdsYjRzWkZncnRnNXdnV1JhaUxpdTlsTzNCWUJKOU5qQmxuWEpkampLMzcwbnh1cw?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/danaher-dhr-stock-fair-value-062023916.html?.tsrc=rss"
+     ],
+     "published": "2026-11-05T06:20:23+00:00",
+     "latency_min": 10034.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "DHR",
+     "title": "Danaher (DHR) Stock Looks Fully Priced Despite Its 18% Three Year Gain - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxONk1mWWsxSGpDbW94Qjk4OGs2a3RoM0lrSDVtb1NVdC1xamtOb0R5cUcxWlFxTmc0U1BmSXZtNmZZMVg2SW5UYjRCZjBORGltYXVrdDBLNHdGcndmbnd6WnBVUDdsWUZHeW9MSjNGVGlCb3ZCQXdDcDNVNVFJQzRRN25oYWhwamM5SThGeS15ZGVqQWF3Q2VNYnNB?oc=5"
+     ],
+     "published": "2026-11-04T13:11:30+00:00",
+     "latency_min": 11062.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "DHR",
+     "title": "Danaher (DHR) Stock Trades Near Fair Value But At An Earnings Premium - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaktNS2toSl9LS0M5eXhYNXZCMF9fOTF2RlVDUU1ZOHJydFpoaUVxT2FHWldxc3FuZjBfeXZONmlQQVFIVjVma05qZXBibi1aVGkwUEJ0LS1DT0htVVRLSWxIeWZaV2t0VGNTTDEzNEtFeGVreV84MEN6b2NUejhMWHhmcThqS3Z0VGlZS2hnd3BXeXhxeGFFOFl3?oc=5"
+     ],
+     "published": "2026-09-03T07:00:00+00:00",
+     "latency_min": 100714.4,
+     "sentiment": "neutral",
+     "high_impact": true
+    }
+   ],
+   "earnings_date": "2027-01-27",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "стоп шире 2.0 ATR",
+    "RR до TP1 = 0.27 < 2.0",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 227.06 (4 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 76,
+    "halal": 26,
+    "momentum": 76,
+    "entry": 50,
+    "catalyst": 30,
+    "risk": 74,
+    "rank": 64.7
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "AAPL",
+   "name": "Apple Inc.",
+   "generated_at": "2026-11-12T05:34:23.843144+00:00",
+   "composite": 73.8,
+   "scores": {
+    "technical": 85,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 50
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 355.63,
+     "atr": 8.656,
+     "atr_pct": 2.43,
+     "ema20": 344.54,
+     "ema50": 337.32,
+     "ema200": 306.26,
+     "vwap20": 344.46,
+     "rsi": 60.4,
+     "rel_volume": 0.69,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 48589450,
+     "last_bar": "2026-11-11",
+     "spark": [
+      313.12,
+      315.95,
+      315.05,
+      317.04,
+      314.59,
+      327.22,
+      332.97,
+      333.45,
+      326.31,
+      327.46,
+      325.61,
+      321.38,
+      332.73,
+      336.62,
+      339.79,
+      337.9,
+      333.14,
+      308.64,
+      303.16,
+      309.11,
+      310.73,
+      312.14,
+      313.06,
+      308.26,
+      304.91,
+      302.25,
+      305.26,
+      305.93,
+      305.59,
+      310.03,
+      316.83,
+      311.3,
+      309.35,
+      310.34,
+      309.9,
+      313.45,
+      314.58,
+      319.7,
+      316.85,
+      325.13,
+      324.96,
+      328.21,
+      319.97,
+      316.22,
+      315.34,
+      326.57,
+      332.27,
+      333.08,
+      331.34,
+      332.41,
+      337.0,
+      336.13,
+      338.98,
+      339.75,
+      337.02,
+      335.92,
+      341.07,
+      338.4,
+      329.4,
+      333.02,
+      330.32,
+      333.69,
+      332.89,
+      333.63,
+      336.67,
+      340.42,
+      336.64,
+      340.97,
+      341.27,
+      342.96,
+      342.0,
+      343.46,
+      342.94,
+      339.5,
+      343.99,
+      348.22,
+      347.73,
+      343.91,
+      347.1,
+      343.83,
+      348.91,
+      344.63,
+      338.32,
+      331.9,
+      349.51,
+      344.17,
+      342.37,
+      350.69,
+      348.51,
+      355.63
+     ],
+     "ret63": 0.165,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 0.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 50,
+     "flat": true,
+     "vol_ratio": 1.0,
+     "low_touches": 1,
+     "range_pct": 14.6,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-04",
+      "pct": 2.91,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-05",
+      "pct": 1.25,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -1.58,
+      "direction": "down",
+      "kind": "breakaway",
+      "filled": true
+     }
+    ],
+    "false_breakout": {
+     "kind": "bear_trap",
+     "bias": "bullish"
+    },
+    "levels": [
+     {
+      "price": 277.15,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 287.48,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 300.82,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 318.83,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 325.57,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 336.7,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 345.92,
+      "touches": 3,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 345.92,
+     "touches": 3,
+     "mirror": true,
+     "entry": 355.63,
+     "entry_zone": [
+      345.92,
+      350.25
+     ],
+     "sl": 337.27,
+     "sl_atr": 2.12,
+     "tps": [
+      392.36,
+      410.72,
+      429.09
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 2.0,
+     "rr_tp2": 3.0,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 85,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.117,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.141,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 38.8242,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 46.1079,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 1.4226,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.2587,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.8429,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.023,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.827,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 105658376192.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 42821860.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "consumer electronics technology",
+     "debt_to_mcap": 0.018,
+     "cash_to_mcap": 0.011,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "AAPL",
+     "title": "Why Did AAPL, XERS, ZETA Stocks Jump To 52-Week Highs Today? - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "stocktwits.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWRUdTlvaUw1Z21GaUpzdnRvTy15NzFsZkJjSUpIYS14anE5N3hBMVN0R2FlU1pDTHhkSGR3TEdoM2RzUGRhREZwRGx0blVyOWF6bUVmekdpMTY4alRveWNzRzBiNHJSak93REcydm5SZEFreEpOUWs0WE1aanVMRWJTc3FOVzZPSVhFblRyaTk?oc=5",
+      "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-xers-zeta-stocks-jump-to-52-week-highs-today/cNGz1aQR99L?.tsrc=rss"
+     ],
+     "published": "2026-11-12T03:49:29+00:00",
+     "latency_min": 104.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AAPL",
+     "title": "What's Going On With Apple Stock Wednesday? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW5ZN2QxY2xIN3lFT1dqRWx3dUxLYVlieklHV2IyVVVnVEJFZkNnWE83Q1JtV1Y3ZUcwWE0tcy13YmRMNmxDa0NmNlNWaDJYSFBJT3Uyd1RhblBSc1Jjenp1UFFZdWNCVTV4TlBBMHFYa2h6N2xGNG9PMm9lU2tpbnA3dk11MVB1MGFXTTZJTUhZMXVQU0RaLV90MEg?oc=5"
+     ],
+     "published": "2026-11-11T17:55:02+00:00",
+     "latency_min": 699.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AAPL",
+     "title": "AAPL, GOOG Stocks Gain Overnight As NVDA Slides: Are Retail Investors Rotating Into Traditional Tech Amid Leadership Turmoil? - TradingView",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "stocktwits.com",
+      "tradingview.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeE55WERpUTI1Nlk0c3djYzdGLUNDaHlWMnN0SEluUXc3bWZaUWNLT1ItTFdDZ2tHOUpuNEFleWhmcjdyX0NncjFvdGV2SDk5R3N0WFFRclNDQXpPVUg0ZjF1SWMyLWdIUjQyVXF0a0RFdFpGY25IbkRVTk1ucTcta1UwSXZ0TzZZQXMxTS1nLWxBejJUeDljd3ZVd0tGVXdFTlF0OURjR1I2ZGJGeFVlN2Y0UWhEQmZjSFY3NG1xc2t0QUpheXFWRzh0c3BqbjBYVnhLalRCLWNRSThtMTcwcTgtYWdwV0hsNDdjX1pHOEFtS0Vna0pQbXlJcDVFOUsyX2tydElvcVJ5SlZXZUJGSA?oc=5",
+      "https://stocktwits.com/news-articles/markets/equity/aapl-goog-stocks-gain-overnight-as-nvda-slides-are-retail-investors-rotating-into-traditional-tech-amid-leadership-turmoil/cNGzjvAR99j?.tsrc=rss"
+     ],
+     "published": "2026-11-12T04:48:12+00:00",
+     "latency_min": 46.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AAPL",
+     "title": "Apple Shares (AAPL) Look Expensive Heading into 2027 - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2lsenhVYnFXTUNRUHVQUkVxVEVMUDNwSzdFcDNnNWNRU3F2dDVGTHh2Zkh1N2laS1FtZHdzb2hQN3B6bHhrcUUxa2VFOWxzY1NlZTVwRFB5YkE4MGxjUHBueG1WQjRjUExnanJaZGZFSTQzX1Y0YTU3bmJ6UGNZYjNyaVdPenFDZHVhU0JlMUZySFBONHVDU2wxNnNIUQ?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/apple-shares-aapl-look-expensive-211500629.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T21:15:00+00:00",
+     "latency_min": 499.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AAPL",
+     "title": "Apple: Capex-Light AI Amid Regulatory Uncertainty (Rating Upgrade) - Seeking Alpha",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "seekingalpha.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTA4SG95UkQwOXZ5amtHTXJlT0ZsNE5lejVQZDBudkFRS1BsbVo2WjV4a1cwYUNvVUdfZ1dKZTBJZHZIRUh0Y3hCc1BPd2hFU0FXd3VKTDhnNGdoYUxhMjNHUHpWcFNPcDh3WWtZdGJpNlZ0eThnNVZmU0hGb2lFdEdSTDdJWS0zSmQ1MlFDTHYzanRNSVRFX1RvVTZwQnBJMXVyR0tsUVFxb0JxSkc4?oc=5"
+     ],
+     "published": "2026-11-11T03:02:25+00:00",
+     "latency_min": 1592.0,
+     "sentiment": "bullish",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-01-28",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "стоп шире 2.0 ATR",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 345.92 (3 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 74,
+    "halal": 56,
+    "momentum": 76,
+    "entry": 50,
+    "catalyst": 30,
+    "risk": 77,
+    "rank": 64.2
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "SNPS",
+   "name": "Synopsys, Inc.",
+   "generated_at": "2026-11-12T05:34:29.384008+00:00",
+   "composite": 59.1,
+   "scores": {
+    "technical": 63,
+    "fundamental": 73,
+    "news": 50,
+    "accumulation": 33
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 462.12,
+     "atr": 18.314,
+     "atr_pct": 3.96,
+     "ema20": 460.38,
+     "ema50": 450.32,
+     "ema200": 448.02,
+     "vwap20": 457.43,
+     "rsi": 51.4,
+     "rel_volume": 0.44,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 2025060,
+     "last_bar": "2026-11-11",
+     "spark": [
+      434.5,
+      443.37,
+      445.5,
+      433.82,
+      425.9,
+      425.28,
+      417.03,
+      384.28,
+      378.46,
+      389.07,
+      377.61,
+      373.52,
+      373.47,
+      388.99,
+      383.82,
+      373.69,
+      372.33,
+      388.76,
+      392.07,
+      403.86,
+      400.82,
+      405.98,
+      415.99,
+      411.68,
+      410.91,
+      412.32,
+      411.75,
+      421.5,
+      413.22,
+      404.41,
+      401.24,
+      397.92,
+      397.87,
+      394.51,
+      408.79,
+      410.0,
+      464.89,
+      442.61,
+      439.59,
+      414.82,
+      415.97,
+      416.31,
+      393.84,
+      392.03,
+      393.22,
+      397.17,
+      397.38,
+      381.43,
+      367.7,
+      378.47,
+      381.17,
+      384.97,
+      401.85,
+      409.24,
+      413.06,
+      424.91,
+      425.76,
+      417.61,
+      415.09,
+      434.94,
+      490.54,
+      489.9,
+      488.47,
+      505.17,
+      502.67,
+      497.75,
+      509.99,
+      502.51,
+      494.51,
+      479.93,
+      468.11,
+      454.63,
+      454.58,
+      447.62,
+      451.19,
+      422.48,
+      430.14,
+      454.33,
+      474.42,
+      481.89,
+      490.19,
+      467.61,
+      466.08,
+      462.88,
+      462.95,
+      440.31,
+      450.46,
+      466.97,
+      459.95,
+      462.12
+     ],
+     "ret63": 0.1223,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 14.3,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 33,
+     "flat": false,
+     "vol_ratio": 1.06,
+     "low_touches": 1,
+     "range_pct": 34.1,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": -2.69,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 364.27,
+      "touches": 2,
+      "mirror": false
+     },
+     {
+      "price": 388.09,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 408.17,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 444.76,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 453.52,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 467.03,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 481.01,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 492.0,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 516.1,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 537.34,
+      "touches": 2,
+      "mirror": false
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 444.76,
+     "touches": 3,
+     "mirror": true,
+     "entry": 462.12,
+     "entry_zone": [
+      444.76,
+      453.92
+     ],
+     "sl": 426.45,
+     "sl_atr": 1.95,
+     "tps": [
+      467.03,
+      481.01,
+      492.0
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 0.14,
+     "rr_tp2": 0.53,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 63,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 73,
+    "available": 11,
+    "passed": 8,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.424,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.893,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 81.2162,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 2.8423,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.0366,
+      "ok": false
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.0135,
+      "ok": false
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.348,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.337,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.166,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 3425542400.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 2137243.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "software - infrastructure technology",
+     "debt_to_mcap": 0.122,
+     "cash_to_mcap": 0.041,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "SNPS",
+     "title": "Synopsys, Inc. (SNPS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "ca.finance.yahoo.com",
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcXpoYTQxcXZSOUU3X3dsOVlrQVFJUjNldTZ5ZUczc3MyTnpQWUhpYzF5dV90MnVGTWRwRUttWFV1VVdHdGQyUUtwRUFlajZRWWc?oc=5",
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0ozM29QZVEtaTh1OU4ySm16Yl81NGp1OHM4cFBSaEFKUTJseHJuOTFjZFlUZGNXLXl6WS1xZ0d2M2VaSzFlUFJSLUwxWTJIYVE4cGRDSWt0ZkxiUlRqZXVUalFJNXFyYlpfaDB3SVU2eWpOWlVJY1pBSjhDa2NjdE5aY1V1TGw0UTh6dGVXSQ?oc=5"
+     ],
+     "published": "2026-11-11T19:06:58+00:00",
+     "latency_min": 627.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "SNPS",
+     "title": "Should You Buy, Sell or Hold Synopsys Stock at a P/E of 24.71X? - TradingView",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "tradingview.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN19XbjJkWmZHSDVUWFZEbDFfNFRIUFVtWTgyQzFDeHJXb0FaMldTRGtmMmhrUE5vX1VFY0Z5ZnBDOGk4NHBjSWlBYlRmNEJLbFZxMUtwMmFta0wwZHYzaHVBZy1QMHZ2bGUtQ19QZ0dXdHlLZ3FrRHNWVFp6WEl4T0hnTjl2ejkweW9PQUNENnVaOWVtZXpNZE1UX1dmZW5sNjdwU2lfT2VaSkJVYjE0OG9QTkw2WDhP?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-synopsys-stock-171400426.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T17:14:00+00:00",
+     "latency_min": 740.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "SNPS",
+     "title": "Synopsys Inc (SNPS) Stock Up 3.7% and Still Undervalued -- GF Sc - GuruFocus",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "gurufocus.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTFCWlgwQjBYeDhOZjZrVW9rb3dJaHFsWjVxenlXRVFxWUJtMWpuWk40dEVxT2Zjb3M4YzlUSEVDdVVkMkkwUTNkOEpsTnFEVDIzREk1U1pxaXEzV3JLRDR2d0EySUtXLVM1U0VVOUgzeGJybHB6SHJvSnBjWkQ4bzRUcGV4cDVkM2NSdlBKRWoxTkVSZ2FlQXB5TTdhSEVaWG5SeFFJVDA?oc=5"
+     ],
+     "published": "2026-11-09T23:36:11+00:00",
+     "latency_min": 3238.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "SNPS",
+     "title": "Synopsys (NASDAQ:SNPS): Strong Growth and a High-Quality Technical Setup - ChartMill",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "chartmill.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXRCU3ByV0gzQmpYWEZKczM3TmpJNjFpVHAzWloyUVBvbTV5SHpBS3pCTE1OM3pmV0N3WXUwd3JRQ3dNMTdDS1VaWmJ6S0FJRGJSSDRMQUpPamdBS3ZMaGZTN1VwS21fMEJsNi05YV81a1FuVDlYT01GWjdSeXJXN0psQlRWaTBMSVN6Z0dtUGM2N3p1S2p0MG02TmRwd2w0ZHNuT3VaYWJIckpBbWF6UDJrZjhxOFE4Nm1GMw?oc=5"
+     ],
+     "published": "2026-11-10T13:51:14+00:00",
+     "latency_min": 2383.2,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "SNPS",
+     "title": "SNPS DCF Analysis: Intrinsic Value $217 vs Price $467 - GuruFocus",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "gurufocus.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPek8tV2tDU0RGZ3pYQ19WUndlR3RSU2lVZG81SHN3RHpNNzN5ZFhKVW1iOUdmMmQtVmRjSzNqejZySHNPQllBdFM4VlVmQ25kY2xQemFnUVIzMXBHV1BjWW03QkdGX0ZpQWNkQm5HX3ZLYXl0QjFtaU1BeHpJYjM0cHVaaTlhWEZGek5PWWdXVDNwSEU?oc=5"
+     ],
+     "published": "2026-11-10T13:04:02+00:00",
+     "latency_min": 2430.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-12-08",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.14 < 2.0",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 444.76 (3 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 59,
+    "halal": 35,
+    "momentum": 70,
+    "entry": 70,
+    "catalyst": 45,
+    "risk": 80,
+    "rank": 64.1
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "QCOM",
+   "name": "QUALCOMM Incorporated",
+   "generated_at": "2026-11-12T05:34:34.906589+00:00",
+   "composite": 52.9,
+   "scores": {
+    "technical": 47,
+    "fundamental": 80,
+    "news": 50,
+    "accumulation": 28
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 176.57,
+     "atr": 9.206,
+     "atr_pct": 5.21,
+     "ema20": 172.97,
+     "ema50": 175.19,
+     "ema200": 172.25,
+     "vwap20": 170.11,
+     "rsi": 52.0,
+     "rel_volume": 1.04,
+     "macd_hist_pos": true,
+     "weekly_up": false,
+     "avg_volume_20": 13996360,
+     "last_bar": "2026-11-11",
+     "spark": [
+      185.55,
+      190.08,
+      188.14,
+      182.98,
+      177.14,
+      177.02,
+      169.69,
+      170.85,
+      169.4,
+      172.56,
+      174.68,
+      170.18,
+      166.07,
+      169.12,
+      162.0,
+      154.84,
+      150.78,
+      146.81,
+      150.75,
+      161.79,
+      156.68,
+      159.52,
+      166.95,
+      161.29,
+      161.8,
+      162.19,
+      163.9,
+      164.89,
+      161.3,
+      159.32,
+      161.03,
+      159.87,
+      159.88,
+      157.67,
+      159.69,
+      162.83,
+      163.89,
+      163.3,
+      169.56,
+      165.71,
+      169.04,
+      168.57,
+      168.74,
+      174.09,
+      176.4,
+      176.88,
+      181.97,
+      180.15,
+      187.8,
+      184.84,
+      188.71,
+      177.72,
+      194.23,
+      198.27,
+      197.24,
+      194.26,
+      201.97,
+      187.48,
+      184.1,
+      184.04,
+      182.09,
+      184.87,
+      180.79,
+      181.03,
+      177.12,
+      176.01,
+      175.5,
+      174.43,
+      176.86,
+      172.62,
+      178.4,
+      172.11,
+      173.53,
+      175.71,
+      177.96,
+      172.83,
+      175.91,
+      179.6,
+      184.17,
+      182.97,
+      185.41,
+      164.79,
+      162.08,
+      164.43,
+      173.19,
+      156.75,
+      165.41,
+      171.47,
+      173.53,
+      176.57
+     ],
+     "ret63": 0.0773,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": false,
+     "dist_high_pct": 31.4,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 28,
+     "flat": false,
+     "vol_ratio": 1.18,
+     "low_touches": 1,
+     "range_pct": 32.8,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-05",
+      "pct": -13.36,
+      "direction": "down",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": 2.89,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-11",
+      "pct": 2.77,
+      "direction": "up",
+      "kind": "common",
+      "filled": true
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 155.5,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 168.64,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 181.11,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 189.18,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 168.64,
+     "touches": 4,
+     "mirror": true,
+     "entry": 176.57,
+     "entry_zone": [
+      168.64,
+      173.25
+     ],
+     "sl": 159.44,
+     "sl_atr": 1.86,
+     "tps": [
+      181.11,
+      189.18,
+      245.1
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 0.26,
+     "rr_tp2": 0.74,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 47,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": false
+   },
+   "fundamentals": {
+    "score": 80,
+    "available": 10,
+    "passed": 8,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": -0.084,
+      "ok": false
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": "N/A",
+      "ok": null
+     },
+     {
+      "check": "P/E > 5",
+      "value": 13.6664,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 6.2262,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.5281,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1013,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.526,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.859,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.992,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 9107125248.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 12530242.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "semiconductors technology",
+     "debt_to_mcap": 0.085,
+     "cash_to_mcap": 0.041,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "QCOM",
+     "title": "Here’s Why Barclays’ Tom O’Malley Kept a Sell on Qualcomm (QCOM) - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmFpdUVCTUJPTmhSc2VLMUIwa2c2NjQ3S2x4Y0hsdmlzMXYwM0hkcEVYaDVXS2lfbjhrSGJEalVRNG9aOGJ5V0ZYOWh5ZC1VNTZQcTBJS2NhZ3hHcll3YXRBeExUdUlFZjV4SGVldklEdkFEcXFvc3hoOUN5eG02and3X1lSMk9VN1ZuZ1o0bzJjQ3ot?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/why-barclays-tom-o-malley-180259184.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T18:02:59+00:00",
+     "latency_min": 691.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release and Conference Call - Qualcomm",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "investor.qualcomm.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMERLMXlBSXBVVnJndTN5YzRMZl9fR1BEUlI4RUo3bWZEdVpsSURyaUVMSWxLMnJfYTc5LVFzNGNWSVQwa3dzTDFUNDEtdENqS2FvcmJZV2xTZkxOMndKX2dMbzYwcDZTeUhqUXR6T0lpcjRYOGdTcUk2M08ycEVESm1SeGxyRFlPZy01SFJhREExTlp5NVNSeGxjRWNKekY3X3R4LXhLaHZIOWpvOHFQUEl2STdqZi1DcWdiVi1WdmJZNXNwY0NxdnJLb0VzRTI5d2x1b2VwYzNrdlE1M29Ib0VoVUY4VXZQWnVqaER1cGlWTlZpZ0RhZ19RcVEyZkJpeGM0cg?oc=5"
+     ],
+     "published": "2026-10-22T07:00:00+00:00",
+     "latency_min": 30154.6,
+     "sentiment": "neutral",
+     "high_impact": true
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Has Qualcomm Stock Become A Different Bet? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenFIWWhwYmlnOTVVYlZybUhwYVg0bmpldThhWERiRENNRHpaeHA4NVBGTkw2SDJkVk5wM25GLVRMcDFFWG55cjE5SkFxT1lzMUtuOEI0M2ZWYXRMUlpXVlNpZ2NsSmxtcHZkcGRVLUtEY3R6U2RMbWZCVmpZUEptTFFSWXlpeHBrNmdCM0RIazVpMS16bGUzTzZjeVZFQVJrSFVROA?oc=5"
+     ],
+     "published": "2026-11-11T11:02:17+00:00",
+     "latency_min": 1112.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Qualcomm Inc Stock (QCOM) Moved Up by 4.62% on Nov 11: What Signal Does It Send? - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEJMUWZfNEVZOEgxM1RvRHJFS3NDY0R1XzFXOGJmSXhFbnVFeWd3MFN2eS1fWFhtSWNpVEcwZGlfMS16WkxiS3VCdml5ZFFQTVZkWGxrbWpLZzZOUFBXZVNDMXVTV0pnNjJmTmYtWUVZVUlqbUN5czFqWEZaM0ptTmJWR2ZGYUxnTDNR?oc=5"
+     ],
+     "published": "2026-11-11T18:15:42+00:00",
+     "latency_min": 678.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales - CNBC",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "cnbc.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzA?oc=5"
+     ],
+     "published": "2026-11-04T21:06:06+00:00",
+     "latency_min": 10588.5,
+     "sentiment": "neutral",
+     "high_impact": true
+    }
+   ],
+   "earnings_date": "2027-02-03",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.26 < 2.0",
+    "цена не выше VWAP/EMA50 либо EMA50 не растёт",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 168.64 (4 касаний, зеркальный)",
+    "weekly тренд не вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 53,
+    "halal": 43,
+    "momentum": 50,
+    "entry": 80,
+    "catalyst": 30,
+    "risk": 83,
+    "rank": 60.0
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices, Inc.",
+   "generated_at": "2026-11-12T05:34:32.602067+00:00",
+   "composite": 61.3,
+   "scores": {
+    "technical": 49,
+    "fundamental": 100,
+    "news": 50,
+    "accumulation": 45
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 552.9,
+     "atr": 40.065,
+     "atr_pct": 7.25,
+     "ema20": 519.87,
+     "ema50": 532.3,
+     "ema200": 441.05,
+     "vwap20": 504.44,
+     "rsi": 53.6,
+     "rel_volume": 1.45,
+     "macd_hist_pos": true,
+     "weekly_up": false,
+     "avg_volume_20": 31965105,
+     "last_bar": "2026-11-11",
+     "spark": [
+      517.41,
+      546.72,
+      557.89,
+      534.39,
+      548.13,
+      529.14,
+      500.94,
+      495.76,
+      503.57,
+      544.43,
+      552.33,
+      539.69,
+      521.95,
+      494.95,
+      454.62,
+      429.56,
+      485.39,
+      476.15,
+      484.64,
+      518.58,
+      482.05,
+      489.28,
+      483.36,
+      469.56,
+      474.32,
+      482.93,
+      483.01,
+      514.39,
+      506.0,
+      484.39,
+      466.42,
+      469.46,
+      473.25,
+      456.75,
+      479.18,
+      480.93,
+      476.67,
+      465.58,
+      470.72,
+      459.61,
+      457.06,
+      456.16,
+      477.57,
+      505.74,
+      521.1,
+      503.6,
+      516.13,
+      493.41,
+      504.2,
+      512.5,
+      545.09,
+      559.82,
+      615.52,
+      623.77,
+      614.61,
+      629.26,
+      630.63,
+      607.87,
+      607.57,
+      611.76,
+      615.73,
+      633.91,
+      631.75,
+      649.42,
+      645.86,
+      620.68,
+      608.1,
+      594.24,
+      605.53,
+      570.82,
+      562.23,
+      528.75,
+      538.05,
+      534.74,
+      552.72,
+      507.93,
+      516.79,
+      531.28,
+      560.26,
+      578.44,
+      566.42,
+      504.8,
+      466.84,
+      483.9,
+      488.78,
+      404.4,
+      449.04,
+      508.58,
+      515.21,
+      552.9
+     ],
+     "ret63": 0.1447,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": false,
+     "dist_high_pct": 16.0,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 45,
+     "flat": false,
+     "vol_ratio": 1.57,
+     "low_touches": 1,
+     "range_pct": 47.8,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-06",
+      "pct": 9.9,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 5.42,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-11",
+      "pct": 5.41,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 438.87,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 461.71,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 494.87,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 562.23,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 579.37,
+      "touches": 3,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 494.87,
+     "touches": 3,
+     "mirror": true,
+     "entry": 552.9,
+     "entry_zone": [
+      494.87,
+      514.91
+     ],
+     "sl": 454.81,
+     "sl_atr": 2.45,
+     "tps": [
+      562.23,
+      579.37,
+      945.27
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 0.1,
+     "rr_tp2": 0.27,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 49,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": false
+   },
+   "fundamentals": {
+    "score": 100,
+    "available": 11,
+    "passed": 11,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.447,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.938,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 110.1394,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 13.2587,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.1196,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.059,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.1347,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 2.725,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.725,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 7357125120.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 23293332.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "semiconductors technology",
+     "debt_to_mcap": 0.01,
+     "cash_to_mcap": 0.017,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "AMD",
+     "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results - The Motley Fool",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "fool.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGgxdktvSEI0M2hDSUdFUktvLTFDVldrV1FDcXJyX1RQMDFPWDdoWUZyTXJyaFgzQmpmUkZaMUl5SEdjWTVqc2ZsQ3lXd0ZteXM1eTUwZ0YyUGptbDh3eVJUVk9GNWdFemkzX3VvZUI3eHpSRkxXS1RzMW52MDlWTzhDMzNCbFU2M3BnNzZfTXZucHdhclFDYWJHclN0eUFHZzdPS2o2dzBoU0FnSGhJNkFhdU1mSjhNNWRWRktSdmpnd2FGRW5SR0ZPVDF5Qi00aE5XX1BXdVNFLTVrRGo1ZFBvQ3RIVmlad1hxaUhac3c?oc=5",
+      "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss"
+     ],
+     "published": "2026-11-11T22:52:34+00:00",
+     "latency_min": 402.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "AMD Stock Reverses Morning Gains, Slowly Recovers After Google AI Deal - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHNiaWhiVENxYXhKbXg5eWQzZGU5eFFXNGhNSDBrYWsxQUY3Qm1zbUdMREUweWRvM2RvSDFqS0dSQlhELWw4TjJIRFRqbUpXQ1U5QkxEaGZQUnZqSjktWlVtRmVycjd1b1RaZjdGUGp5eU5EODVUd1RwMTJyWGYtQXV3Rm9iVmxOcldJdndJR0JYN1Bac1hHbHk3YVRyS2pCS2FrWTRvM0NWcVpFQjRfYlZmUmhRZTQwVjM4R005Qmxad01RTE1Pc3VR?oc=5"
+     ],
+     "published": "2026-11-10T17:17:16+00:00",
+     "latency_min": 2177.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "Advanced Micro Devices, Inc. $AMD Stock: Keybank National Association OH Decreases Position - MarketBeat",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketbeat.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdEtHZ1h6MDhOTVBlNDVDYVVtOGE0dEl4S2hSdHlUVDBGb2V2c0pTNVJsZG9UZFY3ZS1QS2kwb0xzMHlxcDFWZjBmWUhycHNFaDRmOWJsb0ZrT0RSMmJ1a2V6X0NvU0FicUhJZG5NWHgyb0taR2FvQkZKb1p2ZFJPRkEyY2IwdzJPZmdhRjdrMTJna2xwMU9GUWRYRW9yQUpQR0ZoMWFneUtsakd6dThLZDdwazQyekw4ZEFEV3lZTDhaX194VEtwbjFFM2d4dXcwcUJzWGc3SEVvSzJ6N0dVVzZ3?oc=5"
+     ],
+     "published": "2026-11-11T10:59:15+00:00",
+     "latency_min": 1115.3,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "Advanced Micro Devices soars 13% on Google Cloud deal, tech rally (AMD:NASDAQ) - Seeking Alpha",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "seekingalpha.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWlsWGwzaEFUQkppQnFleUFqeldtRmJNaVctS3luSE5XS0QyZUVPTi1rMkM2T29HMG9EWVBvTDB4cDN0dlpQX2JWZG9DdGl3blRuNEJJb1diS2k3bFlubzg5OWdqLTREZHgzWUl5eWtpQU55TFpaanJkS0Y1UG1tR1BQUmxzeDUwWHY1RWFUZlU0Z0RxMktwOS01cHBOTmRIcTdF?oc=5"
+     ],
+     "published": "2026-11-09T22:29:00+00:00",
+     "latency_min": 3305.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFlYbmZYRWVVbU9JRWJTN1ZkaDUySU9wWXdlM3QzLTgwcjFKMkt4OTZTQjJSTEh4ZWQya3k5SHBsblY0Q250dVRJc0hKRlk4cFlrUzAzcU04MndkZFkyVmVGZVlUdGNMa0FpaE10M1VRUEhXNEdiUEw0aW5LTHBER0ZZZEpzZm1Cc2ZzNzdUaDFMMDROR0hmTnBjbzhRQWFB?oc=5"
+     ],
+     "published": "2026-11-11T15:20:36+00:00",
+     "latency_min": 853.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-02-02",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "стоп шире 2.0 ATR",
+    "RR до TP1 = 0.1 < 2.0",
+    "цена не выше VWAP/EMA50 либо EMA50 не растёт",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 494.87 (3 касаний, зеркальный)",
+    "weekly тренд не вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 61,
+    "halal": 56,
+    "momentum": 61,
+    "entry": 60,
+    "catalyst": 30,
+    "risk": 58,
+    "rank": 57.4
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "ANET",
+   "name": "Arista Networks, Inc.",
+   "generated_at": "2026-11-12T05:34:33.791837+00:00",
+   "composite": 57.4,
+   "scores": {
+    "technical": 47,
+    "fundamental": 100,
+    "news": 50,
+    "accumulation": 25
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 196.68,
+     "atr": 11.243,
+     "atr_pct": 5.72,
+     "ema20": 182.41,
+     "ema50": 186.99,
+     "ema200": 170.57,
+     "vwap20": 177.88,
+     "rsi": 56.4,
+     "rel_volume": 0.99,
+     "macd_hist_pos": true,
+     "weekly_up": false,
+     "avg_volume_20": 8574605,
+     "last_bar": "2026-11-11",
+     "spark": [
+      181.05,
+      184.69,
+      186.96,
+      181.15,
+      182.57,
+      171.92,
+      168.56,
+      168.61,
+      169.35,
+      174.58,
+      174.87,
+      176.61,
+      173.99,
+      170.76,
+      169.71,
+      157.97,
+      171.02,
+      180.35,
+      184.89,
+      190.51,
+      197.31,
+      192.32,
+      188.67,
+      191.52,
+      197.85,
+      210.5,
+      203.62,
+      198.82,
+      201.8,
+      193.18,
+      186.45,
+      183.75,
+      188.65,
+      188.15,
+      190.94,
+      202.25,
+      201.09,
+      195.38,
+      195.69,
+      189.26,
+      186.1,
+      191.44,
+      193.78,
+      194.96,
+      192.93,
+      188.99,
+      199.59,
+      187.81,
+      192.84,
+      197.54,
+      199.53,
+      199.39,
+      205.42,
+      205.19,
+      203.47,
+      205.7,
+      206.55,
+      204.92,
+      202.86,
+      203.59,
+      204.49,
+      207.35,
+      206.9,
+      215.36,
+      215.83,
+      210.97,
+      216.74,
+      210.88,
+      204.52,
+      195.42,
+      185.58,
+      176.98,
+      182.95,
+      181.19,
+      184.33,
+      171.07,
+      172.37,
+      177.24,
+      187.0,
+      186.72,
+      184.22,
+      168.86,
+      164.14,
+      169.91,
+      178.48,
+      159.16,
+      170.8,
+      186.17,
+      185.02,
+      196.68
+     ],
+     "ret63": -0.0341,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": false,
+     "dist_high_pct": 9.5,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 25,
+     "flat": false,
+     "vol_ratio": 1.12,
+     "low_touches": 1,
+     "range_pct": 30.7,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-06",
+      "pct": 8.57,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 3.4,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-11",
+      "pct": 5.3,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 156.24,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 178.09,
+      "touches": 6,
+      "mirror": true
+     },
+     {
+      "price": 182.05,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 190.46,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 213.44,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 182.05,
+     "touches": 2,
+     "mirror": true,
+     "entry": 196.68,
+     "entry_zone": [
+      182.05,
+      187.67
+     ],
+     "sl": 170.81,
+     "sl_atr": 2.3,
+     "tps": [
+      213.44,
+      274.3,
+      300.17
+     ],
+     "tp_source": "levels+ATR-проекция",
+     "rr_tp1": 0.65,
+     "rr_tp2": 3.0,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 47,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": false
+   },
+   "fundamentals": {
+    "score": 100,
+    "available": 10,
+    "passed": 10,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.585,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.821,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 49.5416,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 15.1083,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.3352,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1504,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": "N/A",
+      "ok": null
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 3.293,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 2.482,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 3001337600.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 6235540.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "computer hardware technology",
+     "debt_to_mcap": 0.0,
+     "cash_to_mcap": 0.058,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "ANET",
+     "title": "Arista Networks Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketwatch.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjBVOGFwdURScVRLRW1vVTdQaWQ0RmZieGNnMGJyQ2JjNERBUVhFREJJQlYxTl9SWjJIYlRGVTd3Y3RVQ011TVRNd0NPeldQRms3Q1FETG9DanhlenlDc3R0cHlDSjRQVG1TMC0zYWZKY1Fvel8zaFVEYXY0WFFMUFd4RndqTW10ZUhqdW9Pd19jbjYxdE4yaGxWeXFtTEhRZ3VMNldJcTRicVQxSUcya05NQmY1WU1RbkNqakI3MmFFUG5kN2JqX1NvSV9EdlhCaThsQ2NPWnE2VVRIcXpGSDFnVVQydzk4aWRLeEQ4Zw?oc=5"
+     ],
+     "published": "2026-11-11T21:30:00+00:00",
+     "latency_min": 484.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ANET",
+     "title": "AI Sell-Off: Buy ANET, TSM & MU to Make Up for NVIDIA Losses - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzhSdElQN3hqWmFVOUFRTGFybG40S0ZOQzRZc05zaV9ITTBEMFRVWnlJTTFUUm1wRTVSd29KTFZRNGtmNFBEbS00RGttYl9RNXVwY3ctOEU2YmtVVVhUYU9LQW9YU1piUFhSMWRueXMxb3JJbVNZSnN5ZmdPVVNneTJDZko0aXNOWGk5N3FB?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-buy-anet-190000623.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T19:00:00+00:00",
+     "latency_min": 634.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ANET",
+     "title": "Arista Networks Inc Stock (ANET) Moved Up by 5.31% on Nov 11: Facts Behind the Movement - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEdCTEt1bXhYbFp6SVNWTmNERS1YNy13R0RDRVNhMGhDOTVFaGJlUWY4Q3VZT0tZTlA2UXNGdEN0Q25WTHh1UjhRNU9SX2huYy1XVktwLXhCMzhRWGRJZkdnWHBMUFR1aWR4dUtoUnh4Wjd5ZDNoVm1uVGRfTktla1F0UEFuLVcxa0c0?oc=5",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEpCT2ZFMXZmMnYzVC1HV0o4WncwaU5nTHkxeHYxZVl3aWZFSXJrbU92NjkzQjVvbS00Z3ZVbVpzeU5FM0lya0lLbEVJYUR4T19pcWtmUEZ6TXJUdk83cHgwY1Zxa3FYS1laWmU4X2FtaEpZcFZaTURnTzBNQVhjQTBwOFp2a05LZHB3?oc=5"
+     ],
+     "published": "2026-11-11T15:15:31+00:00",
+     "latency_min": 859.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ANET",
+     "title": "What Is Behind The Move In Arista Stock? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFJWZVB6UnoxY3RnMkw2VWNnbTdnRzRQaDVkODRoaE5BYjFYT1I5WnJ4MVNPU3UtUjFyX1lORVdwcWFUOVNCZkFYaWVJVzhGVGxiUk5UUWtPRUFNaUhZX1pKbW5XVVpRUndOcVJCZzhUNHlwdGdoVlJHbE9GbENBSDh1UnBZYTdrN2MwZmlPVnJiWHZFYll1TXdvdzJ5clhiVVE?oc=5"
+     ],
+     "published": "2026-11-07T11:59:04+00:00",
+     "latency_min": 6815.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ANET",
+     "title": "Arista Networks Posts Fastest Growth Since IPO as Big Tech Moves Beyond Nvidia. Wall Street Still Sees 47% Upside in ANET Stock. - Barchart.com",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "barchart.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT010YVY0QWc2Z2cwanpQd2xZZHZiT21ybUk3bU9fWjZBM01mU0xnVmRxdmU1NUdhdmZlXzJZYU1qem56Q1RldHUtYkJZOXhEcExoUkV0bnJzX21nMllWd1JlYTMxcThoSmxWWlZFRTZVOTM5VnRSN2J6ZXgzSGFBenhJVzJYbmJDUEJZaXdqSkJxQldXNDJrYjM1UnFyaTlOWWFrV2I2RjJaYVFyRi1wMlpMcU1qZXU5RXFsdnpqM0QyN3FTS3U5RWVXT0hJTHRleHZSWTJBbm9UR3hmQlpnRnlSQ1k1M29zWUFIaENjN1c2Um5wX0NQVzBaZ3N1dw?oc=5"
+     ],
+     "published": "2026-11-06T19:43:40+00:00",
+     "latency_min": 7790.9,
+     "sentiment": "bullish",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-11-03",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "стоп шире 2.0 ATR",
+    "RR до TP1 = 0.65 < 2.0",
+    "цена не выше VWAP/EMA50 либо EMA50 не растёт",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 182.05 (2 касаний, зеркальный)",
+    "weekly тренд не вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 57,
+    "halal": 49,
+    "momentum": 62,
+    "entry": 60,
+    "catalyst": 30,
+    "risk": 72,
+    "rank": 57.3
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "ASML",
+   "name": "ASML Holding N.V. - New York Re",
+   "generated_at": "2026-11-12T05:34:38.389443+00:00",
+   "composite": 40.9,
+   "scores": {
+    "technical": 22,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 20
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 1534.42,
+     "atr": 68.339,
+     "atr_pct": 4.45,
+     "ema20": 1566.67,
+     "ema50": 1637.83,
+     "ema200": 1551.58,
+     "vwap20": 1554.53,
+     "rsi": 45.1,
+     "rel_volume": 0.82,
+     "macd_hist_pos": false,
+     "weekly_up": false,
+     "avg_volume_20": 1714660,
+     "last_bar": "2026-11-11",
+     "spark": [
+      1764.04,
+      1799.55,
+      1792.63,
+      1721.54,
+      1771.01,
+      1810.54,
+      1780.22,
+      1743.02,
+      1734.49,
+      1796.81,
+      1797.16,
+      1798.3,
+      1752.51,
+      1650.94,
+      1580.86,
+      1548.65,
+      1649.26,
+      1626.85,
+      1640.36,
+      1709.63,
+      1676.01,
+      1702.12,
+      1738.7,
+      1731.2,
+      1797.01,
+      1807.69,
+      1845.47,
+      1841.65,
+      1880.64,
+      1800.6,
+      1749.42,
+      1748.0,
+      1761.44,
+      1737.84,
+      1741.86,
+      1743.34,
+      1732.72,
+      1693.93,
+      1693.78,
+      1662.95,
+      1680.08,
+      1644.02,
+      1712.62,
+      1762.52,
+      1727.24,
+      1685.21,
+      1696.06,
+      1573.07,
+      1589.38,
+      1600.11,
+      1627.52,
+      1677.71,
+      1709.07,
+      1745.6,
+      1742.31,
+      1720.23,
+      1741.64,
+      1769.08,
+      1831.97,
+      1809.28,
+      1806.11,
+      1864.85,
+      1857.41,
+      1831.68,
+      1802.58,
+      1767.46,
+      1777.99,
+      1747.93,
+      1715.5,
+      1647.83,
+      1655.26,
+      1639.36,
+      1644.95,
+      1628.69,
+      1674.48,
+      1558.48,
+      1569.73,
+      1588.8,
+      1635.57,
+      1662.85,
+      1675.7,
+      1565.9,
+      1526.14,
+      1552.14,
+      1496.3,
+      1356.65,
+      1424.75,
+      1513.25,
+      1507.85,
+      1534.42
+     ],
+     "ret63": -0.1685,
+     "above_ema50": false,
+     "above_ema200": false,
+     "ema50_rising": false,
+     "dist_high_pct": 23.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 20,
+     "flat": false,
+     "vol_ratio": 0.9,
+     "low_touches": 1,
+     "range_pct": 30.8,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-06",
+      "pct": 6.59,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 3.65,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     },
+     {
+      "date": "2026-11-11",
+      "pct": 2.38,
+      "direction": "up",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 1277.47,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 1368.7,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 1403.67,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 1531.03,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 1608.26,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 1706.92,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 1882.44,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 1531.03,
+     "touches": 3,
+     "mirror": true,
+     "entry": 1534.42,
+     "entry_zone": [
+      1531.03,
+      1565.2
+     ],
+     "sl": 1462.69,
+     "sl_atr": 1.05,
+     "tps": [
+      1608.26,
+      1706.92,
+      1882.44
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 1.03,
+     "rr_tp2": 2.4,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 22,
+    "volume_confirm": false,
+    "price_above_vwap_ema50": false,
+    "ema50_rising": false
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.552,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 1.359,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 37.0991,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 1317.5282,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.6564,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1828,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.089,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.487,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.934,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 10374124544.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 1443396.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "semiconductor equipment & materials technology",
+     "debt_to_mcap": 0.003,
+     "cash_to_mcap": 0.022,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "ASML",
+     "title": "If You Invested $100 In ASML Holding Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjNKX3ZmdE1OcXJ5VW4xaVN2dkIxbW45aEJOalZHTHZNNjJXdDhkRmxOVm1aMGdWeU9PSHRSeFZ5LUZYSjZXUTdCSUtGaTNDQi1LaElNakk3RVM0akMzcGdRYV9kamFMSW9IcnU4ZTZGeW9MT0x0d25BTG54LURjY29Ock5XcW5oc2FKV0w5OWtfSnNpc255d2UycjVYRk1jblhZNGRkckhYWlNmUWFpN3FvekhUdVdDcDU2cmtLdw?oc=5"
+     ],
+     "published": "2026-11-11T21:15:17+00:00",
+     "latency_min": 499.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "Why ASML Holdings Fell in October - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "fool.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXlUOGlTU0NidTJteW95YnhwS1dwODlaR3VSVkNUVm5hU3NHcFJhWDFIN3ZtWGpMNWIta3V3OU9zQmNkcjY0dmtnamNFeUIzWlhOSHdEeldRV0U0dHdfdHdCYW9zN0JuYzJjT1BvaTRoYmY2enJoLWdHMXR1YXB6bkJySmlrZU9QZGUzMFB5T19hUTZEUnQwSk9SWQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmpJNTZhaWVFTXlvendJVXotM2VCSHVNNHh5YzNiTl9kcF9pb0E0UEJPdV95cHVfbWFpZEZJZk1IVWMtcERsNXdUR0lrSEczWWtSdHU4YmR5Z3NIQnpzbnB3QzRFNFdNRXRxaG84ZXZmMUEzcnJnSFl5bHdYekEzMUN3?oc=5",
+      "https://www.fool.com/investing/2026/11/08/why-asml-holdings-fell-in-october/?.tsrc=rss"
+     ],
+     "published": "2026-11-08T21:30:35+00:00",
+     "latency_min": 4804.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "ASML Holding NV Stock (ASML) Moved Up by 3.30% on Nov 11: Facts Behind the Movement - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEJmcmo5NC1QbjgtbFBXakJrbW5XcGdnczg3OXdsX0RyXzl0YnQ1UGt5bTFucWh6WkVLVURyb3NLalROT2dyQy1UY1dUeVRvQkxSMmlYQTBIM3d3dXdubWVrYzRlN25PdGhOcjVsRmpiN2RnVzRmU1lIRG5YVF9kYzNaZUxoTWxsVExj?oc=5"
+     ],
+     "published": "2026-11-11T16:20:38+00:00",
+     "latency_min": 794.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "Why is ASML stock sliding today? - Investing.com",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "investing.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN28tclFtYlBLTjNOTkJyVlV1TUdGWl9Jd3o3d0t2dVZVTWdEZjlxRGo1dkpROFptS1YzcWhoMnFjQWl1cUp4OUU4R0ZpUlc4WnFWRl80dld4cVhxZHFvdE5aUFplbkhURlhLdVV1U3JXRVJydnJZVG8tZ0dyZDRYeG9NYzJLVU40d3pEcEItMWdCdVV4S08wSQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWJPSWVFQlpaQXFOSnBPbFNjNHdudmN2U3dfWVpMR0hJSzlIUHhXeW5XOWp0bXdPM2ZmZXdWd3U1U204aUtWLXRmcHc1NUE4WW5Jd2pKUkVObE1Ob2twcFVCa2RVQmVLeU9wWjRrTEdrSk9fT3l0cWVGTVRqZG9ycE4ycVB3ckdGTHBSeUJNYjRhczlLb2ZlaHlwaHd0dDY0cmRn?oc=5"
+     ],
+     "published": "2026-11-11T11:06:12+00:00",
+     "latency_min": 1108.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "ASML's 'sold out' outlook forces investors to look beyond demand - Reuters",
+     "status": "OUTDATED",
+     "red_flags": [],
+     "sources": [
+      "reuters.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhjVzlpdUwzS1JPM0o3VFFnRXZfTnF5SndiVS1jOGNaUU9BWnowWWoySnRvbFpabjFEQVlZaWdhSFo0NnJmMTJaYXZWQ3R2c3I3dmNIdkY5TjVZQklTd0xTbXhGald1NjJGdVhBVTVkU2pjbll0MXA0NmpzSWFxNTlKVWxzeXRKWmtSMks1VGdMbkUzOG8zRWx4REZUb2RwNmFUd2ZkN1F5YXVaQ2pmREFBY1pxMl9tcmNF?oc=5"
+     ],
+     "published": "2026-10-15T07:00:00+00:00",
+     "latency_min": 40234.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2027-01-27",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 1.03 < 2.0",
+    "цена не выше VWAP/EMA50 либо EMA50 не растёт",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 1531.03 (3 касаний, зеркальный)",
+    "weekly тренд не вверх",
+    "объём пробоя не подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 446.29998779296875,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 41,
+    "halal": 56,
+    "momentum": 34,
+    "entry": 60,
+    "catalyst": 30,
+    "risk": 80,
+    "rank": 47.5
+   },
+   "insider_buys_90d": null
+  },
+  {
+   "ticker": "COST",
+   "name": "Costco Wholesale Corporation",
+   "generated_at": "2026-11-12T05:34:25.012344+00:00",
+   "composite": 76.9,
+   "scores": {
+    "technical": 79,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 89
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 1087.61,
+     "atr": 20.147,
+     "atr_pct": 1.85,
+     "ema20": 1022.98,
+     "ema50": 984.34,
+     "ema200": 962.22,
+     "vwap20": 1022.26,
+     "rsi": 73.3,
+     "rel_volume": 0.91,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 2422105,
+     "last_bar": "2026-11-11",
+     "spark": [
+      950.21,
+      910.18,
+      913.45,
+      923.59,
+      918.93,
+      913.73,
+      942.68,
+      937.99,
+      932.94,
+      926.38,
+      924.47,
+      923.23,
+      933.65,
+      950.18,
+      965.15,
+      972.59,
+      952.76,
+      950.49,
+      952.67,
+      946.45,
+      940.6,
+      947.75,
+      946.42,
+      951.34,
+      942.93,
+      948.18,
+      960.43,
+      959.68,
+      952.09,
+      959.93,
+      955.58,
+      932.13,
+      946.34,
+      969.97,
+      958.59,
+      954.71,
+      933.28,
+      944.07,
+      942.5,
+      938.57,
+      927.11,
+      924.04,
+      914.39,
+      908.84,
+      901.27,
+      901.05,
+      903.43,
+      917.55,
+      900.02,
+      892.42,
+      892.61,
+      893.99,
+      897.15,
+      898.08,
+      903.36,
+      895.16,
+      921.41,
+      921.56,
+      923.23,
+      909.0,
+      913.59,
+      919.29,
+      922.16,
+      934.3,
+      940.86,
+      946.52,
+      945.52,
+      958.02,
+      953.22,
+      980.55,
+      976.57,
+      987.65,
+      994.06,
+      993.14,
+      996.84,
+      1016.71,
+      1001.84,
+      1003.68,
+      990.67,
+      981.28,
+      994.61,
+      1012.28,
+      1040.55,
+      1019.26,
+      1046.47,
+      1065.59,
+      1053.56,
+      1066.18,
+      1066.14,
+      1087.61
+     ],
+     "ret63": 0.1324,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 0.5,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 89,
+     "flat": true,
+     "vol_ratio": 1.48,
+     "low_touches": 4,
+     "range_pct": 22.0,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-05",
+      "pct": 2.34,
+      "direction": "up",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -1.91,
+      "direction": "down",
+      "kind": "breakaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-11",
+      "pct": 1.35,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 843.31,
+      "touches": 2,
+      "mirror": false
+     },
+     {
+      "price": 923.35,
+      "touches": 8,
+      "mirror": true
+     },
+     {
+      "price": 962.7,
+      "touches": 7,
+      "mirror": true
+     },
+     {
+      "price": 983.51,
+      "touches": 7,
+      "mirror": true
+     },
+     {
+      "price": 1021.51,
+      "touches": 5,
+      "mirror": true
+     }
+    ],
+    "setup": null,
+    "tech_score": 79
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.111,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.15,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 51.3508,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 13.4654,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.284,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.0866,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.2844,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.06,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.575,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 6752750080.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 2182425.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "discount stores consumer defensive",
+     "debt_to_mcap": 0.021,
+     "cash_to_mcap": 0.044,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "COST",
+     "title": "COST Stock Rises Overnight: Costco’s $30 Special Dividend Has Retail Celebrating ‘Santa Coming Early’ - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "tradingview.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU03ekRHaEc0TWl0STFiVExmZnBzd0xRTXdpa2ctc05XeS1qRWlvb3J1NFdaMHVFc2lsLVNkeG1meGZSZTN6MUlLeTRNZFI3c19JeEhWbTlFdFV3MkxJWkt3a05iWVp3ZnZYanZXSTNWV21pLVZ6NTFrT3ZFYmZSOEVFN2pONzdlNHdSOHFYQTJJVzkxeWZQYmZjSlpJMmc?oc=5",
+      "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2NNLUp2cmhaRm5tRTFIVkxCeENLTTkxYlVjWjNVVmdlRDMtaXhRWk5udHlHa1hQRDdFalAxZi1VQ2pheXkwV3dZbUNBOERWZ2hGY2Z3YjJMcVNwY3NnSWFLekxUOEdTQUhfZmhQR05CMDVEU1hxSnduazRKSFZRVFpOQW0xbkR5ald3OGN3aHVuTFB2UWtuNmxQSmdYN3l6ZnBfMWFtanRPOW9UN2w0Z1FOUjI4dm9FZ0xMRVpTZUlnUkFESXR1d01FMWt0R2pZcjFMcWJEeTRnN2x5WTlfZW42d28zbzdjclluUFFzcw?oc=5"
+     ],
+     "published": "2026-11-11T01:59:00+00:00",
+     "latency_min": 1655.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "COST",
+     "title": "Costco Wholesale Corporation Declares $30 Special Cash Dividend and Reauthorizes Stock Repurchase Program - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2VSTlhQZTRsaGYwMGR4UFF3MTJGVUhHMG84dEdxUWVTM0dFeEJ1UDFsX25sbVJCUzZ2TTFhT2Jpck5uX29OekdvejhHREpJQk5uRnFmR2xOazV4SjJLdFlvc0JRWGQyQVJsZHkyOWRkem80TzZ1X3A2QUlBZldXQ2dYS0xXNERZOEJtSy16b1M5RDZucDNxOGJ2S2NYbl9zZ3VXdmRPYnE?oc=5",
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1SbzRkY0hkTVlRbk9LWHduY2lLZnJjeUIxU3NvbWVNLWhVZFFJMjNJYUNlSF92N2p5YTY5RFFocmVYSGdKakNybjRTeVZZd250OGg0aWNVVmR6UzFhVHpXRnhVREVmbHJ0RXBVZU5HUVRWelYyRUFxOVhHeHN1QXAxUGxYRVZJSW93OEhjSnJ0V3BGMm9OeURlbk8?oc=5"
+     ],
+     "published": "2026-11-11T11:10:21+00:00",
+     "latency_min": 1104.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "COST",
+     "title": "Costco Wholesale Corporation (COST) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "ca.finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JS29haUVPZ0FuR1BDUFltYmhBTjRyTWlfSXdJdEF2QVlLRDJoQ2R3QUNxX2tTWXFGYklXaUtmMzlQNnZacWgyZVNNNGJRc3FaNHc?oc=5"
+     ],
+     "published": "2026-11-10T22:11:41+00:00",
+     "latency_min": 1882.7,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "COST",
+     "title": "COST Stock Alert: What to Know as Costco Issues $30 Special Dividend - Barchart.com",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "barchart.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd040dEdhY1J1bGdUTE5jakswU0d5VTR3cTF6cmVKVGFiQ0o0OG0taVdmMm15ZGQ5dFEzTEJfS3BoWU1wVDZsVUROdUZhSDFzOENDUEhVRTBYQzc5RXdvVENKd3lrY21Rejg2NENfaFNpUDk3RmNSOGhsWE9mNG9GTDhMempQVklNcUxIaDl0UnRCdkhIaDQwYk1uazZ2dXVNblJ0X3FrTXBiYUczRGJr?oc=5",
+      "https://www.barchart.com/story/news/8786248/cost-stock-alert-what-to-know-as-costco-issues-30-special-dividend?.tsrc=rss"
+     ],
+     "published": "2026-11-11T19:09:16+00:00",
+     "latency_min": 625.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "COST",
+     "title": "Costco Stock Moves Higher: What's Going On? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX3pFQTR6MjVmcVpNak42UEFXYU1PUkxrVUpOMUNMVGJ0aW12OE1WVDlJcDNwQmNhT2w4ZWZHbVFOa2ZLTTZ1OVZjQ3RQSC1aSEdkUTVDbUtvM2Z6MW5HUUhtaWgyX0hWQWhOVkxZT3J4cUxjSF9Hc20zWjR4YVdBVkpaYi1acDhmZjRqazhxeEo3OFh5OC1kX1ZiNHJiTjBfdmdyNGdB?oc=5"
+     ],
+     "published": "2026-11-11T15:53:56+00:00",
+     "latency_min": 820.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-12-10",
+   "gates_failed": [],
+   "reasons": [],
+   "status": "WATCHLIST",
+   "six": {
+    "signal": 77,
+    "halal": 51,
+    "momentum": 78,
+    "entry": 30,
+    "catalyst": 45,
+    "risk": 96,
+    "rank": 64.1
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "LLY",
+   "name": "Eli Lilly and Company",
+   "generated_at": "2026-11-12T05:34:26.154454+00:00",
+   "composite": 69.4,
+   "scores": {
+    "technical": 72,
+    "fundamental": 73,
+    "news": 50,
+    "accumulation": 75
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 1437.29,
+     "atr": 46.399,
+     "atr_pct": 3.23,
+     "ema20": 1343.86,
+     "ema50": 1268.47,
+     "ema200": 1127.84,
+     "vwap20": 1351.95,
+     "rsi": 70.3,
+     "rel_volume": 0.6,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 3066765,
+     "last_bar": "2026-11-11",
+     "spark": [
+      1214.09,
+      1215.21,
+      1186.88,
+      1180.18,
+      1150.89,
+      1154.97,
+      1167.5,
+      1177.42,
+      1145.26,
+      1173.73,
+      1161.35,
+      1184.17,
+      1194.32,
+      1195.82,
+      1218.91,
+      1208.29,
+      1153.32,
+      1147.2,
+      1119.76,
+      1114.08,
+      1168.19,
+      1190.23,
+      1184.01,
+      1230.18,
+      1213.28,
+      1218.53,
+      1207.27,
+      1180.16,
+      1183.16,
+      1225.73,
+      1280.34,
+      1244.4,
+      1255.4,
+      1246.93,
+      1233.66,
+      1189.41,
+      1176.1,
+      1174.61,
+      1156.73,
+      1160.0,
+      1160.08,
+      1159.6,
+      1149.36,
+      1123.91,
+      1124.21,
+      1123.0,
+      1115.7,
+      1138.28,
+      1136.11,
+      1137.82,
+      1152.44,
+      1152.93,
+      1164.89,
+      1170.14,
+      1150.99,
+      1181.89,
+      1183.46,
+      1184.78,
+      1184.63,
+      1157.08,
+      1149.85,
+      1142.85,
+      1143.12,
+      1157.49,
+      1188.72,
+      1169.6,
+      1179.27,
+      1182.62,
+      1166.51,
+      1208.74,
+      1251.61,
+      1257.03,
+      1240.34,
+      1283.66,
+      1270.75,
+      1306.69,
+      1273.46,
+      1279.14,
+      1281.91,
+      1288.3,
+      1373.7,
+      1417.54,
+      1410.99,
+      1409.38,
+      1417.99,
+      1364.73,
+      1354.0,
+      1411.95,
+      1432.29,
+      1437.29
+     ],
+     "ret63": 0.1905,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 1.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 75,
+     "flat": true,
+     "vol_ratio": 1.22,
+     "low_touches": 3,
+     "range_pct": 27.7,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": 4.01,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-02",
+      "pct": -1.72,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     },
+     {
+      "date": "2026-11-04",
+      "pct": 2.17,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 1083.71,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 1109.04,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 1134.99,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 1222.62,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": null,
+    "tech_score": 72
+   },
+   "fundamentals": {
+    "score": 73,
+    "available": 11,
+    "passed": 8,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.386,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.163,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 46.6501,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 31.8076,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.8602,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.2106,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 1.2292,
+      "ok": false
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.389,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.641,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 9343699968.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 2568845.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "drug manufacturers - general healthcare",
+     "debt_to_mcap": 0.039,
+     "cash_to_mcap": 0.004,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "LLY",
+     "title": "Is Eli Lilly (LLY) Priced Below Its Cash Flow Potential? - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFFFWUlzX1ZuR21hQXI1dE5pQWkzb2dpOWN0Z1JNdFJ0TXcyU0hKcXJ6VFlwMzVLbEhCTklKcS1TWmlCV00xZXMzOEZxdWxWNVJTaGFpVElHck9pbU9KZlRZd1lXajNmVm1CSkw5WUtGcTQ4djM1OHZpdUpEYjE4NHQ4aGlOanZYZS1Ob2N5QWg?oc=5",
+      "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-priced-below-011832255.html?.tsrc=rss"
+     ],
+     "published": "2026-11-12T01:18:32+00:00",
+     "latency_min": 255.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LLY",
+     "title": "4 stocks to watch on Wednesday: LLY, BABA, PYPL, and NVDA (SP500:) - Seeking Alpha",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "seekingalpha.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEQtU0U2M2hWaHRXd0pvSllHX281QXNUX2VuMlZvVVZ6c25DMk9XLV9vc1REeThLRWhNcE4zWDFIWmdsZ0dFRWRxYlE3dU5Nck5WQ091NElCTl9fRWtsRHo5V0d0bkFBU3pwQ3BJT05Nd25URzROSDZNSW9VUlZQQWVpemVtUUNiWW5JUjFHVjB2LURFSUE?oc=5"
+     ],
+     "published": "2026-11-11T13:47:50+00:00",
+     "latency_min": 946.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LLY",
+     "title": "Eli Lilly (LLY) Stock Looks Reasonable After Its Very Large Five Year Run - Simply Wall St",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "simplywall.st"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2xjUGpQYlJ5dFg3cE9vemZmZXFKUFctWjFMd1labllDVnhtNzFSSWRtYjVrY29mQldqRDZ1N1ZjWVZpRDc4YndCejM2aDJ4V3Bsc2I4NGdkVENlT3pQb0hKa2R4T1hIUE5lOEQzSlJBanNnZjhGcGotSnZUTkMzdExIYlhremJ2X3dkMndqMU9lXzUtWWgtOWhHOGdQTW5URFh5b0Q0VTJyNEpPb2lZcFZJMkQwZ1Y3VzhpODF0aTFCZ3h2Y1RCX1pmV1k1TkJxTlNVVzdkZ9IB3AFBVV95cUxNbml6S0liUWpIdEd3cDRITDlSY2FMUGk5dkR4dndrXzVjUmwtY3BkZEROTHVBNGtJWEVDY2wwRUVYNXBoODg0dENOdVBfWW5VZ1NzWms0NC1rdzFvZ0hNOEIwYy00TU02eElRYUp6MFpQTjdNRTQzUlNrMDRPVzY5OEFvc21PS1oxTDB0c1VhTUtPVEhfMGNXT3ZMZkk3eW0tNEMwQ0ZhR055LUZxbS1xWGo5ZFlKUF9xRTZSb3NWMk1VMTgwNDhsTlpRc2ZkcjN0ZW9RbTluNEp0M19q?oc=5"
+     ],
+     "published": "2026-11-12T01:33:55+00:00",
+     "latency_min": 240.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LLY",
+     "title": "S&P 500 After-Hours Movers: MNST, RDDT Among Gainers; VEEV, LLY Among Losers in Latest Session - ChartMill",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "chartmill.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDd1U0htSHdYRlV6NnNoRU1ZYWU1MS01bjlPaUw5LUFraHpzU1FTMTFBX2daMGc0VmtSenZ3TDdwMkZfQUpkcXpNbkYxeWhwNldyLVBRSGJyNDhaUDdOb3Nza3Q1RDJGV005a2RkOE9ZMWx2NnZ5YjlXOVlMNDgyd1RYS3BjZGRSVEV2QWdMQTJ2elNmVl82cE1qcnJ6R3RFMTI5RUpvaWxRUWFXT1F2WHBPUGpGZ0VXRVM1UVJuU3U1RHJ2ekhid3dWR1d1Q0ZZblplQVBINFA?oc=5"
+     ],
+     "published": "2026-11-11T22:06:19+00:00",
+     "latency_min": 448.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LLY",
+     "title": "Eli Lilly (LLY) Stock: $1,432.29, Up 1.44% Nov 10 - JournalArta",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "journalarta.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUpZVVBUSEVzaEwzaml5ci1vNk1GZ3ZkV3Y0TmN0enczRy14N2d2Rk5JdHp6ODA3bFh5VTVPc0xsdS10ZHFUZk52U19GeFlLc2FQYUZZaEo3bmZSeFJnaFJGQzR2Uk1xWUluRXkxVHZjQllBSFVjcXBldEdIaDk4aG96LTJZSk4teUhwX1hfZlhWOUNQdVpyUzlKN2NaSkNrLVJ6dWduaVJCQXF3TEVIYnBMSU0?oc=5"
+     ],
+     "published": "2026-11-11T12:04:30+00:00",
+     "latency_min": 1049.9,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-10-29",
+   "gates_failed": [],
+   "reasons": [],
+   "status": "WATCHLIST",
+   "six": {
+    "signal": 69,
+    "halal": 52,
+    "momentum": 75,
+    "entry": 30,
+    "catalyst": 30,
+    "risk": 93,
+    "rank": 58.7
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "LOW",
+   "name": "Lowe's Companies, Inc.",
+   "generated_at": "2026-11-12T05:34:31.455154+00:00",
+   "composite": 56.0,
+   "scores": {
+    "technical": 60,
+    "fundamental": 56,
+    "news": 50,
+    "accumulation": 50
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 231.6,
+     "atr": 6.308,
+     "atr_pct": 2.72,
+     "ema20": 213.5,
+     "ema50": 205.29,
+     "ema200": 215.61,
+     "vwap20": 210.37,
+     "rsi": 72.5,
+     "rel_volume": 0.8,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 3417780,
+     "last_bar": "2026-11-11",
+     "spark": [
+      210.21,
+      210.36,
+      209.01,
+      205.12,
+      205.1,
+      207.06,
+      213.48,
+      206.14,
+      202.17,
+      200.99,
+      203.06,
+      200.65,
+      206.33,
+      210.22,
+      216.87,
+      214.32,
+      208.76,
+      206.5,
+      210.72,
+      216.71,
+      218.56,
+      217.02,
+      221.94,
+      217.5,
+      219.86,
+      214.61,
+      216.85,
+      217.09,
+      214.45,
+      214.28,
+      218.61,
+      215.97,
+      214.73,
+      215.61,
+      213.25,
+      209.04,
+      205.44,
+      206.74,
+      203.41,
+      198.79,
+      198.58,
+      200.63,
+      203.16,
+      199.54,
+      197.35,
+      195.35,
+      195.58,
+      196.92,
+      193.38,
+      192.88,
+      192.97,
+      191.28,
+      189.78,
+      194.85,
+      190.16,
+      187.3,
+      188.09,
+      186.48,
+      186.08,
+      183.13,
+      181.23,
+      179.66,
+      178.37,
+      182.51,
+      180.4,
+      187.66,
+      184.83,
+      184.4,
+      187.55,
+      187.12,
+      194.49,
+      196.14,
+      194.69,
+      197.28,
+      196.56,
+      204.37,
+      198.68,
+      198.22,
+      198.18,
+      198.4,
+      207.28,
+      209.07,
+      218.15,
+      213.38,
+      229.38,
+      227.24,
+      224.55,
+      232.1,
+      231.87,
+      231.6
+     ],
+     "ret63": 0.068,
+     "above_ema50": true,
+     "above_ema200": true,
+     "ema50_rising": true,
+     "dist_high_pct": 19.6,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 50,
+     "flat": true,
+     "vol_ratio": 0.59,
+     "low_touches": 1,
+     "range_pct": 28.7,
+     "distribution": true
+    },
+    "gaps": [
+     {
+      "date": "2026-11-06",
+      "pct": -3.04,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     },
+     {
+      "date": "2026-11-09",
+      "pct": 3.21,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-10",
+      "pct": -1.55,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 199.51,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 219.94,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 224.73,
+      "touches": 4,
+      "mirror": true
+     },
+     {
+      "price": 234.9,
+      "touches": 4,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "early_breakout",
+     "level": 234.9
+    },
+    "tech_score": 60
+   },
+   "fundamentals": {
+    "score": 56,
+    "available": 9,
+    "passed": 5,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.083,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.0,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 19.5939,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": -17.47,
+      "ok": false
+     },
+     {
+      "check": "ROE > 10%",
+      "value": "N/A",
+      "ok": null
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1252,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": "N/A",
+      "ok": null
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.105,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.209,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 4615374848.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 3286568.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": false,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NOT_HALAL",
+    "reason": "превышены финансовые пороги",
+    "calc": {
+     "industry": "home improvement retail consumer cyclical",
+     "debt_to_mcap": 0.323,
+     "cash_to_mcap": 0.024,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    }
+   },
+   "news": [
+    {
+     "ticker": "LOW",
+     "title": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.) - The Motley Fool",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "fool.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlVLRnBXUGxZMGhyel81ejhOMGptWC1FUVVrd3ktTlYzSDN1R3VsTzJDNXFaSnR5c1NtYWUyUm9kR2E5RU5mZUFiX3Jfek10M3J6ODI5N1lRbVRJR2d4LUduNk9lTHo0bG1STXN4eUNiSjFsM0FSR0ktUE9CTU9nNm5ocEZQSlJIVVhUSm8zVnI3Y0phVnNZUklGQjdaU3JXb2NLeUFxS0w?oc=5",
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRndXeDlNTWhHV2xYeGlZM1ZDc3ltaVdJdEliSnJNX2FlMDlIczF2Rjk1T0U5T1hScVhhYnNHai1pVVQyajgzZl80eTNCa08zdjVlRWNvYVREbFNwYnM2bUJmWVlpRzRteTJjcV84SFdENDFWQW8xZHpyRzI2T0NIVHRQREtEOW5jNGZ6R09xREgydktGQzFMZG1rbw?oc=5"
+     ],
+     "published": "2026-11-11T17:41:02+00:00",
+     "latency_min": 713.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "Can Lowe’s Stock Keep Surging From Here? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDM2SXg2MWR1WXhER1dfbmo4dHR0VExiN19pY1hNZTRtRFZXdFM5V2o3dkxqZkZZUDR3V3NCSVRxNGNrb0ZXUk9vSEwxWWI3YzNTeUhRSXBqVXpvams2NkZrcWNoUnl6aUNLb3BGQ0RuamRyT0VoOFNUOE4zMDZPMVVOREFNZ0FSeWVWdW9wZ3FhYno4OWVhMkliT3NuOGs?oc=5",
+      "https://www.trefis.com/stock/low/articles/624282/can-lowes-stock-keep-surging-from-here/2026-11-11?.tsrc=rss"
+     ],
+     "published": "2026-11-11T20:35:05+00:00",
+     "latency_min": 539.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "Stock Watch: Lilly’s 52-Week High Meets Alnylam’s 52-Week Low - Scrip",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "insights.citeline.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOem5uR2xSV2lqeDB0eF9EWEg3cjVJdVcySDlnOGJJLVg0Yk1VQTh1d3dLODhIUEpqM2x1Wnc4V1J5Tlh1N2UxekpnS2pvR2tGbHF1SFA3dUZOcmd5WHpDRDZaVUNQTUFhVUs1eWFGWG9nYU5VRFk0a1BwazY1Vm5qNEhmRFlTeURENTdMYXZabjZTT0xiSUdhWDMyTE55Z0k5azBZM1htQzBTSktDUUptN2M3NVJVZGVRd2dGMW12MWY4UVpfekNmek5XOXRheXEzSFdjeHVWMURCM2M?oc=5"
+     ],
+     "published": "2026-11-11T16:36:24+00:00",
+     "latency_min": 778.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles - MarketWatch",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketwatch.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzdoSVNxancxZzNsSGRPZTBJZ1FNSktlSXotYkQzQldsOFprNzJ6MkZHZWotZmlSc1FzejRwV0lfQ24tU1hkS05xMUVIZUFTTXBrSWxDWm9YaW1XeHJHUDZIWDh1UEJCbVpfZ3Q2N3dsVzFfeW9iUDY5RkxIdTNSbkwzNm5uQVhMT2s5Umoxem55UjNiamZxS09zMDdnd2dVdTZjM01XT3dyUklRZnRRNDlQLU1JX2VMMldsVzlSR3hkZw?oc=5"
+     ],
+     "published": "2026-11-11T15:15:00+00:00",
+     "latency_min": 859.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "CoreWeave Raises 2026 Outlook to $13.3 Billion, Stock Rebounds From 52-Week Low - BeInCrypto",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "beincrypto.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTFAyeWt2Vk1HNGtPSkE0VGhsUmRZRzNlcHhzNUNLOVlMZ1VhMlViX2lPWUdibmNZVFNLVXhMVDhYZGllcThrb3BaMTZ6RVA3bHl1a1hJUXlSbGpSaWVtMGp2bm9KNFpTTGtIWkwtcnNtTFpBZw?oc=5"
+     ],
+     "published": "2026-11-11T17:22:36+00:00",
+     "latency_min": 731.9,
+     "sentiment": "bullish",
+     "high_impact": true
+    }
+   ],
+   "earnings_date": "2026-11-18",
+   "gates_failed": [],
+   "reasons": [
+    "цена у сопротивления 234.9, накопление 50/100 — вход не подтверждён"
+   ],
+   "status": "WATCHLIST",
+   "six": {
+    "signal": 56,
+    "halal": 0,
+    "momentum": 71,
+    "entry": 45,
+    "catalyst": 40,
+    "risk": 39,
+    "rank": 52.2
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "NKE",
+   "name": "Nike, Inc.",
+   "generated_at": "2026-11-12T05:34:28.295918+00:00",
+   "composite": 66.2,
+   "scores": {
+    "technical": 65,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 60
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 38.32,
+     "atr": 1.252,
+     "atr_pct": 3.27,
+     "ema20": 38.2,
+     "ema50": 37.93,
+     "ema200": 44.37,
+     "vwap20": 38.26,
+     "rsi": 51.9,
+     "rel_volume": 0.8,
+     "macd_hist_pos": true,
+     "weekly_up": true,
+     "avg_volume_20": 23846980,
+     "last_bar": "2026-11-11",
+     "spark": [
+      42.44,
+      42.33,
+      43.9,
+      43.3,
+      42.41,
+      42.32,
+      44.1,
+      43.3,
+      43.01,
+      42.51,
+      41.77,
+      40.56,
+      41.26,
+      41.7,
+      42.6,
+      42.77,
+      41.85,
+      41.27,
+      42.19,
+      41.09,
+      42.0,
+      41.56,
+      41.26,
+      41.67,
+      40.89,
+      40.08,
+      40.8,
+      40.3,
+      38.68,
+      39.64,
+      40.62,
+      39.79,
+      40.33,
+      40.32,
+      39.07,
+      38.18,
+      38.04,
+      39.18,
+      38.65,
+      38.12,
+      38.24,
+      38.77,
+      38.4,
+      38.1,
+      37.35,
+      36.62,
+      36.8,
+      37.05,
+      36.22,
+      35.78,
+      36.36,
+      35.51,
+      36.1,
+      36.1,
+      36.05,
+      35.99,
+      35.75,
+      36.39,
+      35.84,
+      35.4,
+      35.15,
+      33.87,
+      33.96,
+      34.61,
+      34.36,
+      34.74,
+      34.71,
+      35.35,
+      35.33,
+      35.3,
+      37.14,
+      37.13,
+      37.21,
+      37.88,
+      37.53,
+      38.32,
+      37.3,
+      37.91,
+      37.56,
+      37.15,
+      38.42,
+      38.67,
+      39.12,
+      38.48,
+      40.49,
+      39.56,
+      38.59,
+      39.88,
+      38.67,
+      38.32
+     ],
+     "ret63": -0.0607,
+     "above_ema50": true,
+     "above_ema200": false,
+     "ema50_rising": true,
+     "dist_high_pct": 43.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 60,
+     "flat": true,
+     "vol_ratio": 0.6,
+     "low_touches": 1,
+     "range_pct": 24.5,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-11-04",
+      "pct": 2.96,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -3.26,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     }
+    ],
+    "false_breakout": null,
+    "levels": [
+     {
+      "price": 36.94,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 40.82,
+      "touches": 5,
+      "mirror": true
+     },
+     {
+      "price": 44.54,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 45.94,
+      "touches": 2,
+      "mirror": true
+     }
+    ],
+    "setup": null,
+    "tech_score": 65
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": -0.043,
+      "ok": false
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.021,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 18.6019,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 3.7338,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.2156,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.0689,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.7309,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 2.075,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 1.193,
+      "ok": true
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 1766875008.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 33247021.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "footwear & accessories consumer cyclical",
+     "debt_to_mcap": 0.195,
+     "cash_to_mcap": 0.147,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "NKE",
+     "title": "Nike (NKE) Stock Trades Near Fair Value On Cash Flow - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU9EYVNXdE03Tzhud0VkOGwxdzViRTZHQzc0Y0g3bFZIZFJXa1lWaHpkbG55TXdqY2E3c2J5c25WV0NpUjBkQ0dTVGFpNzFhVG5jU3d2MEJjUUl0UXJCVkZiSGVrVThUWVFnbml3Zm5rajBEaVgweVBmMkduUHQ5S29MenpxSFF4QlpYYjNSU1U5bzk4X3c?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/nike-nke-stock-trades-near-210941923.html?.tsrc=rss"
+     ],
+     "published": "2026-11-10T21:09:41+00:00",
+     "latency_min": 1944.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "NKE",
+     "title": "NKE: Nike Inc. filed SEC Form 8-K: Leadership Update - Quantisnow",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "quantisnow.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVI1bTBENnE5anlHUWtvclZUd0F6eUlVOFBvcjA0aGpkUlpNcFUzVjh6TzRWNHZZLVdnRjAwUXhhaWlqcU5JS3YxMmtUZkJSQkZKOWItS25MYV9fbzMxdmlXVGI1MWJXRnRQYzR3Mm5TekgwMlZqeGxUMzlBWnVZVUIzcW9Pbmp1eUVqd3lzcGUzZw?oc=5"
+     ],
+     "published": "2026-11-09T21:47:46+00:00",
+     "latency_min": 3346.7,
+     "sentiment": "neutral",
+     "high_impact": true
+    },
+    {
+     "ticker": "NKE",
+     "title": "Nike Inc (NKE) Stock Up 3.3% and Still Undervalued -- GF Score: 69/100 - GuruFocus",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "gurufocus.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVnUzVITExfcnZXZTlQakdoUk5oSWtRaXNMOC01eEVHdUVJeUhuRGhCeGZ1OU5IZFk2bFBvS3dvNGFLMXpWSm9hSE1QRWVqT2JZYUI2NVRvRzdsVHpJTkYxVWlSU3VEcHlPZllhQVpJbnFKNldvSlBaVDMzeUZ2dkE5TlRheEI0Z0hwMHh3M2VncFVVNjhaWkJscGxsdjBXZ0E?oc=5"
+     ],
+     "published": "2026-11-10T00:19:22+00:00",
+     "latency_min": 3195.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "NKE",
+     "title": "Nike Appoints Dan McKenzie as Chief Accounting Officer - The Globe and Mail",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "theglobeandmail.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEt6eGRnSXVxYmQtVTdNOW5IUHFxRnJvZDFUNnBJTURKQ0tFSWQ1UDJ3ZW9kbmtqMTAtVWV4RFBldWdub2F0cXhWbzgzWnV3dlB6RmxheEZZQkdYR1c3QzBSd1BNQ19IbmtJbnh0amh3bjd4cHpLQzZEeG5KX0tOdllleUYyS3oyenlRSnZmQUo0VnJURjhzNTlJTXdwSFpPc1M1OHc5SUFhWTUyNVU5MkREdUdWQ2NzVm9YT2J6TzJOcEpwUEVVZ2t0cklOSUtEN3phbw?oc=5"
+     ],
+     "published": "2026-11-10T22:47:16+00:00",
+     "latency_min": 1847.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "NKE",
+     "title": "Nike (NKE) Declines More Than Market: Some Information for Investors - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVZKcWxxVl9rYlN0bUZicVMtOHM5Y0lCc0tlbWFzRUp4UmcyODA4Z3VrNl8zeE1Zd1otOW1XQmFIRkhLWHlrS0RmR0x6LXRiQmY1ZEZoZE5JMHV2QktSaE4xdFRaWjZzMDd2LUFpVlhqRHhwaWZpaVdaRlczMDhDLUF4Nnk0OFlQdHV3VWNHbWllazJDQ0o3Ynhn?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/nike-nke-declines-more-market-214502786.html?.tsrc=rss"
+     ],
+     "published": "2026-11-10T21:45:02+00:00",
+     "latency_min": 1909.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    }
+   ],
+   "earnings_date": "2026-12-17",
+   "gates_failed": [],
+   "reasons": [],
+   "status": "WATCHLIST",
+   "six": {
+    "signal": 66,
+    "halal": 21,
+    "momentum": 53,
+    "entry": 30,
+    "catalyst": 30,
+    "risk": 70,
+    "rank": 51.9
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "ADBE",
+   "name": "Adobe Inc.",
+   "generated_at": "2026-11-12T05:34:36.060917+00:00",
+   "composite": 52.1,
+   "scores": {
+    "technical": 32,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 65
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 237.6,
+     "atr": 8.356,
+     "atr_pct": 3.52,
+     "ema20": 245.54,
+     "ema50": 247.82,
+     "ema200": 262.91,
+     "vwap20": 250.14,
+     "rsi": 41.5,
+     "rel_volume": 1.0,
+     "macd_hist_pos": false,
+     "weekly_up": false,
+     "avg_volume_20": 4143525,
+     "last_bar": "2026-11-11",
+     "spark": [
+      220.94,
+      222.65,
+      223.64,
+      230.61,
+      220.78,
+      224.56,
+      235.31,
+      237.25,
+      234.74,
+      227.16,
+      218.36,
+      212.17,
+      225.11,
+      237.75,
+      249.18,
+      263.43,
+      247.9,
+      250.41,
+      251.34,
+      257.49,
+      259.32,
+      260.24,
+      265.21,
+      272.96,
+      263.71,
+      258.75,
+      270.49,
+      264.02,
+      254.04,
+      263.14,
+      272.47,
+      272.22,
+      275.3,
+      276.27,
+      273.92,
+      273.47,
+      289.15,
+      291.52,
+      292.79,
+      286.08,
+      279.79,
+      285.75,
+      266.51,
+      257.26,
+      254.86,
+      248.83,
+      252.23,
+      265.6,
+      257.76,
+      250.5,
+      252.67,
+      248.92,
+      249.52,
+      238.25,
+      240.69,
+      238.93,
+      235.47,
+      231.01,
+      233.17,
+      239.94,
+      241.28,
+      237.69,
+      238.79,
+      238.12,
+      232.77,
+      241.05,
+      242.27,
+      238.14,
+      236.28,
+      240.68,
+      251.67,
+      245.2,
+      247.09,
+      256.73,
+      255.06,
+      270.55,
+      263.82,
+      258.62,
+      248.36,
+      249.76,
+      248.12,
+      250.23,
+      251.47,
+      246.14,
+      248.48,
+      246.44,
+      239.3,
+      237.32,
+      236.7,
+      237.6
+     ],
+     "ret63": -0.1216,
+     "above_ema50": false,
+     "above_ema200": false,
+     "ema50_rising": false,
+     "dist_high_pct": 34.5,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 65,
+     "flat": true,
+     "vol_ratio": 0.9,
+     "low_touches": 2,
+     "range_pct": 27.6,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-29",
+      "pct": -1.87,
+      "direction": "down",
+      "kind": "common",
+      "filled": true
+     },
+     {
+      "date": "2026-10-30",
+      "pct": 2.13,
+      "direction": "up",
+      "kind": "common",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -3.02,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "wick",
+     "bias": "bearish"
+    },
+    "levels": [
+     {
+      "price": 225.27,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 232.81,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 239.44,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 246.67,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 251.15,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 259.1,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 265.68,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 273.77,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 287.34,
+      "touches": 3,
+      "mirror": true
+     }
+    ],
+    "setup": null,
+    "tech_score": 32
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.129,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": 0.105,
+      "ok": true
+     },
+     {
+      "check": "P/E > 5",
+      "value": 13.2147,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 7.8971,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.619,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.2008,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.5769,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 0.77,
+      "ok": false
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.65,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 9345125376.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 4632131.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "software - application technology",
+     "debt_to_mcap": 0.073,
+     "cash_to_mcap": 0.061,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "ADBE",
+     "title": "Should Value Investors Buy Adobe (ADBE) Stock? - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRvbzU5ZktIZ1owUkNGYW4xU1o3TzJ4SXl5VFc0LVFiWlhNSU5qTkF3Y1UzRkxjVjJHbVl3UWFzNHk3VjIzV2h6YXp5MUVXZkhsZHNpQWd3NmpldnkzUkk1Xy1aTjFueEtEbHB0RVJKX1dCMFJmUlptdl9PVnRwZ3plbFdFNTJpWFh2RVl2dUJKVXJtZUVGcF9fMA?oc=5"
+     ],
+     "published": "2026-11-11T20:08:01+00:00",
+     "latency_min": 566.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ADBE",
+     "title": "Is Adobe Stock’s Fall A Bargain Or A Warning? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW9wRUFwbF9MekgxVVVveGRZbU0tZ21hV3hIb00yTHFzUmhRUTlsQncyNmptcXlXUFlUVDcxYk5qMnpTYkF5cVJJNmNVNTdnWGJxODZuNTVRcDAtQktxQlFEWjNJRmdWd0xobHFwWEE0OFJBcUhFS2s3eGJiaU5nQlZpdjllbVhHVVhBN3gzYzBwMnVqRU5zN19qZGZ4azJzR0dFTmxDRQ?oc=5"
+     ],
+     "published": "2026-11-11T07:20:15+00:00",
+     "latency_min": 1334.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ADBE",
+     "title": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUc5TEQxMjFBVTFjWU1tNjR3V2xKWW8tc1RLM3FpQ3gyVDRlNlgyZERDLUhna0QtMUxleDFYSGZJZ2w2aVF3OHhLUlRrTnpRekFzM3hSR3JDWHV1bG1RSjBmUHc1c01WS3dQaFJuTUlpX3Nvb255dnJ4cEF2X1U0T1U3ZWt3dms1YTBwVHhwbUo3dw?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-down-31-citi-180326888.html?.tsrc=rss"
+     ],
+     "published": "2026-11-11T18:03:26+00:00",
+     "latency_min": 691.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ADBE",
+     "title": "Adobe: A Cash-Secured Put Turns AI Fear Into A Lower Entry Price (NASDAQ:ADBE) - Seeking Alpha",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "seekingalpha.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXpfX2dqMUpQN1VfNlNvLVJyRzZ6WmRmQmZLY3pDOUFKYkVuOGlmUUVWRXUtNGFYWmRUSm5INExuR0NrbkRKdFRmUzNtOENyMXBUb2dFWFV5anZmQkRvSHczV0FwUjF0OWNRRkZKRkhjVThLWW1leG1VcEZoNFlSU1I0aDE3Tno4UDBXdS1ZUHZpYXNmTWZpQ1FTeGpzUF9RYnpfNzhuVUpKUnlS?oc=5"
+     ],
+     "published": "2026-11-11T07:43:55+00:00",
+     "latency_min": 1310.7,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ADBE",
+     "title": "Adobe (ADBE) Stock May Trade Below Fair Value Following Fresh AI Partnership News - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanB2YlF6dzBlRDEwaWtrajByOTJkZUR5c3hzVHdzUWQ2aFpWajBuVVprRGJHVEM4VWduWnpScW5vSjdETF9oMW54V29qT1d2M295UWkybmRYeTNoX3AxdjVnRVJMUVBobHRuMmFZM0NWZmZRaUVObjdDejhtM2JtT3ctNUlKWkFmdzk1UkF2Unk2TGNhYXc?oc=5",
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1RjSzRQZHZWOTZjQVVIUXNzR05IUVE3VUJEM24ta1YzbEY4Z0tHQnEySWdTa2cwUlk0ZGF2MGJZSVpBNHJzb0g1WE5KTjdxcVZsRTd5T0NOd3VLVVllQm9IU1hYVWNOckZ6d2FNVERoWG5XUVN0UzBITktRZG9yQ0dFQWRrSm5CSFRULXlkR3RQUVcyQ2c?oc=5"
+     ],
+     "published": "2026-10-28T07:00:00+00:00",
+     "latency_min": 21514.6,
+     "sentiment": "neutral",
+     "high_impact": true
+    }
+   ],
+   "earnings_date": "2026-12-09",
+   "gates_failed": [],
+   "reasons": [],
+   "status": "WATCHLIST",
+   "six": {
+    "signal": 52,
+    "halal": 46,
+    "momentum": 30,
+    "entry": 10,
+    "catalyst": 45,
+    "risk": 80,
+    "rank": 40.3
+   },
+   "insider_buys_90d": 0
+  }
+ ],
+ "meta": {
+  "generated_at": "2026-11-12T05:34:38.389876+00:00",
+  "provider": {
+   "ok": true,
+   "fetched_at": "2026-11-12T05:34:15.902498+00:00",
+   "tickers_ok": 39,
+   "tickers_requested": 40,
+   "provider": "yfinance (Yahoo Finance)",
+   "frequency": "1d (EOD)",
+   "delay": "дневные бары; интрадей-котировки Yahoo могут идти с задержкой ~15 мин",
+   "url": "https://finance.yahoo.com"
+  },
+  "fx": {
+   "usdkzt": 446.29998779296875,
+   "source": "KZT=X (yfinance)"
+  },
+  "universe": 39,
+  "analyzed": 39,
+  "deep": 17
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "summary": {
+  "live": {
+   "total": 0,
+   "open": 0,
+   "closed": 0,
+   "win_rate": null,
+   "avg_R": null,
+   "total_R": 0.0
+  },
+  "pending_halal": {
+   "total": 0,
+   "open": 0,
+   "closed": 0,
+   "win_rate": null,
+   "avg_R": null,
+   "total_R": 0.0
+  }
+ },
+ "rows": []
+}
