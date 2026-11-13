@@ -3,7 +3,7 @@
   {
    "ticker": "ISRG",
    "name": "Intuitive Surgical, Inc.",
-   "generated_at": "2026-11-12T05:34:17.929473+00:00",
+   "generated_at": "2026-11-13T02:05:24.972453+00:00",
    "composite": 76.5,
    "scores": {
     "technical": 93,
@@ -242,12 +242,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 54.4225,
+      "value": 53.191,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 9.7463,
+      "value": 9.5373,
       "ok": true
      },
      {
@@ -282,7 +282,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 2399681.0,
+      "value": 2377946.0,
       "ok": true
      }
     ],
@@ -294,7 +294,7 @@
     "calc": {
      "industry": "medical instruments & supplies healthcare",
      "debt_to_mcap": 0.0,
-     "cash_to_mcap": 0.026,
+     "cash_to_mcap": 0.027,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
@@ -302,26 +302,7 @@
    "news": [
     {
      "ticker": "ISRG",
-     "title": "ISRG Stock Quote Price and Forecast - CNN",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "cnn.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zSURLcjFNX1pSclFQbjNRRVZHbnV6bXpFQmtwWHBmUXJKX2c3aFMxOS1Ob3hJNHZIS3ZlOFpZVEhQdG5mdERGVWVDVnM5REcz?oc=5"
-     ],
-     "published": "2026-11-09T18:54:39+00:00",
-     "latency_min": 3519.6,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ISRG",
-     "title": "Is Intuitive Surgical (ISRG) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
+     "title": "Intuitive Surgical (ISRG) Stock Fair Value Edges Higher After Mixed Q3 Analyst Revisions - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -331,12 +312,50 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnpLTmE0dklyYmp0MGJRU2hzQmQ2T2luWnppTmJFWl9rSWhXS3djTWNyS29RUTlpYXpXemF0SkdHUGZNOEp3ZXRiTnBlSHl3Nnp0Z01EcWhuekZ1OW0xX0hpdVpIS29PaHc5cG5VTDhLcHQ0d2RYU3ZYd3IzYnJfQ05ac3hlM0pudHY5QlZIU1haUHlYU0ZwWDBvSUk5eF9vckFn?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-solid-growth-164502240.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQW1hV1lMNFBYRmJWdW9OTDVTTDV6QktCT3hhMGFteTFYdGJ5dGxSci1TNk1pdkVBUUhuRlJJamNodjcya3o1NXh5aVZTUWU3b1NNekM5YWdyd2IxU00xZ3hRRXdWdG96YmRRZXhIWUF0aGZfR2FfNC0zR21JZ05KSzNhckdBQlBFcFctbDVRV0o5cUplWXpuMjhSaTNSVFlR?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-isrg-stock-fair-002322712.html?.tsrc=rss"
      ],
-     "published": "2026-11-11T16:45:02+00:00",
-     "latency_min": 769.2,
-     "sentiment": "bullish",
+     "published": "2026-11-11T00:23:22+00:00",
+     "latency_min": 2982.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Intuitive Surgical: Why I Remain Bullish Despite Cutting My Price Target (NASDAQ:ISRG) - Seeking Alpha",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "seekingalpha.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazNWaGNyVnM5SXk4aVY5dWpVUy16Z0t6VU85MFhOa01WQVNWRmVPeDZXLTVNYkN1bHQzSmNtdTZFT2VMRFhiU2tfcFNlN3g1ZjZJdVpZc212YlVxa19sY0pnMWV3N1VCWlFqdHljTDZTXzk0LURZVXNITldONmFfSTJUemplYWJwNEZiQlVTeUFvc3FLcGdEVTRfUkJOUWI4OXlPMzVBS29BREhLc1NqQVpn?oc=5"
+     ],
+     "published": "2026-11-12T19:37:49+00:00",
+     "latency_min": 387.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ISRG",
+     "title": "Intuitive Surgical (ISRG) Stock Looks In Line With Cash Flow After A 45% Run - Simply Wall St",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "simplywall.st"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLXU0OUM4LWFjWXZGN0hScU9GQkxULVJoT256bEZocFV0WjRpUGlwSnZlbDJDampJM256QVFKcnU4VGVJQ3hXM3lLZXFrYTJjX2o3OUlBbXBLYlV0dHdqV0ZsNFJ5OUhUZFo3SGJIY3VwU2tBbC1sYjg3WWhEVk1oQlY2aGdxVTQxUzB0dDJfVTFtM01PbTY3clZqVk1YM0t5MmZiRW42R29fY194Q2I5cFREMnFra2NTaXpLOUFxRXI0d1VKamFad0YzektQcmtXb0hlZkRn0gHbAUFVX3lxTE5VNTVxX08tUDh3SmNHdl9Ca2tpQ3RoM0g4dGtiMHZrdXkzeXZsZmFwOFE0UWtpY2Y1ZmxhMWJLU09yaWQzdnZxMG13WU9IYWNyY2FtWE9WdVpHVjMxYWxFUzZaUWM4UmRYYUdXYjRyVC1TZ3ZucmFzZEJkdDdqcmFKblJlWnRrSWNZYUdsUXIyU1BPclM5VmpnaUVES3FLZmFpR29ob0RSRHVhWWdvWjNFWDVNTXJUUGJlN1huaE9ILTMtckc3MHJrb2xqRVIxOUdvdWg4VkdpcjB6aw?oc=5"
+     ],
+     "published": "2026-11-13T00:24:15+00:00",
+     "latency_min": 101.1,
+     "sentiment": "neutral",
      "high_impact": false
     },
     {
@@ -355,7 +374,7 @@
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzRMWnpSQVd0eDlIbnROTzZUekFNN2U3QjRVMEphdTZYM1hVY0JNOEdDem1BUm1CRC1oU0NoNDB2eWJwd2hBTEgtemktYTU3TE8zVU9XWDZXUWc5aDlSU2dMSGo5dlc5Smd2XzBubmFLMFFuZVB4Ml9JbWljbWtsWTBVSHRZUnJmOUdN?oc=5"
      ],
      "published": "2026-11-10T16:15:27+00:00",
-     "latency_min": 2238.8,
+     "latency_min": 3469.9,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -374,27 +393,7 @@
       "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlZBOTF1WE04WUhQQzdaUEZzYzFIbXlVeWs1S2hrSXB4cGh2Nzc2SjhBQU5INlNqR3Q2OTA0Nmh3cDlEdG9BWTFDVGlaa3IzWGRDbTNjbk9jWG5WaWhENXhCVzhodnZmQ0g4SHNpRzg4TFd3VG82RmdwYjhFOTUweUszV1hLeUJZTDU1RS1GdWpVS1ltYmpZZW1mM0dsY1NpUFE3ZmpyS0FlOUFWTjVaMTJNYmZlZG16QzhJbS1TOFZBenJsQ3pYQ0VyX0xQT1l3SVpCVXd3?oc=5"
      ],
      "published": "2026-11-10T21:36:00+00:00",
-     "latency_min": 1918.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ISRG",
-     "title": "Intuitive Surgical (ISRG) Just Grew Revenue 22%. Why Is the Stock Still Down This Year? - The Motley Fool",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "fool.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0VjZkZMUjNBQ0J4cUNTQ3hnREhVcWVOa3lqdzF5NUx3a1Q4ZTB2cU4teHI3Q044Q3JhOG1pTmRWLWdkcHVNQ0hYNWV4eFlVMUNZYXI1aGkxVXRxdHZTZ3pHVDBjTzhzbXZxNzVBZXBfbU02emVhaXNyczZBR1ItS21sdTZ2a05rMmFEOVBDU2thbVhScDNpbw?oc=5",
-      "https://www.fool.com/investing/2026/11/09/intuitive-surgical-isrg-just-grew-revenue-22-why-i/?.tsrc=rss"
-     ],
-     "published": "2026-11-09T15:15:00+00:00",
-     "latency_min": 3739.3,
+     "latency_min": 3149.4,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -421,7 +420,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -429,18 +428,18 @@
    "six": {
     "signal": 76,
     "halal": 55,
-    "momentum": 66,
+    "momentum": 78,
     "entry": 80,
     "catalyst": 30,
     "risk": 98,
-    "rank": 73.1
+    "rank": 74.9
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "VRTX",
    "name": "Vertex Pharmaceuticals Incorpor",
-   "generated_at": "2026-11-12T05:34:21.479705+00:00",
+   "generated_at": "2026-11-13T02:05:29.163771+00:00",
    "composite": 80.2,
    "scores": {
     "technical": 87,
@@ -456,7 +455,7 @@
      "atr_pct": 3.03,
      "ema20": 535.52,
      "ema50": 524.44,
-     "ema200": 491.05,
+     "ema200": 491.08,
      "vwap20": 534.91,
      "rsi": 57.3,
      "rel_volume": 0.64,
@@ -676,12 +675,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 35.2014,
+      "value": 34.9176,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 6.6332,
+      "value": 6.5798,
       "ok": true
      },
      {
@@ -716,7 +715,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 1242201.0,
+      "value": 1242698.0,
       "ok": true
      }
     ],
@@ -728,7 +727,7 @@
     "calc": {
      "industry": "biotechnology healthcare",
      "debt_to_mcap": 0.047,
-     "cash_to_mcap": 0.045,
+     "cash_to_mcap": 0.046,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
@@ -736,47 +735,8 @@
    "news": [
     {
      "ticker": "VRTX",
-     "title": "What Will Decide Vertex Stock Over The Next Six Months? - Trefis",
+     "title": "META_TITLE_QUOTE - Yahoo Finance",
      "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "trefis.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcnVWQ0NDLUY4cTBaRHRQekZxSEJUTGM3bktQYWNKLUJvanRYVl9yWGtWakpsSDZiXzVWZTdTZExNLU9NckNmMmsxS2pydW5tU0NNNmlKbS1CbFNZWjFnWkVyWWdWU01TUjJzQ1E0OGFVTXhpYnB4ajVReHQ3THVnTElxTWJiZ3QwY1BhSDFBWDdLSFA1Z2drMldFS3ZEM1dOdlp4Z3ptSnJiWVNFTS01elNJdFM1dw?oc=5",
-      "https://www.trefis.com/stock/vrtx/articles/624402/what-will-decide-vertex-stock-over-the-next-six-months/2026-11-11?.tsrc=rss"
-     ],
-     "published": "2026-11-11T15:38:33+00:00",
-     "latency_min": 835.8,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "VRTX",
-     "title": "Therapeutics stocks Q3 results: benchmarking Vertex Pharmaceuticals (NASDAQ:VRTX) - TradingView",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "tradingview.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObGl0WVFXX29KeXRsVElkNTRRd0ZqLVB6TERzaVRWOFhRSUNpRWl0VDN0b21GNEZzdjlfRjcwdE1JQUJoc1ROV2diVDEwSTJxNmtFYTEyenpQXzdCdDdVX3I4Y0VLZjRDRnNKd2xxRmFEYXNUS2FCdktIZXNQYkdGczBEZEdXYnRUcEJvN0RTNEpTZUVTdW1WNklVUURMeVBUTm5qS29xQlZFOVRTTzRvSG81SW1mOEFrbmdvN2JpLS1kTUhENkR0OGtQcV9wZmxRNWZMeFpn?oc=5"
-     ],
-     "published": "2026-11-11T14:34:44+00:00",
-     "latency_min": 899.6,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "VRTX",
-     "title": "Vertex (VRTX) Stock May Be 35% Undervalued Despite New ALYFTREK Data - Yahoo Finance",
-     "status": "OUTDATED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
@@ -785,10 +745,10 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUhGcExoU1FjUzYwTzMwcUNfTm8xcXJBR1BIQkh4ZWxBenR0OHZONFZyOXQyak9hazdsRlZVODRWemxPcVUybXJvNWFLc1NhS2xlUmhOV1JrUE5rWW9ZSktPa3lQNkJFWFI5OFZpQWNPc0NSdVhHdjhBd2JYN29JMm5UNFFpWHB3aUg3OEt0Y2gtWW8?oc=5"
+      "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5WjNuYkpOcTJnaU44RTRNUlBudXVqNG56UUtrVy1ZT3BtcUdmY1Z0WEhmalkyTDNiSTQ3VVg3R2RFWUJ3MFJNZUxTZHdLZw?oc=5"
      ],
-     "published": "2026-10-17T07:00:00+00:00",
-     "latency_min": 37354.3,
+     "published": "2026-11-12T00:48:49+00:00",
+     "latency_min": 1516.7,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -807,7 +767,45 @@
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0FPaTlSVF81V2pCYUd4cTJGajR2YmJtUy1WaERGR2dscjMyN09zQUg1NHd1T2w5TnNmamdsX3dXN3lGUDBJdU5xVlE1djFidHhzYy1fXzdyX292MlAwV3owYUhHWG5HOUxhVTlGcV8xWHRWci1Icl9kYnFTdFduSmJVdjJaRXNtWWxLTTJXa1k5VHlOSjRfV2FERVlyRXE5djIyN2VWTWtVVFhac1k1RnhuZU9kdlcwYTY0?oc=5"
      ],
      "published": "2026-11-10T10:35:55+00:00",
-     "latency_min": 2578.4,
+     "latency_min": 3809.6,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "An officer's proposed sale covers 15,286 Vertex Pharmaceuticals (VRTX) shares. - Stock Titan",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "stocktitan.net"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0ZDX1pFSXhhRUp6QUNHYk9GWmpxczQyZ0U2MWVsTE1JLVhOZlhoY0QtUXp1UE8wbm9NcXhUWFJsa3k2VjNSaGMwaU9zZFYzRnpIOWI4bzUxUHFfOXNRQk9CSXdBUk9zUF9XRFBDWFRXMkVkUDNlMzJsYmZsNXhSeTJETlJYVDZsQ2NnVGEwMDR2cFJudm1wOUl0SnpGZUIwRGR5NGJGMFQ5UQ?oc=5"
+     ],
+     "published": "2026-11-12T15:23:40+00:00",
+     "latency_min": 641.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "VRTX",
+     "title": "Vertex (VRTX) Stock May Be 35% Undervalued Despite New ALYFTREK Data - Yahoo Finance",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUhGcExoU1FjUzYwTzMwcUNfTm8xcXJBR1BIQkh4ZWxBenR0OHZONFZyOXQyak9hazdsRlZVODRWemxPcVUybXJvNWFLc1NhS2xlUmhOV1JrUE5rWW9ZSktPa3lQNkJFWFI5OFZpQWNPc0NSdVhHdjhBd2JYN29JMm5UNFFpWHB3aUg3OEt0Y2gtWW8?oc=5"
+     ],
+     "published": "2026-10-17T07:00:00+00:00",
+     "latency_min": 38585.5,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -826,7 +824,7 @@
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmNwc0xocS0xbmFjdVY5SkdrX1lqejg3WkZpTzJLNEFtanRVdm4zYVdCRktFYUlYb0syRng3SGFsZ0RZU2llcFllR28zU0Rzb01KTGVfVUhwV29qQTdySmpXOXljYUFBMVEwaHIyOWExb0pJN1ViUFZyajdrRF81bzJEeVNaay1FZHExTE9GLU9yU2ZRYm1hX1Q2Slh4cm8zLUE1Nw?oc=5"
      ],
      "published": "2026-10-31T07:00:00+00:00",
-     "latency_min": 17194.3,
+     "latency_min": 18425.5,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -853,7 +851,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -861,18 +859,18 @@
    "six": {
     "signal": 80,
     "halal": 50,
-    "momentum": 75,
+    "momentum": 82,
     "entry": 70,
     "catalyst": 30,
     "risk": 85,
-    "rank": 72.2
+    "rank": 73.3
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "ABT",
    "name": "Abbott Laboratories",
-   "generated_at": "2026-11-12T05:34:20.463919+00:00",
+   "generated_at": "2026-11-13T02:05:27.776393+00:00",
    "composite": 71.7,
    "scores": {
     "technical": 87,
@@ -888,7 +886,7 @@
      "atr_pct": 2.68,
      "ema20": 107.34,
      "ema50": 104.94,
-     "ema200": 104.42,
+     "ema200": 104.41,
      "vwap20": 106.29,
      "rsi": 56.6,
      "rel_volume": 0.93,
@@ -1116,12 +1114,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 40.7799,
+      "value": 40.0187,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 3.7095,
+      "value": 3.6403,
       "ok": true
      },
      {
@@ -1156,7 +1154,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 8887195.0,
+      "value": 8924015.0,
       "ok": true
      }
     ],
@@ -1167,13 +1165,34 @@
     "status": "NEEDS_REVIEW",
     "calc": {
      "industry": "medical devices healthcare",
-     "debt_to_mcap": 0.166,
+     "debt_to_mcap": 0.169,
      "cash_to_mcap": 0.023,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
    },
    "news": [
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories stock underperforms Thursday when compared to competitors - MarketWatch",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "marketwatch.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEZDRFlXRml1d0FabzFBWTljeVVPWGNtMGhydW5mQ0dORTdneGVsc2VEMUJVNTlhbmd2VnJsWXV4RnJZeVNicmxmQzVUdmxWMzFvLXllU3hFczRjZF93dmk1cTQ5QzlIMjRicVBScUtQbHZVNEc5S0lBTHQwNWo0bUlPSUhsdXVXT3lCWWVjeTRwczlBOEw5b0YyREZJa0xVS25id0o1QW9UbnpVQjRxalBXSUZVbWpYLUpWQ2RzOEZSa0Ztc0drV3dtQWQ4ZGljU1l3?oc=5",
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcnlxR0NPZVdyQUFncUQ1cTR3MU9kR3VoVU1wTnJEc3FidV9DdzdEdHctcm5ka0pjWXZ2ZjA2cUw2VFBLT21ZWFRNcUtEemh3UlFtVU44bk5sM202dTdPOENoZk5FRGp4OWQ2SjZoeXdrajZMVUc2bHYyT3Vrc1NLNW5WeC1ZYXFNLXVFNzVOYWVpWHcyaFNLUWVmS0lQREtZU1Uwamt5QkNraGJldlZFcUlrakdvdVdaZzdOdHB4NlVKT29kTm5EM1daZ2M3clcxVllWVw?oc=5",
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW9EUkVhT21fM1FJTHJyODdEb2NkaWtmbDEtTlBuXzR6emE5dDhoczJhNEpiYzhKZTB4SGFxMkRRblF3a1hOcUI5UzFmenJaanhxWXk5QzI3S3I2TlJNN0VNY0xiUTl3YTNqMjRLTVdZNjY5Ry1udVBoa0tBT3VzLUhNMTRBRzZYb0pqbGxfeklHZlJNbHg3bkR1Qnd3UDJrdDI0Z3VITFRHZlhzYzQ2bnhWODFmT3RkRjYtUmVPYUlzajdDZDQ5SFdLMjFMamlV?oc=5"
+     ],
+     "published": "2026-11-12T21:34:00+00:00",
+     "latency_min": 271.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
     {
      "ticker": "ABT",
      "title": "Is Trending Stock Abbott Laboratories (ABT) a Buy Now? - Yahoo Finance",
@@ -1190,64 +1209,7 @@
       "https://finance.yahoo.com/markets/stocks/articles/trending-stock-abbott-laboratories-abt-202143682.html?.tsrc=rss"
      ],
      "published": "2026-11-11T20:21:43+00:00",
-     "latency_min": 552.6,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ABT",
-     "title": "Abbott Laboratories stock underperforms Friday when compared to competitors - MarketWatch",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "marketwatch.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW9EUkVhT21fM1FJTHJyODdEb2NkaWtmbDEtTlBuXzR6emE5dDhoczJhNEpiYzhKZTB4SGFxMkRRblF3a1hOcUI5UzFmenJaanhxWXk5QzI3S3I2TlJNN0VNY0xiUTl3YTNqMjRLTVdZNjY5Ry1udVBoa0tBT3VzLUhNMTRBRzZYb0pqbGxfeklHZlJNbHg3bkR1Qnd3UDJrdDI0Z3VITFRHZlhzYzQ2bnhWODFmT3RkRjYtUmVPYUlzajdDZDQ5SFdLMjFMamlV?oc=5"
-     ],
-     "published": "2026-11-06T21:34:00+00:00",
-     "latency_min": 7680.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ABT",
-     "title": "Abbott Laboratories (ABT) Stock: $109.93, Down 3.23% Nov 6 - JournalArta",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "journalarta.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamN5ZGpmOGpyeDl3LWhNV1ZhelZwc2lvcnZVMFBReS1YYkNkUVVBUUpscE9DRE9iN2tPRXFTWmQ0WWNUYXljWUpjUW96SERtb21yV00yRHQwWEtkRjVtaXhWTTFDbmR1d2Y1QV9LQy1CMXB6UG9vNDJ6SmJHMFBOZ0NPbzJDVWRXenU0cWtLY0ZQTW9SZDllU1R3Z29Ib1JkS0p4TUxhSmkzYTJvOXY4bHBlYXJOOU9tVi1SSg?oc=5"
-     ],
-     "published": "2026-11-09T11:23:00+00:00",
-     "latency_min": 3971.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ABT",
-     "title": "Abbott Laboratories Stock (ABT) Closed Down by 3.23% on Nov 6: What Investors Need To Know - TradingKey",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "tradingkey.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlRKeXk4NS05ZXNHVGVMZVdLNW53NGVUcVFqdEZoUU9BaFVFamNRSDNaR0F5ZXEzS0ktQjMzQ0R1X2ppUDdVSUhQYnNkNi1UeHdDeW5IcC10blh4ekJuclFGSHVTN1hET3Itam5Hc2xvdmtJQ0tTSnVOTDZlVEtWMm9zekR0NFBmSkE?oc=5"
-     ],
-     "published": "2026-11-06T21:16:09+00:00",
-     "latency_min": 7698.2,
+     "latency_min": 1783.7,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -1266,7 +1228,45 @@
       "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUxqb240M2o4VW9mWTlIZ2czWktrOEhVa0REOHlLY1RYMXEzZ0tzd3gtb3dPbVRsUml5a0NyMzc4OWVfZXYzNnpZLVNEUG5HV2I1djNPcHpPenBCLWNvQzJ4TFM2dnNkeWp3TENUVWlPcDVRS3ZZUDQyckVjS2tJUTlqWWxfWDRiLVJhRW9rc2xkcVpa?oc=5"
      ],
      "published": "2026-10-10T07:00:00+00:00",
-     "latency_min": 47434.3,
+     "latency_min": 48665.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories (ABT) Stock: $109.93, Down 3.23% Nov 6 - JournalArta",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "journalarta.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamN5ZGpmOGpyeDl3LWhNV1ZhelZwc2lvcnZVMFBReS1YYkNkUVVBUUpscE9DRE9iN2tPRXFTWmQ0WWNUYXljWUpjUW96SERtb21yV00yRHQwWEtkRjVtaXhWTTFDbmR1d2Y1QV9LQy1CMXB6UG9vNDJ6SmJHMFBOZ0NPbzJDVWRXenU0cWtLY0ZQTW9SZDllU1R3Z29Ib1JkS0p4TUxhSmkzYTJvOXY4bHBlYXJOOU9tVi1SSg?oc=5"
+     ],
+     "published": "2026-11-09T11:23:00+00:00",
+     "latency_min": 5202.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ABT",
+     "title": "Abbott Laboratories Stock (ABT) Closed Down by 3.23% on Nov 6: What Investors Need To Know - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlRKeXk4NS05ZXNHVGVMZVdLNW53NGVUcVFqdEZoUU9BaFVFamNRSDNaR0F5ZXEzS0ktQjMzQ0R1X2ppUDdVSUhQYnNkNi1UeHdDeW5IcC10blh4ekJuclFGSHVTN1hET3Itam5Hc2xvdmtJQ0tTSnVOTDZlVEtWMm9zekR0NFBmSkE?oc=5"
+     ],
+     "published": "2026-11-06T21:16:09+00:00",
+     "latency_min": 8929.3,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -1284,22 +1284,22 @@
    "risk": {
     "shares": 1,
     "notional_usd": 109.29,
-    "notional_kzt": 48776,
+    "notional_kzt": 48546,
     "risk_usd": 3.02,
-    "risk_kzt": 1348,
+    "risk_kzt": 1341,
     "slippage_usd": 0.22,
     "fees": {
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
    "only_halal_blocks": false,
    "six": {
     "signal": 72,
-    "halal": 27,
+    "halal": 26,
     "momentum": 76,
     "entry": 76,
     "catalyst": 30,
@@ -1311,7 +1311,7 @@
   {
    "ticker": "MSFT",
    "name": "Microsoft Corporation",
-   "generated_at": "2026-11-12T05:34:27.253848+00:00",
+   "generated_at": "2026-11-13T02:05:36.405756+00:00",
    "composite": 73.9,
    "scores": {
     "technical": 72,
@@ -1327,13 +1327,13 @@
      "atr_pct": 3.04,
      "ema20": 529.36,
      "ema50": 515.37,
-     "ema200": 468.47,
+     "ema200": 468.49,
      "vwap20": 531.88,
      "rsi": 47.7,
      "rel_volume": 1.11,
      "macd_hist_pos": false,
      "weekly_up": true,
-     "avg_volume_20": 26443635,
+     "avg_volume_20": 26447970,
      "last_bar": "2026-11-11",
      "spark": [
       382.62,
@@ -1557,12 +1557,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 27.823,
+      "value": 27.2965,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 8.226,
+      "value": 8.2556,
       "ok": true
      },
      {
@@ -1597,7 +1597,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 23129720.0,
+      "value": 23130896.0,
       "ok": true
      }
     ],
@@ -1608,7 +1608,7 @@
     "status": "NEEDS_REVIEW",
     "calc": {
      "industry": "software - infrastructure technology",
-     "debt_to_mcap": 0.035,
+     "debt_to_mcap": 0.034,
      "cash_to_mcap": 0.017,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
@@ -1617,37 +1617,77 @@
    "news": [
     {
      "ticker": "MSFT",
-     "title": "Microsoft Corporation (MSFT.O) | Stock Price & Latest News - Reuters",
-     "status": "UNCONFIRMED",
-     "red_flags": [],
-     "sources": [
-      "reuters.com"
-     ],
-     "best_tier": 2,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mc1U3MkxiZ00yS0FLaXVrTG1GRkFVdFRNTVRBV2cxQm1vSGl4bThaMXdGRHI2Q09oUkpsTE5mcElfN2ppbnlkcTQ2eE5jYlZETzBnNTdCN2lUNDluNkE?oc=5"
-     ],
-     "published": "2026-11-12T02:03:25+00:00",
-     "latency_min": 211.0,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "MSFT",
-     "title": "Microsoft Corporation (MSFT) stock price, news, quote and history - Yahoo Finance Singapore",
+     "title": "Microsoft Corporation (MSFT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "sg.finance.yahoo.com"
+      "ca.finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiNU1JZVotUjB3Um5rQmItVmlTbjFFa19vcWdDMlNPVUx4V1R2dGc1NXZiZmdFMEE0enNtYW4tclROdEJYUkZVT2J4MkVJa1VKQ3c?oc=5"
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uOUNhWEIyM0RRVERRZVRjUWx6dFJ2N2tGYXBpVWl2RVI3MjM2b3kzVmtabzNDRjdGMGw2Z2hJSTB0S2Q5YWRWT1dab25WVERnZlE?oc=5"
      ],
-     "published": "2026-11-10T17:16:18+00:00",
-     "latency_min": 2178.1,
+     "published": "2026-11-12T20:08:17+00:00",
+     "latency_min": 357.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "Can Microsoft overtaking Nvidia in market value support MSFT stock? - Traders Union",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradersunion.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjhGdmZPaElqa05wSDlMcVNOLXdESzNNemlaR1dkZmloa3dfSVFIVVZKc0NBbWJReVZHbXAyZ0NwN0djTWtJVHc2dHF1OEpBQ2dKS05MVUhncWM3MHRDMEVkYlM0OTY2dThZZHpCTFhlVEt0LUZjQlR6Q0c4cWlLUlpWbGpMU293Si05ZUFRRnJLV3dHS2c?oc=5"
+     ],
+     "published": "2026-11-12T16:59:45+00:00",
+     "latency_min": 545.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "Microsoft Is Off Its Record High. Next Week Could See the Stock Reignited. - Barron's",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "barrons.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE83cmJyRlBjMDBWU21ycUZoMzJTZXRiYml1RVpnRHZ6emprSmNFNUVIYk5oYm45VUJXdkJHSm5DVm5lamdUQjZ3QVl2UTcyRzZvc0lsWE9sWGFFeE52VUE2TlBJUExqandxbktlcjNiU01XNGRCbHc?oc=5"
+     ],
+     "published": "2026-11-12T15:20:00+00:00",
+     "latency_min": 645.6,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "MSFT",
+     "title": "Microsoft (MSFT) Stock: Citi and Morgan Stanley Bet on an Ignite Rebound. Here’s Why - Blockonomi",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "blockonomi.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGRUdW03ZmFBSlpZU0Z4N1pUZ2hPUHhWbmlzYUNYM204M2hucENjdTZGdHBvQ3pFbkdhMUlTYlNWdUJtR3E4cDJzai1KOEhKUjhKandMek1tWEV3ajZMQlhiN2d0V1FvcmprZEtGVHAxMUlsdG5NVnM4M2V4eXkxdC1DampYTFVUeU56a3ZIcHhBWlVOSUFvblE3cjY4dzF2azhHWWdB?oc=5"
+     ],
+     "published": "2026-11-12T14:52:41+00:00",
+     "latency_min": 672.9,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -1665,45 +1705,9 @@
      "links": [
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE91eUs1YWhlZWFWaU1LSnhPN2hiLW05ZG42M256MXZLYUhqM2QwcWNyUUVpekxLRlN1MzMyS093UElEaEtQS29TZXpaRkxBYXBBUFd5WHhHclI5UEk3SFgzWUdRb3lEcm5BVkVqb3FfVEw?oc=5"
      ],
-     "published": "2026-11-11T22:38:37+00:00",
-     "latency_min": 415.8,
+     "published": "2026-11-12T21:14:43+00:00",
+     "latency_min": 290.9,
      "sentiment": "bullish",
-     "high_impact": false
-    },
-    {
-     "ticker": "MSFT",
-     "title": "What's Going On With Microsoft Stock Wednesday? - Benzinga",
-     "status": "UNCONFIRMED",
-     "red_flags": [],
-     "sources": [
-      "benzinga.com"
-     ],
-     "best_tier": 2,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWd3REhYZ1hQUlJRbjBNa2kwOURNLWU5ZnBIX1ZZdW1pYmp2bHVmLTljVURoNmJXWGswSkxJTy16MnFVd0FUSmFlNkh3TnR5Z005RkpXeXd0Q3RyQ3k2c0dOMlJaSFg3eTZ1cmxvaU9kSzY3SzNtY3NFci1LZ3d2VGZqUkktS19tcW51WmFGR1ZIT0w5aU1QWXo3cm5Tak16THc?oc=5"
-     ],
-     "published": "2026-11-11T17:30:12+00:00",
-     "latency_min": 724.2,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "MSFT",
-     "title": "MSFT Stock Heads to $500 as Microsoft Data-Centre Spending and Anthropic Workplace Competition Intensify - FXLeaders",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "fxleaders.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmRmblVraFZUY3FENjZyMWxMN2NRVVowQW12VGtOVGMwSTRGZDdyQnNlV1FRVXFIb2w0N0tIdzVDNGs4cllUdW1ibmpMSTFmdXA1NHVHZm5jWFdYWm1NcEtHc3hKbVFlMHhnWC1TcTl2OUVDeUI1OXR1M0NZR1drRFdMVThDS0ROOXpmSVpxLXkzNjVDRVl3TzhvRk44SUZGQzZrY0U3RDZGM0tXdGM0ZEsyeV9FRUJmNGlfUmZWU2tUT0J1SlkzdzBtZ2tISG9JT3Y2X2JpNlVSNVYyNGc4?oc=5"
-     ],
-     "published": "2026-11-12T04:02:09+00:00",
-     "latency_min": 92.3,
-     "sentiment": "neutral",
      "high_impact": false
     }
    ],
@@ -1730,7 +1734,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -1738,456 +1742,18 @@
    "six": {
     "signal": 74,
     "halal": 53,
-    "momentum": 81,
+    "momentum": 87,
     "entry": 60,
     "catalyst": 30,
     "risk": 98,
-    "rank": 69.5
-   },
-   "insider_buys_90d": 0
-  },
-  {
-   "ticker": "INTU",
-   "name": "Intuit Inc.",
-   "generated_at": "2026-11-12T05:34:19.032267+00:00",
-   "composite": 72.4,
-   "scores": {
-    "technical": 92,
-    "fundamental": 82,
-    "news": 50,
-    "accumulation": 20
-   },
-   "technical": {
-    "ok": true,
-    "ind": {
-     "price": 342.64,
-     "atr": 13.41,
-     "atr_pct": 3.91,
-     "ema20": 335.96,
-     "ema50": 325.81,
-     "ema200": 375.44,
-     "vwap20": 339.85,
-     "rsi": 56.1,
-     "rel_volume": 0.85,
-     "macd_hist_pos": false,
-     "weekly_up": true,
-     "avg_volume_20": 3021600,
-     "last_bar": "2026-11-11",
-     "spark": [
-      269.64,
-      272.11,
-      273.68,
-      288.41,
-      281.12,
-      278.4,
-      293.42,
-      289.74,
-      292.46,
-      288.57,
-      283.15,
-      280.22,
-      294.95,
-      302.5,
-      311.54,
-      331.58,
-      314.04,
-      314.6,
-      316.91,
-      322.1,
-      326.42,
-      320.42,
-      323.74,
-      332.88,
-      334.88,
-      333.16,
-      356.63,
-      344.06,
-      334.04,
-      348.78,
-      360.79,
-      360.19,
-      365.3,
-      368.2,
-      355.8,
-      344.27,
-      346.38,
-      356.4,
-      357.63,
-      343.33,
-      341.35,
-      342.7,
-      331.16,
-      317.45,
-      312.48,
-      311.32,
-      320.08,
-      337.58,
-      327.74,
-      316.65,
-      311.68,
-      301.78,
-      302.71,
-      290.99,
-      285.47,
-      275.84,
-      274.51,
-      268.15,
-      266.79,
-      274.43,
-      281.47,
-      279.78,
-      283.36,
-      288.46,
-      295.86,
-      303.88,
-      302.75,
-      305.99,
-      301.45,
-      310.44,
-      330.17,
-      325.15,
-      325.62,
-      335.29,
-      335.61,
-      354.9,
-      343.39,
-      339.89,
-      328.45,
-      328.19,
-      331.19,
-      341.09,
-      352.1,
-      344.72,
-      356.64,
-      354.84,
-      341.5,
-      338.23,
-      340.44,
-      342.64
-     ],
-     "ret63": -0.0392,
-     "above_ema50": true,
-     "above_ema200": false,
-     "ema50_rising": true,
-     "dist_high_pct": 49.1,
-     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
-    },
-    "acc": {
-     "score": 20,
-     "flat": false,
-     "vol_ratio": 0.83,
-     "low_touches": 1,
-     "range_pct": 34.0,
-     "distribution": false
-    },
-    "gaps": [
-     {
-      "date": "2026-10-30",
-      "pct": 2.59,
-      "direction": "up",
-      "kind": "runaway",
-      "filled": false
-     },
-     {
-      "date": "2026-11-04",
-      "pct": 2.76,
-      "direction": "up",
-      "kind": "runaway",
-      "filled": true
-     },
-     {
-      "date": "2026-11-06",
-      "pct": -2.58,
-      "direction": "down",
-      "kind": "common",
-      "filled": false
-     }
-    ],
-    "false_breakout": {
-     "kind": "bear_trap",
-     "bias": "bullish"
-    },
-    "levels": [
-     {
-      "price": 259.63,
-      "touches": 2,
-      "mirror": true
-     },
-     {
-      "price": 299.23,
-      "touches": 2,
-      "mirror": true
-     },
-     {
-      "price": 320.05,
-      "touches": 2,
-      "mirror": true
-     },
-     {
-      "price": 337.2,
-      "touches": 2,
-      "mirror": true
-     },
-     {
-      "price": 358.96,
-      "touches": 2,
-      "mirror": true
-     },
-     {
-      "price": 369.43,
-      "touches": 3,
-      "mirror": true
-     },
-     {
-      "price": 416.58,
-      "touches": 3,
-      "mirror": true
-     }
-    ],
-    "setup": {
-     "type": "level_retest",
-     "level": 337.2,
-     "touches": 2,
-     "mirror": true,
-     "entry": 342.64,
-     "entry_zone": [
-      337.2,
-      343.9
-     ],
-     "sl": 323.79,
-     "sl_atr": 1.41,
-     "tps": [
-      358.96,
-      369.43,
-      416.58
-     ],
-     "tp_source": "levels",
-     "rr_tp1": 0.87,
-     "rr_tp2": 1.42,
-     "hold": "2–8 недель (swing)"
-    },
-    "tech_score": 92,
-    "volume_confirm": true,
-    "price_above_vwap_ema50": true,
-    "ema50_rising": true
-   },
-   "fundamentals": {
-    "score": 82,
-    "available": 11,
-    "passed": 9,
-    "rows": [
-     {
-      "check": "Revenue growth YoY > 0",
-      "value": 0.137,
-      "ok": true
-     },
-     {
-      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
-      "value": -0.014,
-      "ok": false
-     },
-     {
-      "check": "P/E > 5",
-      "value": 20.6783,
-      "ok": true
-     },
-     {
-      "check": "P/B > 1",
-      "value": 4.842,
-      "ok": true
-     },
-     {
-      "check": "ROE > 10%",
-      "value": 0.236,
-      "ok": true
-     },
-     {
-      "check": "ROA > 5%",
-      "value": 0.1047,
-      "ok": true
-     },
-     {
-      "check": "Debt/Equity < 1.0",
-      "value": 0.4434,
-      "ok": true
-     },
-     {
-      "check": "Current Ratio > 1.5",
-      "value": 1.507,
-      "ok": true
-     },
-     {
-      "check": "Quick Ratio > 1.0",
-      "value": 0.782,
-      "ok": false
-     },
-     {
-      "check": "Free Cash Flow > 0",
-      "value": 6353625088.0,
-      "ok": true
-     },
-     {
-      "check": "Avg volume > min",
-      "value": 3631134.0,
-      "ok": true
-     }
-    ],
-    "gate_ok": true,
-    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
-   },
-   "halal": {
-    "status": "NEEDS_REVIEW",
-    "calc": {
-     "industry": "software - application technology",
-     "debt_to_mcap": 0.092,
-     "cash_to_mcap": 0.079,
-     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
-    },
-    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
-   },
-   "news": [
-    {
-     "ticker": "INTU",
-     "title": "Intuit (INTU) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkxsY0ZOSmZIOFd0dlE4UkpUYnkzSnpYU1BjT0xRd09mUE5QaXFOeU5TSDlQUW9CTTN3eWdGaHBHUEcwYlVmSDMzSVlfajd6QWxybVptcHl0TFd3WHZmTnJaR2cxMlVCVmFuWkRTS0pQOVJ5Z1VwMDYwOXBta2NnRGFDalJCM2tSaDJQbXhkQXdiTDlZQzZHLUtkY2E?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-stock-drops-despite-214501607.html?.tsrc=rss"
-     ],
-     "published": "2026-11-06T21:45:01+00:00",
-     "latency_min": 7669.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "INTU",
-     "title": "Why Intuit (INTU) Stock Is Trading Up Today - Yahoo Finance",
-     "status": "OUTDATED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWRwU2RVZ254RWs2RnZOWkVMY3NEQkxQS1AwSGVLYUpfSDI0bzlKRE1WWEJsZkl4b0s5N2VFMlVZZmxXSVJ1UnlSNEF3QWFMeU9POUZLN3lGNGxmSm02bDE2TGV6cXZDMjR0RmdzV1A5UU9QTWdXaHdBWVVkT08xdC1lb1c3YVBRd1JRQU1ab19oV2hSTWpkeDFR?oc=5",
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU0yNHpYTkVha1Y2RDNXLUJiNVpfX0VwblAtaEtHQ2xqUE5uWmg5akZrUlk5aFM1UzhWYWk5UzZNelNxbG5yLTBXMjhtVjlBSlBKTHJSM2RQSnlKQ1pwZXpJeFMzMEJBQkVMTW9uVnJ1S0VYSGVQZWRlZl95VFh0Y3hNZC1IVlRTOE1fSHdPeEpNTmprTWVBM0Nn?oc=5"
-     ],
-     "published": "2026-10-15T07:00:00+00:00",
-     "latency_min": 40234.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "INTU",
-     "title": "Intuit (INTU) Stock May Look Reasonable As Investor Day Backs AI Plans - Yahoo Finance",
-     "status": "OUTDATED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkhpbEUwUzZ0QWc2S0VrYzROWDFGRzFSSjVpVWxDWTlQNDdZekNjNnBhRE0xV0xxVGR0VGVabkxNNmhzRi1oeG92U25NaDF2M0tIbEFBSEdPZl9Zam5rUWZXR1lWMkFCY01fazBqSC1pbXJoMk1jcU9fWHRkWW9JMHFpV1dlbGVsWVUzMnhmeVJ1RW5wdmc?oc=5"
-     ],
-     "published": "2026-09-26T07:00:00+00:00",
-     "latency_min": 67594.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "INTU",
-     "title": "Intuit (INTU) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
-     "status": "OUTDATED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXk5akpPUEFEc1VzWmtkVF84VVJHVHh1bC16NVhUYk4zU2tlSGhWMlBNVnpRSFUzV0lxS0FWbllETGkyQjlqMFN6aTZfdTNrRTZBd1ZyUWY3al8xd2NjdVdJTEllLXRjZU4zX0hQRjlnZl9KcS1pTDFPVk5JN0FGaEVlYldlMWFGX3VGdi1OdkNOYWloanN3aWhRdVF3QQ?oc=5",
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxQWW0yRkRrOHpqX3ctbDRwN1pRUl96VUdta1hxOENJa2t6bnVabTRHTHNTWURDQUktZzJoT0l6eWY2R1ZrLU9Vd2prcVVRWTBLSTdrZHFMTnJ1TF9RMExXMUQ2c01QNHkyR1UxUDBhVzlSUmtlckMyUnBZVWpLY2JpTmtuQXhsM2RZSFU0a01uUV81b1J6SmdCNmR3eERDdw?oc=5"
-     ],
-     "published": "2026-10-02T07:00:00+00:00",
-     "latency_min": 58954.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "INTU",
-     "title": "Intuit Inc. (INTU) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-     "status": "OUTDATED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1kdXJKbmR4bXRNZ3MyLXpHREJTcmczcDV5QXhleUpZN1Vob0J1OUF1b0hnd0dER0FndWlYclJoaGVlZzRnemV6VEs0RzNzT0Vkd05rTkFyc0lDeFUwT1JyanVIVTdmZlkxRDZ6bFlHUWJWUnFJbGpmNmVVUGo0Slc1OEpOMDE4RzM4OXEtNUdjekM5eWxzV290SQ?oc=5"
-     ],
-     "published": "2026-10-01T07:00:00+00:00",
-     "latency_min": 60394.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    }
-   ],
-   "earnings_date": "2026-11-19",
-   "gates_failed": [
-    "халяль: NEEDS_REVIEW",
-    "RR до TP1 = 0.87 < 2.0",
-    "отчёт 2026-11-19 — gap risk",
-    "капитал не позволяет открыть позицию с заданным риском"
-   ],
-   "reasons": [
-    "ретест уровня 337.2 (2 касаний, зеркальный)",
-    "weekly тренд вверх",
-    "объём пробоя подтверждён"
-   ],
-   "risk": {
-    "shares": 0,
-    "notional_usd": 0.0,
-    "notional_kzt": 0,
-    "risk_usd": 0.0,
-    "risk_kzt": 0,
-    "slippage_usd": 0.0,
-    "fees": {
-     "freedom_broker": "тариф не задан в config",
-     "paydax": "тариф не задан в config"
-    },
-    "fx": 446.29998779296875,
-    "limited_by": "риск"
-   },
-   "status": "WAIT",
-   "only_halal_blocks": false,
-   "six": {
-    "signal": 72,
-    "halal": 41,
-    "momentum": 54,
-    "entry": 80,
-    "catalyst": 40,
-    "risk": 46,
-    "rank": 65.5
+    "rank": 70.5
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "DHR",
    "name": "Danaher Corporation",
-   "generated_at": "2026-11-12T05:34:22.646154+00:00",
+   "generated_at": "2026-11-13T02:05:30.696812+00:00",
    "composite": 76.5,
    "scores": {
     "technical": 86,
@@ -2203,7 +1769,7 @@
      "atr_pct": 2.89,
      "ema20": 230.37,
      "ema50": 222.87,
-     "ema200": 208.04,
+     "ema200": 208.05,
      "vwap20": 230.47,
      "rsi": 57.7,
      "rel_volume": 0.75,
@@ -2409,12 +1975,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 39.088,
+      "value": 38.4371,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 3.0868,
+      "value": 3.0455,
       "ok": true
      },
      {
@@ -2449,7 +2015,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 4003940.0,
+      "value": 4006904.0,
       "ok": true
      }
     ],
@@ -2460,13 +2026,51 @@
     "status": "NEEDS_REVIEW",
     "calc": {
      "industry": "diagnostics & research healthcare",
-     "debt_to_mcap": 0.168,
-     "cash_to_mcap": 0.034,
+     "debt_to_mcap": 0.17,
+     "cash_to_mcap": 0.035,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
    },
    "news": [
+    {
+     "ticker": "DHR",
+     "title": "Danaher Corporation Tokenized Stock (Coinbase) price today, DHRc to USD live price, marketcap and chart - CoinMarketCap",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "coinmarketcap.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmNoLW5RVFhjVGJnLVAwLVVZckdzUHJ0YkE1T3RFU1JhT1N0UDlYUEphekg2UDFadGVrdXVHcENCU2hKeXRzbDVwbzJWTGVDb1BIcXRLNmFiTzZkOHhHSXVVSUxCaUt4X0YydjBsVC04dTh0aTUta2t2ZGJNaUJRbnlBWFh3amNESEE?oc=5"
+     ],
+     "published": "2026-11-12T08:40:15+00:00",
+     "latency_min": 1045.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "DHR",
+     "title": "Fund Update: New $618.9M $DHR stock position opened by Capital World Investors - Quiver Quantitative",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "quiverquant.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVdZaHpieU9SdldCSkhRVUs2YmpGejdjaVpET3RDU2E3MkFyZ21nemhCSkVWaVl4RmREVDlRU2ViMzJiTEd1b0VmTFJscUFDSVN1WmVlX01sTV9ZOEs0RU5fTk1WV0NBM2k2N1BFMEdrbzVDTEpoY2swUGt2aGRjWW55c01POHRhYWdYTWVjOUFEOFAyakVkaFFUU3ItZXJBTEM0MkN4NDI3djAzcFg5MXBBU2t5dFVT?oc=5"
+     ],
+     "published": "2026-11-12T17:23:00+00:00",
+     "latency_min": 522.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
     {
      "ticker": "DHR",
      "title": "LH vs. DHR: Which Stock Is the Better Value Option? - Yahoo Finance",
@@ -2482,7 +2086,7 @@
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGdEaXQ0am9JVDJfUmpJdlpWN1RuQWYtSEItMldtQzZKWk5ZYXhWdkFFTGhScjFac2FqbE5OZHFhQTJ4TnQzMDAxSEFxT0x4ajh2XzF2bnNQdWYzTmp6a3NyTE5UQnVZd3A4RjcxdTZjTDZuUDlEdW5tZExWakFTTnJ4dUQwNW9tR085ZTNpSms?oc=5"
      ],
      "published": "2026-10-22T07:00:00+00:00",
-     "latency_min": 30154.4,
+     "latency_min": 31385.5,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -2502,47 +2106,7 @@
       "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnJYWGFiRUplbVhLdTM3SjlvclZnX0oyUUVjRzgyMEVoY0tQS0RzY3BuSjcwSEo4UHFmd0JRX0NhUEp6c2h6ZzVIeGRsTU51VHpCb0ZDY2NPN3F0aG0yMHVkNVdrUk92Z0RhdjZRcTNkZFhNaUJyMkVpRnlvTDQtWHdBQjA0Xzc3dXZ0OGZvSFNJWVhHbHJXSmlQRQ?oc=5"
      ],
      "published": "2026-10-01T07:00:00+00:00",
-     "latency_min": 60394.4,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "DHR",
-     "title": "Danaher (DHR) Stock Fair Value Rises After Higher Analyst Targets And Q3 Commentary - Yahoo Finance",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGcwdlJPY2Fpc0VwZ1EzM2VhaXNLeDFNR2JfdjdMS2YtYlZUbF9xS3h2bmNqdThjc3hzUkNRdUZhbzBTZFhkN3Zpc3MwVEdPc3VwSWo2elNmTEstTTdwQnBfck1NVTUydV9QbGhwVEdqMEJQbjU5VjhlQjZGbzd6SF92d01EOHEtdjR1dnkxcWtLQy1SdmVZUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9BejNfTFdRVVNDZDNfRDdpeTdGekh4N3dVLUlrTHJzRjJnNXhlV3FwbHN1eDdCQVo2d0VmcVJNWTV3OFNSbjlPRzhpSmV4aWVzRHJ2bkpEMThFTENKRzF6T3JxV2wxZDdsYjRzWkZncnRnNXdnV1JhaUxpdTlsTzNCWUJKOU5qQmxuWEpkampLMzcwbnh1cw?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/danaher-dhr-stock-fair-value-062023916.html?.tsrc=rss"
-     ],
-     "published": "2026-11-05T06:20:23+00:00",
-     "latency_min": 10034.0,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "DHR",
-     "title": "Danaher (DHR) Stock Looks Fully Priced Despite Its 18% Three Year Gain - Yahoo Finance",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "finance.yahoo.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxONk1mWWsxSGpDbW94Qjk4OGs2a3RoM0lrSDVtb1NVdC1xamtOb0R5cUcxWlFxTmc0U1BmSXZtNmZZMVg2SW5UYjRCZjBORGltYXVrdDBLNHdGcndmbnd6WnBVUDdsWUZHeW9MSjNGVGlCb3ZCQXdDcDNVNVFJQzRRN25oYWhwamM5SThGeS15ZGVqQWF3Q2VNYnNB?oc=5"
-     ],
-     "published": "2026-11-04T13:11:30+00:00",
-     "latency_min": 11062.9,
+     "latency_min": 61625.5,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -2560,8 +2124,8 @@
      "links": [
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaktNS2toSl9LS0M5eXhYNXZCMF9fOTF2RlVDUU1ZOHJydFpoaUVxT2FHWldxc3FuZjBfeXZONmlQQVFIVjVma05qZXBibi1aVGkwUEJ0LS1DT0htVVRLSWxIeWZaV2t0VGNTTDEzNEtFeGVreV84MEN6b2NUejhMWHhmcThqS3Z0VGlZS2hnd3BXeXhxeGFFOFl3?oc=5"
      ],
-     "published": "2026-09-03T07:00:00+00:00",
-     "latency_min": 100714.4,
+     "published": "2026-09-02T07:00:00+00:00",
+     "latency_min": 103385.5,
      "sentiment": "neutral",
      "high_impact": true
     }
@@ -2589,7 +2153,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -2597,18 +2161,18 @@
    "six": {
     "signal": 76,
     "halal": 26,
-    "momentum": 76,
+    "momentum": 92,
     "entry": 50,
     "catalyst": 30,
     "risk": 74,
-    "rank": 64.7
+    "rank": 67.1
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "AAPL",
    "name": "Apple Inc.",
-   "generated_at": "2026-11-12T05:34:23.843144+00:00",
+   "generated_at": "2026-11-13T02:05:32.221776+00:00",
    "composite": 73.8,
    "scores": {
     "technical": 85,
@@ -2624,13 +2188,13 @@
      "atr_pct": 2.43,
      "ema20": 344.54,
      "ema50": 337.32,
-     "ema200": 306.26,
+     "ema200": 306.27,
      "vwap20": 344.46,
      "rsi": 60.4,
-     "rel_volume": 0.69,
+     "rel_volume": 0.7,
      "macd_hist_pos": true,
      "weekly_up": true,
-     "avg_volume_20": 48589450,
+     "avg_volume_20": 48597890,
      "last_bar": "2026-11-11",
      "spark": [
       313.12,
@@ -2734,7 +2298,7 @@
     "acc": {
      "score": 50,
      "flat": true,
-     "vol_ratio": 1.0,
+     "vol_ratio": 1.01,
      "low_touches": 1,
      "range_pct": 14.6,
      "distribution": false
@@ -2847,12 +2411,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 38.8242,
+      "value": 39.5189,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 46.1079,
+      "value": 46.0106,
       "ok": true
      },
      {
@@ -2887,7 +2451,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 42821860.0,
+      "value": 42709293.0,
       "ok": true
      }
     ],
@@ -2907,28 +2471,28 @@
    "news": [
     {
      "ticker": "AAPL",
-     "title": "Why Did AAPL, XERS, ZETA Stocks Jump To 52-Week Highs Today? - Yahoo Finance",
+     "title": "Apple Inc. (AAPL) stock price, news, quote and history - Yahoo Finance UK",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "finance.yahoo.com",
-      "stocktwits.com"
+      "ca.finance.yahoo.com",
+      "uk.finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWRUdTlvaUw1Z21GaUpzdnRvTy15NzFsZkJjSUpIYS14anE5N3hBMVN0R2FlU1pDTHhkSGR3TEdoM2RzUGRhREZwRGx0blVyOWF6bUVmekdpMTY4alRveWNzRzBiNHJSak93REcydm5SZEFreEpOUWs0WE1aanVMRWJTc3FOVzZPSVhFblRyaTk?oc=5",
-      "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-xers-zeta-stocks-jump-to-52-week-highs-today/cNGz1aQR99L?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RekFrNTdjZWx5T0FxTHdGWE9RWlJEakdYdWtNRkJNOGdka3FSdkdwWEgzYUgtanJUb0llSVdZdW5QTE9Mb3pPUGI0LV9jcXpvRVE?oc=5",
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5"
      ],
-     "published": "2026-11-12T03:49:29+00:00",
-     "latency_min": 104.9,
+     "published": "2026-11-12T20:40:20+00:00",
+     "latency_min": 325.2,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "AAPL",
-     "title": "What's Going On With Apple Stock Wednesday? - Benzinga",
+     "title": "What Is Going on With Apple Stock on Thursday? - Benzinga",
      "status": "UNCONFIRMED",
      "red_flags": [],
      "sources": [
@@ -2936,10 +2500,11 @@
      ],
      "best_tier": 2,
      "links": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1hYY01mSnpmdUdVUVFPdG84eGc1R2JnZC1VTDVFYkRRQ0ZMNmFXTktyTm1LZHdDejUzTURxcVFQQ1kyUDFoT25jeXJYX1NTRzRNYldGZVpJWmw1dVVDQ203ckhQeUU1OGM5aVFGSkhwWFZQQVF2ZEtlbW1TU3hoMHgxQThqM3hObk1KN0c3VjQzckVlaURrVlVkdTFWTjdkQ2c?oc=5",
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW5ZN2QxY2xIN3lFT1dqRWx3dUxLYVlieklHV2IyVVVnVEJFZkNnWE83Q1JtV1Y3ZUcwWE0tcy13YmRMNmxDa0NmNlNWaDJYSFBJT3Uyd1RhblBSc1Jjenp1UFFZdWNCVTV4TlBBMHFYa2h6N2xGNG9PMm9lU2tpbnA3dk11MVB1MGFXTTZJTUhZMXVQU0RaLV90MEg?oc=5"
      ],
-     "published": "2026-11-11T17:55:02+00:00",
-     "latency_min": 699.3,
+     "published": "2026-11-12T18:27:39+00:00",
+     "latency_min": 457.9,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -2951,36 +2516,33 @@
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "stocktwits.com",
       "tradingview.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeE55WERpUTI1Nlk0c3djYzdGLUNDaHlWMnN0SEluUXc3bWZaUWNLT1ItTFdDZ2tHOUpuNEFleWhmcjdyX0NncjFvdGV2SDk5R3N0WFFRclNDQXpPVUg0ZjF1SWMyLWdIUjQyVXF0a0RFdFpGY25IbkRVTk1ucTcta1UwSXZ0TzZZQXMxTS1nLWxBejJUeDljd3ZVd0tGVXdFTlF0OURjR1I2ZGJGeFVlN2Y0UWhEQmZjSFY3NG1xc2t0QUpheXFWRzh0c3BqbjBYVnhLalRCLWNRSThtMTcwcTgtYWdwV0hsNDdjX1pHOEFtS0Vna0pQbXlJcDVFOUsyX2tydElvcVJ5SlZXZUJGSA?oc=5",
-      "https://stocktwits.com/news-articles/markets/equity/aapl-goog-stocks-gain-overnight-as-nvda-slides-are-retail-investors-rotating-into-traditional-tech-amid-leadership-turmoil/cNGzjvAR99j?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeE55WERpUTI1Nlk0c3djYzdGLUNDaHlWMnN0SEluUXc3bWZaUWNLT1ItTFdDZ2tHOUpuNEFleWhmcjdyX0NncjFvdGV2SDk5R3N0WFFRclNDQXpPVUg0ZjF1SWMyLWdIUjQyVXF0a0RFdFpGY25IbkRVTk1ucTcta1UwSXZ0TzZZQXMxTS1nLWxBejJUeDljd3ZVd0tGVXdFTlF0OURjR1I2ZGJGeFVlN2Y0UWhEQmZjSFY3NG1xc2t0QUpheXFWRzh0c3BqbjBYVnhLalRCLWNRSThtMTcwcTgtYWdwV0hsNDdjX1pHOEFtS0Vna0pQbXlJcDVFOUsyX2tydElvcVJ5SlZXZUJGSA?oc=5"
      ],
-     "published": "2026-11-12T04:48:12+00:00",
-     "latency_min": 46.2,
+     "published": "2026-11-12T04:48:00+00:00",
+     "latency_min": 1277.5,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "AAPL",
-     "title": "Apple Shares (AAPL) Look Expensive Heading into 2027 - Yahoo Finance",
+     "title": "AAPL rises as ETF inflows support bullish momentum - Traders Union",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "finance.yahoo.com"
+      "tradersunion.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2lsenhVYnFXTUNRUHVQUkVxVEVMUDNwSzdFcDNnNWNRU3F2dDVGTHh2Zkh1N2laS1FtZHdzb2hQN3B6bHhrcUUxa2VFOWxzY1NlZTVwRFB5YkE4MGxjUHBueG1WQjRjUExnanJaZGZFSTQzX1Y0YTU3bmJ6UGNZYjNyaVdPenFDZHVhU0JlMUZySFBONHVDU2wxNnNIUQ?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/apple-shares-aapl-look-expensive-211500629.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUhlNVByWXpaZmhMQmJTUkhVSjA3UDZFMV81TzhTWExRQ1NsTkx2NlRtOWtyRVl1Y2NDbFN3NjJRS2hxejd3RUdhVzMyY2JOZjZ6NlNiQVE5X1N4ZS1BWW1OVGpJTTFuSHZ1ajl4TU9ZUmh5QlR0bW5jbTJzUHlDX1BDZGt6Z2twS05FaUp4aXo?oc=5"
      ],
-     "published": "2026-11-11T21:15:00+00:00",
-     "latency_min": 499.4,
+     "published": "2026-11-12T14:47:36+00:00",
+     "latency_min": 677.9,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -2999,7 +2561,7 @@
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTA4SG95UkQwOXZ5amtHTXJlT0ZsNE5lejVQZDBudkFRS1BsbVo2WjV4a1cwYUNvVUdfZ1dKZTBJZHZIRUh0Y3hCc1BPd2hFU0FXd3VKTDhnNGdoYUxhMjNHUHpWcFNPcDh3WWtZdGJpNlZ0eThnNVZmU0hGb2lFdEdSTDdJWS0zSmQ1MlFDTHYzanRNSVRFX1RvVTZwQnBJMXVyR0tsUVFxb0JxSkc4?oc=5"
      ],
      "published": "2026-11-11T03:02:25+00:00",
-     "latency_min": 1592.0,
+     "latency_min": 2823.1,
      "sentiment": "bullish",
      "high_impact": false
     }
@@ -3026,7 +2588,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -3034,18 +2596,18 @@
    "six": {
     "signal": 74,
     "halal": 56,
-    "momentum": 76,
+    "momentum": 92,
     "entry": 50,
     "catalyst": 30,
     "risk": 77,
-    "rank": 64.2
+    "rank": 66.6
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "SNPS",
    "name": "Synopsys, Inc.",
-   "generated_at": "2026-11-12T05:34:29.384008+00:00",
+   "generated_at": "2026-11-13T02:05:39.130769+00:00",
    "composite": 59.1,
    "scores": {
     "technical": 63,
@@ -3061,7 +2623,7 @@
      "atr_pct": 3.96,
      "ema20": 460.38,
      "ema50": 450.32,
-     "ema200": 448.02,
+     "ema200": 448.05,
      "vwap20": 457.43,
      "rsi": 51.4,
      "rel_volume": 0.44,
@@ -3285,12 +2847,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 81.2162,
+      "value": 81.7473,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 2.8423,
+      "value": 2.8458,
       "ok": true
      },
      {
@@ -3325,7 +2887,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 2137243.0,
+      "value": 2136632.0,
       "ok": true
      }
     ],
@@ -3345,28 +2907,27 @@
    "news": [
     {
      "ticker": "SNPS",
-     "title": "Synopsys, Inc. (SNPS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "title": "Here is What to Know Beyond Why Synopsys, Inc. (SNPS) is a Trending Stock - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "ca.finance.yahoo.com",
       "finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcXpoYTQxcXZSOUU3X3dsOVlrQVFJUjNldTZ5ZUczc3MyTnpQWUhpYzF5dV90MnVGTWRwRUttWFV1VVdHdGQyUUtwRUFlajZRWWc?oc=5",
-      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0ozM29QZVEtaTh1OU4ySm16Yl81NGp1OHM4cFBSaEFKUTJseHJuOTFjZFlUZGNXLXl6WS1xZ0d2M2VaSzFlUFJSLUwxWTJIYVE4cGRDSWt0ZkxiUlRqZXVUalFJNXFyYlpfaDB3SVU2eWpOWlVJY1pBSjhDa2NjdE5aY1V1TGw0UTh6dGVXSQ?oc=5"
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQjdlOWlGZFlBdmE2ZTFaS0V1dzRKWVBjZVkwdWd6UWlzSnBKTnV1OWpQWW5penhISHh4elBzU1VJWm5iTzd5WXFQLXZSYjBuVGtneHB2QnRvemtXQVhfdl9BUWs3cWliLTBkUk82UUZsdFVMenppcklYSlBGVHdncTlaWWx6NWVFMVJJQU1IOUNlbWJ6bnpscQ?oc=5",
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2pLaGwyZS1nQ2E4VUkzbzJMNmVtOGxjY04zUUlaRTFrVVl4NHl4UW5GaVdFYV9lY0dXZTZvNGptRUlTX0RfMC12Qmhka2laeE94ampVRDEwSklKd3RqNkdteWZaZDlURUlsYVJqN2g0Z0hIY21oVnQyeERFRWVjbnJkamJJSDRaTlp5ZTNIUkJaSllHSmZCQnNFeVFtQQ?oc=5"
      ],
-     "published": "2026-11-11T19:06:58+00:00",
-     "latency_min": 627.5,
+     "published": "2026-11-12T13:00:04+00:00",
+     "latency_min": 785.6,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "SNPS",
-     "title": "Should You Buy, Sell or Hold Synopsys Stock at a P/E of 24.71X? - TradingView",
+     "title": "Can AI-Driven EDA Accelerate Synopsys' Next Growth Phase? - TradingView",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -3377,12 +2938,12 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN19XbjJkWmZHSDVUWFZEbDFfNFRIUFVtWTgyQzFDeHJXb0FaMldTRGtmMmhrUE5vX1VFY0Z5ZnBDOGk4NHBjSWlBYlRmNEJLbFZxMUtwMmFta0wwZHYzaHVBZy1QMHZ2bGUtQ19QZ0dXdHlLZ3FrRHNWVFp6WEl4T0hnTjl2ejkweW9PQUNENnVaOWVtZXpNZE1UX1dmZW5sNjdwU2lfT2VaSkJVYjE0OG9QTkw2WDhP?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-synopsys-stock-171400426.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTZTd2lkMW5GbWY5WEVqOVJTTk93TFFQUHJmdU93SS1WMUkzemk5RThtSFBYdTBsdlZZSHJhSEM3elZ0T3dPWVpnNnBFV1l1OGNmSTU5bjNJSEw4NE5lV1hZY2NraFZsTUg5NEk0VXdMY3g4UmdYdGxVLW5TMUJpaWVxWm1FVE13UjhoUEw0dDItdkMzWHhpTDM1RUl2M3lsQ1B5V096TV91WEpLMjl0Rw?oc=5",
+      "https://finance.yahoo.com/technology/ai/articles/ai-driven-eda-accelerate-synopsys-141300180.html?.tsrc=rss"
      ],
-     "published": "2026-11-11T17:14:00+00:00",
-     "latency_min": 740.5,
-     "sentiment": "neutral",
+     "published": "2026-11-12T14:13:00+00:00",
+     "latency_min": 712.6,
+     "sentiment": "bullish",
      "high_impact": false
     },
     {
@@ -3400,7 +2961,7 @@
       "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTFCWlgwQjBYeDhOZjZrVW9rb3dJaHFsWjVxenlXRVFxWUJtMWpuWk40dEVxT2Zjb3M4YzlUSEVDdVVkMkkwUTNkOEpsTnFEVDIzREk1U1pxaXEzV3JLRDR2d0EySUtXLVM1U0VVOUgzeGJybHB6SHJvSnBjWkQ4bzRUcGV4cDVkM2NSdlBKRWoxTkVSZ2FlQXB5TTdhSEVaWG5SeFFJVDA?oc=5"
      ],
      "published": "2026-11-09T23:36:11+00:00",
-     "latency_min": 3238.3,
+     "latency_min": 4469.5,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -3419,26 +2980,26 @@
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXRCU3ByV0gzQmpYWEZKczM3TmpJNjFpVHAzWloyUVBvbTV5SHpBS3pCTE1OM3pmV0N3WXUwd3JRQ3dNMTdDS1VaWmJ6S0FJRGJSSDRMQUpPamdBS3ZMaGZTN1VwS21fMEJsNi05YV81a1FuVDlYT01GWjdSeXJXN0psQlRWaTBMSVN6Z0dtUGM2N3p1S2p0MG02TmRwd2w0ZHNuT3VaYWJIckpBbWF6UDJrZjhxOFE4Nm1GMw?oc=5"
      ],
      "published": "2026-11-10T13:51:14+00:00",
-     "latency_min": 2383.2,
+     "latency_min": 3614.4,
      "sentiment": "bullish",
      "high_impact": false
     },
     {
      "ticker": "SNPS",
-     "title": "SNPS DCF Analysis: Intrinsic Value $217 vs Price $467 - GuruFocus",
+     "title": "Should You Buy, Sell or Hold Synopsys Stock at a P/E of 24.71X? - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "gurufocus.com"
+      "finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPek8tV2tDU0RGZ3pYQ19WUndlR3RSU2lVZG81SHN3RHpNNzN5ZFhKVW1iOUdmMmQtVmRjSzNqejZySHNPQllBdFM4VlVmQ25kY2xQemFnUVIzMXBHV1BjWW03QkdGX0ZpQWNkQm5HX3ZLYXl0QjFtaU1BeHpJYjM0cHVaaTlhWEZGek5PWWdXVDNwSEU?oc=5"
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzBSSGNzNThYNUxnM1hpaElKdkxsal9uUXpYWXE0UXRsTVh6MUUwR0hacTNrb0RkNlhLdTdqc3RRRlVHeVZoRFBmai1RM2dZNExSN0x1WFh6bkhSaU1XUFBqNzVCcjFLWEd3eFlZX0RDWWZaQXdaTm9iYkI5czVSb2dzRHg5cXRDeFRhRVZXdGUzZE5keExxdA?oc=5"
      ],
-     "published": "2026-11-10T13:04:02+00:00",
-     "latency_min": 2430.4,
+     "published": "2026-11-11T17:14:00+00:00",
+     "latency_min": 1971.6,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -3465,7 +3026,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -3473,18 +3034,457 @@
    "six": {
     "signal": 59,
     "halal": 35,
-    "momentum": 70,
+    "momentum": 83,
     "entry": 70,
     "catalyst": 45,
     "risk": 80,
-    "rank": 64.1
+    "rank": 66.0
+   },
+   "insider_buys_90d": 0
+  },
+  {
+   "ticker": "INTU",
+   "name": "Intuit Inc.",
+   "generated_at": "2026-11-13T02:05:26.230060+00:00",
+   "composite": 72.4,
+   "scores": {
+    "technical": 92,
+    "fundamental": 82,
+    "news": 50,
+    "accumulation": 20
+   },
+   "technical": {
+    "ok": true,
+    "ind": {
+     "price": 342.64,
+     "atr": 13.41,
+     "atr_pct": 3.91,
+     "ema20": 335.96,
+     "ema50": 325.81,
+     "ema200": 375.48,
+     "vwap20": 339.85,
+     "rsi": 56.1,
+     "rel_volume": 0.85,
+     "macd_hist_pos": false,
+     "weekly_up": true,
+     "avg_volume_20": 3021600,
+     "last_bar": "2026-11-11",
+     "spark": [
+      269.64,
+      272.11,
+      273.68,
+      288.41,
+      281.12,
+      278.4,
+      293.42,
+      289.74,
+      292.46,
+      288.57,
+      283.15,
+      280.22,
+      294.95,
+      302.5,
+      311.54,
+      331.58,
+      314.04,
+      314.6,
+      316.91,
+      322.1,
+      326.42,
+      320.42,
+      323.74,
+      332.88,
+      334.88,
+      333.16,
+      356.63,
+      344.06,
+      334.04,
+      348.78,
+      360.79,
+      360.19,
+      365.3,
+      368.2,
+      355.8,
+      344.27,
+      346.38,
+      356.4,
+      357.63,
+      343.33,
+      341.35,
+      342.7,
+      331.16,
+      317.45,
+      312.48,
+      311.32,
+      320.08,
+      337.58,
+      327.74,
+      316.65,
+      311.68,
+      301.78,
+      302.71,
+      290.99,
+      285.47,
+      275.84,
+      274.51,
+      268.15,
+      266.79,
+      274.43,
+      281.47,
+      279.78,
+      283.36,
+      288.46,
+      295.86,
+      303.88,
+      302.75,
+      305.99,
+      301.45,
+      310.44,
+      330.17,
+      325.15,
+      325.62,
+      335.29,
+      335.61,
+      354.9,
+      343.39,
+      339.89,
+      328.45,
+      328.19,
+      331.19,
+      341.09,
+      352.1,
+      344.72,
+      356.64,
+      354.84,
+      341.5,
+      338.23,
+      340.44,
+      342.64
+     ],
+     "ret63": -0.0392,
+     "above_ema50": true,
+     "above_ema200": false,
+     "ema50_rising": true,
+     "dist_high_pct": 49.1,
+     "note_qqe": "QQE не реализован (нет утверждённой формулы)"
+    },
+    "acc": {
+     "score": 20,
+     "flat": false,
+     "vol_ratio": 0.83,
+     "low_touches": 1,
+     "range_pct": 34.0,
+     "distribution": false
+    },
+    "gaps": [
+     {
+      "date": "2026-10-30",
+      "pct": 2.59,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": false
+     },
+     {
+      "date": "2026-11-04",
+      "pct": 2.76,
+      "direction": "up",
+      "kind": "runaway",
+      "filled": true
+     },
+     {
+      "date": "2026-11-06",
+      "pct": -2.58,
+      "direction": "down",
+      "kind": "common",
+      "filled": false
+     }
+    ],
+    "false_breakout": {
+     "kind": "bear_trap",
+     "bias": "bullish"
+    },
+    "levels": [
+     {
+      "price": 259.63,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 299.23,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 320.05,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 337.2,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 358.96,
+      "touches": 2,
+      "mirror": true
+     },
+     {
+      "price": 369.43,
+      "touches": 3,
+      "mirror": true
+     },
+     {
+      "price": 416.58,
+      "touches": 3,
+      "mirror": true
+     }
+    ],
+    "setup": {
+     "type": "level_retest",
+     "level": 337.2,
+     "touches": 2,
+     "mirror": true,
+     "entry": 342.64,
+     "entry_zone": [
+      337.2,
+      343.9
+     ],
+     "sl": 323.79,
+     "sl_atr": 1.41,
+     "tps": [
+      358.96,
+      369.43,
+      416.58
+     ],
+     "tp_source": "levels",
+     "rr_tp1": 0.87,
+     "rr_tp2": 1.42,
+     "hold": "2–8 недель (swing)"
+    },
+    "tech_score": 92,
+    "volume_confirm": true,
+    "price_above_vwap_ema50": true,
+    "ema50_rising": true
+   },
+   "fundamentals": {
+    "score": 82,
+    "available": 11,
+    "passed": 9,
+    "rows": [
+     {
+      "check": "Revenue growth YoY > 0",
+      "value": 0.137,
+      "ok": true
+     },
+     {
+      "check": "Earnings growth YoY > 0 (прокси EPS/NetIncome)",
+      "value": -0.014,
+      "ok": false
+     },
+     {
+      "check": "P/E > 5",
+      "value": 20.6665,
+      "ok": true
+     },
+     {
+      "check": "P/B > 1",
+      "value": 4.8071,
+      "ok": true
+     },
+     {
+      "check": "ROE > 10%",
+      "value": 0.236,
+      "ok": true
+     },
+     {
+      "check": "ROA > 5%",
+      "value": 0.1047,
+      "ok": true
+     },
+     {
+      "check": "Debt/Equity < 1.0",
+      "value": 0.4434,
+      "ok": true
+     },
+     {
+      "check": "Current Ratio > 1.5",
+      "value": 1.507,
+      "ok": true
+     },
+     {
+      "check": "Quick Ratio > 1.0",
+      "value": 0.782,
+      "ok": false
+     },
+     {
+      "check": "Free Cash Flow > 0",
+      "value": 6353625088.0,
+      "ok": true
+     },
+     {
+      "check": "Avg volume > min",
+      "value": 3631487.0,
+      "ok": true
+     }
+    ],
+    "gate_ok": true,
+    "note": "ROI в бесплатных данных недоступен (N/A). Growth — квартальный YoY по Yahoo."
+   },
+   "halal": {
+    "status": "NEEDS_REVIEW",
+    "calc": {
+     "industry": "software - application technology",
+     "debt_to_mcap": 0.093,
+     "cash_to_mcap": 0.079,
+     "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
+    },
+    "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
+   },
+   "news": [
+    {
+     "ticker": "INTU",
+     "title": "Here is What to Know Beyond Why Intuit Inc. (INTU) is a Trending Stock - Yahoo Finance UK",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "uk.finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEJpTlJ2NWxjTEg4YXA4bGhBZ25aYjhmOGFVR045Vi1yVWEyZC1iN2JzcnNNV0FmVnhwOUUtMEZqQTJlOXhnMUpxbGlvS09WWi1YekJDNGpGTmU0aWdSb0xKaGRIMURlT3pxdHN3dlR6OGJ3VUVmV0liR3lYdWFCaA?oc=5",
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU0yNHpYTkVha1Y2RDNXLUJiNVpfX0VwblAtaEtHQ2xqUE5uWmg5akZrUlk5aFM1UzhWYWk5UzZNelNxbG5yLTBXMjhtVjlBSlBKTHJSM2RQSnlKQ1pwZXpJeFMzMEJBQkVMTW9uVnJ1S0VYSGVQZWRlZl95VFh0Y3hNZC1IVlRTOE1fSHdPeEpNTmprTWVBM0Nn?oc=5",
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1kdXJKbmR4bXRNZ3MyLXpHREJTcmczcDV5QXhleUpZN1Vob0J1OUF1b0hnd0dER0FndWlYclJoaGVlZzRnemV6VEs0RzNzT0Vkd05rTkFyc0lDeFUwT1JyanVIVTdmZlkxRDZ6bFlHUWJWUnFJbGpmNmVVUGo0Slc1OEpOMDE4RzM4OXEtNUdjekM5eWxzV290SQ?oc=5"
+     ],
+     "published": "2026-11-12T13:00:02+00:00",
+     "latency_min": 785.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "If You Invested $1000 In Intuit Stock 20 Years Ago, You Would Have This Much Today - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3lZX1ZGNDFlc2VfU2paaFAxSDlQQm5jNjBWS09XbEZmcERHaXVKRjV2cVhBemlKaTFHUjluMFBsT01Rcl8tVC1lY3d0MC13WE50VTQydEF2R1FUbi11UGpIVUlTS0pCbDNBeXlMSjM0VERSVk1vUU5UM1YzeURNcmJjc3pYeldLbWR4aUhDUkZxZmZrcVpnV0w2aVFod2RTV2RFMTRrN0pfbS1raHYwRURaVDZmWncw?oc=5"
+     ],
+     "published": "2026-11-12T23:30:15+00:00",
+     "latency_min": 155.2,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEhzWk9VWjA0SFFvVXpycGZRZFpPS0xOMFdmRWYzZ2lpTTFnSTZQZ0p5aEVvd2huMWR2R284SFJNZXZBd0dNLW5PblFja2JVZFJzVnExeUNoOGVMMlVTMGEzM1UtRzRhMWxEdi01VHp0b09wYmlPX3NrZkRwblBhdlZUbjhyUURzaXJzanZ4WjBZaVlOeTZFQ0NXNU1ldnZ6?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-expected-beat-earnings-140004297.html?.tsrc=rss"
+     ],
+     "published": "2026-11-12T14:00:04+00:00",
+     "latency_min": 725.4,
+     "sentiment": "bullish",
+     "high_impact": true
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTkxsY0ZOSmZIOFd0dlE4UkpUYnkzSnpYU1BjT0xRd09mUE5QaXFOeU5TSDlQUW9CTTN3eWdGaHBHUEcwYlVmSDMzSVlfajd6QWxybVptcHl0TFd3WHZmTnJaR2cxMlVCVmFuWkRTS0pQOVJ5Z1VwMDYwOXBta2NnRGFDalJCM2tSaDJQbXhkQXdiTDlZQzZHLUtkY2E?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-stock-drops-despite-214501607.html?.tsrc=rss"
+     ],
+     "published": "2026-11-06T21:45:01+00:00",
+     "latency_min": 8900.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "INTU",
+     "title": "Intuit (INTU) Grew Revenue 14%, but Guidance Points Lower, Here’s What Investors Are Asking - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkptQmxsclNtMW03a0JBbWEzb3p2ZzI2TmpXVnkzb2F2N0p3a3RpUk12VDNTekRqRHVUQy1ZS1UwVWMyeTNGb1JHSEdIeFhvQ0dpN1V6cHpJc3VDRVRUbElKTkdXbFNqbTFCT09CT2dJYVVuQUpaN3dNRHRaRzJIa3Bjb0x1ZTRMUU9qa1pOdmlFeE5PUDFF?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-grew-revenue-14-161752763.html?.tsrc=rss"
+     ],
+     "published": "2026-11-10T16:16:35+00:00",
+     "latency_min": 3468.8,
+     "sentiment": "neutral",
+     "high_impact": true
+    }
+   ],
+   "earnings_date": "2026-11-19",
+   "gates_failed": [
+    "халяль: NEEDS_REVIEW",
+    "RR до TP1 = 0.87 < 2.0",
+    "отчёт 2026-11-19 — gap risk",
+    "капитал не позволяет открыть позицию с заданным риском"
+   ],
+   "reasons": [
+    "ретест уровня 337.2 (2 касаний, зеркальный)",
+    "weekly тренд вверх",
+    "объём пробоя подтверждён"
+   ],
+   "risk": {
+    "shares": 0,
+    "notional_usd": 0.0,
+    "notional_kzt": 0,
+    "risk_usd": 0.0,
+    "risk_kzt": 0,
+    "slippage_usd": 0.0,
+    "fees": {
+     "freedom_broker": "тариф не задан в config",
+     "paydax": "тариф не задан в config"
+    },
+    "fx": 444.19000244140625,
+    "limited_by": "риск"
+   },
+   "status": "WAIT",
+   "only_halal_blocks": false,
+   "six": {
+    "signal": 72,
+    "halal": 41,
+    "momentum": 52,
+    "entry": 80,
+    "catalyst": 40,
+    "risk": 46,
+    "rank": 65.2
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "QCOM",
    "name": "QUALCOMM Incorporated",
-   "generated_at": "2026-11-12T05:34:34.906589+00:00",
+   "generated_at": "2026-11-13T02:05:44.531813+00:00",
    "composite": 52.9,
    "scores": {
     "technical": 47,
@@ -3500,13 +3500,13 @@
      "atr_pct": 5.21,
      "ema20": 172.97,
      "ema50": 175.19,
-     "ema200": 172.25,
+     "ema200": 172.23,
      "vwap20": 170.11,
      "rsi": 52.0,
      "rel_volume": 1.04,
      "macd_hist_pos": true,
      "weekly_up": false,
-     "avg_volume_20": 13996360,
+     "avg_volume_20": 13998805,
      "last_bar": "2026-11-11",
      "spark": [
       185.55,
@@ -3708,12 +3708,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 13.6664,
+      "value": 13.948,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 6.2262,
+      "value": 6.2463,
       "ok": true
      },
      {
@@ -3748,7 +3748,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 12530242.0,
+      "value": 12634295.0,
       "ok": true
      }
     ],
@@ -3759,7 +3759,7 @@
     "status": "NEEDS_REVIEW",
     "calc": {
      "industry": "semiconductors technology",
-     "debt_to_mcap": 0.085,
+     "debt_to_mcap": 0.084,
      "cash_to_mcap": 0.041,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
@@ -3768,21 +3768,58 @@
    "news": [
     {
      "ticker": "QCOM",
-     "title": "Here’s Why Barclays’ Tom O’Malley Kept a Sell on Qualcomm (QCOM) - Yahoo Finance",
+     "title": "QUALCOMM Incorporated (QCOM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "finance.yahoo.com"
+      "ca.finance.yahoo.com",
+      "uk.finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVmFpdUVCTUJPTmhSc2VLMUIwa2c2NjQ3S2x4Y0hsdmlzMXYwM0hkcEVYaDVXS2lfbjhrSGJEalVRNG9aOGJ5V0ZYOWh5ZC1VNTZQcTBJS2NhZ3hHcll3YXRBeExUdUlFZjV4SGVldklEdkFEcXFvc3hoOUN5eG02and3X1lSMk9VN1ZuZ1o0bzJjQ3ot?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/why-barclays-tom-o-malley-180259184.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xOWlMNERidkxrd0pJaGNNWUtHNmhwR1FvdG9qcEhDSnlyUUhYNGp5NlBwZkxERmNQc3ppV0xPeTFRQnkwVGxGRTNTTndKWkFuSWc?oc=5",
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pQ1BnY2hBbVVnTEVEZVN0T2QtOTVtd0RJSk9yZTZFOERNYjZJRFNzbTNzeDl4ZWVmdzZTcURyRG90X2MzSl9XelJoM1JIUmdjamc?oc=5"
      ],
-     "published": "2026-11-11T18:02:59+00:00",
-     "latency_min": 691.6,
+     "published": "2026-11-12T20:40:44+00:00",
+     "latency_min": 325.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Why Is Qualcomm Stock Surging on Thursday? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFBBMFR6TE14cm9kaWxqQzFNUzR5cG9QTUV1eEJzb2lFX0VqeC0yUHBmV2lPQmlpTFRlVXRWLWthREl5VjNULW5BeWszM1VFYmFocDZ3SVg0NU1JdGwzdlhkSkwwZ1ZRZ3djRFFOWnJ6QTEwMTA0Q1NHNy0xOENLaGhUazdsRmdNSVZFMl9ST0p0M05iQWctZTBycHB5T3dTSWNEUQ?oc=5"
+     ],
+     "published": "2026-11-12T18:44:45+00:00",
+     "latency_min": 441.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "QCOM",
+     "title": "Is Qualcomm (QCOM) Stock a Buy After the SpaceX Starlink 5G Deal? - Blockonomi",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "blockonomi.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaGNmajhlME11d3BiTDVMeDhOTHR6eU9JYXNLaHpCUUVuUWtZc0F2M3VlUmhQNExmU0ZnV2ZXYlZRNGxZZ1czU1RZNTZiZUUxaWpRWTl4clhPTHcwODdmdjhyaVZlRDlaSlJJUTBXYmlDVXFvUVFXWnpKYm5nTW9qeGMzWXVrRjZpM1lDWTZLcw?oc=5"
+     ],
+     "published": "2026-11-12T17:25:15+00:00",
+     "latency_min": 520.5,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -3801,32 +3838,13 @@
       "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMERLMXlBSXBVVnJndTN5YzRMZl9fR1BEUlI4RUo3bWZEdVpsSURyaUVMSWxLMnJfYTc5LVFzNGNWSVQwa3dzTDFUNDEtdENqS2FvcmJZV2xTZkxOMndKX2dMbzYwcDZTeUhqUXR6T0lpcjRYOGdTcUk2M08ycEVESm1SeGxyRFlPZy01SFJhREExTlp5NVNSeGxjRWNKekY3X3R4LXhLaHZIOWpvOHFQUEl2STdqZi1DcWdiVi1WdmJZNXNwY0NxdnJLb0VzRTI5d2x1b2VwYzNrdlE1M29Ib0VoVUY4VXZQWnVqaER1cGlWTlZpZ0RhZ19RcVEyZkJpeGM0cg?oc=5"
      ],
      "published": "2026-10-22T07:00:00+00:00",
-     "latency_min": 30154.6,
+     "latency_min": 31385.7,
      "sentiment": "neutral",
      "high_impact": true
     },
     {
      "ticker": "QCOM",
-     "title": "Has Qualcomm Stock Become A Different Bet? - Trefis",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "trefis.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenFIWWhwYmlnOTVVYlZybUhwYVg0bmpldThhWERiRENNRHpaeHA4NVBGTkw2SDJkVk5wM25GLVRMcDFFWG55cjE5SkFxT1lzMUtuOEI0M2ZWYXRMUlpXVlNpZ2NsSmxtcHZkcGRVLUtEY3R6U2RMbWZCVmpZUEptTFFSWXlpeHBrNmdCM0RIazVpMS16bGUzTzZjeVZFQVJrSFVROA?oc=5"
-     ],
-     "published": "2026-11-11T11:02:17+00:00",
-     "latency_min": 1112.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "QCOM",
-     "title": "Qualcomm Inc Stock (QCOM) Moved Up by 4.62% on Nov 11: What Signal Does It Send? - TradingKey",
+     "title": "Qualcomm Inc Stock (QCOM) Moved Up by 3.20% on Nov 12: Facts Behind the Movement - TradingKey",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -3836,29 +3854,12 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEJMUWZfNEVZOEgxM1RvRHJFS3NDY0R1XzFXOGJmSXhFbnVFeWd3MFN2eS1fWFhtSWNpVEcwZGlfMS16WkxiS3VCdml5ZFFQTVZkWGxrbWpLZzZOUFBXZVNDMXVTV0pnNjJmTmYtWUVZVUlqbUN5czFqWEZaM0ptTmJWR2ZGYUxnTDNR?oc=5"
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNFNzE2US1CNjRZQ3haUVZ5T0JIZEo1V3ZBWlZfeF83Qm1zM20taDlLeERncU9CQ182Q29YSlhpQnFzNF9VcnF3OWdfeGx4endpOVAyZzhOeUljcHJjTEZJTEtsemg4VGI0cHIzNlVjQzFSNHFKQzZUS3BoVkQ5eHdUd3lPaDlpQ0hF?oc=5"
      ],
-     "published": "2026-11-11T18:15:42+00:00",
-     "latency_min": 678.9,
+     "published": "2026-11-12T16:15:26+00:00",
+     "latency_min": 590.3,
      "sentiment": "neutral",
      "high_impact": false
-    },
-    {
-     "ticker": "QCOM",
-     "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales - CNBC",
-     "status": "UNCONFIRMED",
-     "red_flags": [],
-     "sources": [
-      "cnbc.com"
-     ],
-     "best_tier": 2,
-     "links": [
-      "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdnBhYm1hakZ1aldQNm80ZGNKSmUtY1JqWHVZem5QZE1DVE00UmZfeldSNWJ6b0FOekhBQzlPbWJPRC0zclJQMGVxaWFiOGtSWWxGSVUzVXl3RU9lLWJNN3kxR19iZEpQV2NjM2F4aTFiWkg4bzhoRF9mQzJjZzA?oc=5"
-     ],
-     "published": "2026-11-04T21:06:06+00:00",
-     "latency_min": 10588.5,
-     "sentiment": "neutral",
-     "high_impact": true
     }
    ],
    "earnings_date": "2027-02-03",
@@ -3884,7 +3885,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -3892,18 +3893,18 @@
    "six": {
     "signal": 53,
     "halal": 43,
-    "momentum": 50,
+    "momentum": 58,
     "entry": 80,
     "catalyst": 30,
     "risk": 83,
-    "rank": 60.0
+    "rank": 61.2
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "AMD",
    "name": "Advanced Micro Devices, Inc.",
-   "generated_at": "2026-11-12T05:34:32.602067+00:00",
+   "generated_at": "2026-11-13T02:05:41.965853+00:00",
    "composite": 61.3,
    "scores": {
     "technical": 49,
@@ -3919,13 +3920,13 @@
      "atr_pct": 7.25,
      "ema20": 519.87,
      "ema50": 532.3,
-     "ema200": 441.05,
-     "vwap20": 504.44,
+     "ema200": 441.03,
+     "vwap20": 504.51,
      "rsi": 53.6,
-     "rel_volume": 1.45,
+     "rel_volume": 1.49,
      "macd_hist_pos": true,
      "weekly_up": false,
-     "avg_volume_20": 31965105,
+     "avg_volume_20": 32023390,
      "last_bar": "2026-11-11",
      "spark": [
       517.41,
@@ -4132,12 +4133,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 110.1394,
+      "value": 125.0641,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 13.2587,
+      "value": 14.0356,
       "ok": true
      },
      {
@@ -4172,7 +4173,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 23293332.0,
+      "value": 23719028.0,
       "ok": true
      }
     ],
@@ -4184,7 +4185,7 @@
     "calc": {
      "industry": "semiconductors technology",
      "debt_to_mcap": 0.01,
-     "cash_to_mcap": 0.017,
+     "cash_to_mcap": 0.016,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
@@ -4192,21 +4193,54 @@
    "news": [
     {
      "ticker": "AMD",
-     "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results - The Motley Fool",
+     "title": "AMD Stock Rallies as Jensen Huang Leaves Nvidia - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmxESl9XeVB0ZHFqWVpNX0RyZlhIMDV2aE1EQ043SUN1MVpQUFpvRzB3MGRNUFZENEhwUmpjOXZMVlZudTNMSGpLWVpoRmhVTl9fU3JYM0tpSFdxa0xZTHdzcWNHdWlFbi13cnREVC1TN3lyM2VJcDI0QlRaSDExbFdxU0pqNkc5RlVXR1lPMXFXTFpPMzhWZjk0dmxmSkxfRFZuY28zYzIxUk1NcnpNbHluVGxXcmVF?oc=5"
+     ],
+     "published": "2026-11-12T15:22:25+00:00",
+     "latency_min": 643.3,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "78,813 Advanced Micro Devices, Inc. $AMD Shares Purchased by Fifth Third Bancorp - MarketBeat",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "fool.com"
+      "marketbeat.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTGgxdktvSEI0M2hDSUdFUktvLTFDVldrV1FDcXJyX1RQMDFPWDdoWUZyTXJyaFgzQmpmUkZaMUl5SEdjWTVqc2ZsQ3lXd0ZteXM1eTUwZ0YyUGptbDh3eVJUVk9GNWdFemkzX3VvZUI3eHpSRkxXS1RzMW52MDlWTzhDMzNCbFU2M3BnNzZfTXZucHdhclFDYWJHclN0eUFHZzdPS2o2dzBoU0FnSGhJNkFhdU1mSjhNNWRWRktSdmpnd2FGRW5SR0ZPVDF5Qi00aE5XX1BXdVNFLTVrRGo1ZFBvQ3RIVmlad1hxaUhac3c?oc=5",
-      "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYkZ6ZDJvVlVvZ1RSbUo3Qk1UbTJuYktnOV9SeFZPTTVNUG1Oc3pSNUVEeDhRa21RSU9yMFpLd184NXlTLU1LbF9DTXl3aDVNVEk3UE1lSU1VUGFPYTBoUkd5ZEl3MFRkbGl3RGFNdndEYjdlSXBraF9FLUdHUWxOREZneS05Rmo0WHFTSHNJY1d1enBMM3NXay11cXZhdkpnOE9oaE5nV21TY3RNRWl5Q2k2UkN4R29UbWpaQVFaR3RRX1VDZXJzUlFzNmtJOU1OcGxB?oc=5"
      ],
-     "published": "2026-11-11T22:52:34+00:00",
-     "latency_min": 402.0,
+     "published": "2026-11-12T09:50:06+00:00",
+     "latency_min": 975.6,
+     "sentiment": "bullish",
+     "high_impact": false
+    },
+    {
+     "ticker": "AMD",
+     "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFlYbmZYRWVVbU9JRWJTN1ZkaDUySU9wWXdlM3QzLTgwcjFKMkt4OTZTQjJSTEh4ZWQya3k5SHBsblY0Q250dVRJc0hKRlk4cFlrUzAzcU04MndkZFkyVmVGZVlUdGNMa0FpaE10M1VRUEhXNEdiUEw0aW5LTHBER0ZZZEpzZm1Cc2ZzNzdUaDFMMDROR0hmTnBjbzhRQWFB?oc=5"
+     ],
+     "published": "2026-11-11T15:20:36+00:00",
+     "latency_min": 2085.1,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -4223,62 +4257,26 @@
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHNiaWhiVENxYXhKbXg5eWQzZGU5eFFXNGhNSDBrYWsxQUY3Qm1zbUdMREUweWRvM2RvSDFqS0dSQlhELWw4TjJIRFRqbUpXQ1U5QkxEaGZQUnZqSjktWlVtRmVycjd1b1RaZjdGUGp5eU5EODVUd1RwMTJyWGYtQXV3Rm9iVmxOcldJdndJR0JYN1Bac1hHbHk3YVRyS2pCS2FrWTRvM0NWcVpFQjRfYlZmUmhRZTQwVjM4R005Qmxad01RTE1Pc3VR?oc=5"
      ],
      "published": "2026-11-10T17:17:16+00:00",
-     "latency_min": 2177.3,
+     "latency_min": 3408.4,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "AMD",
-     "title": "Advanced Micro Devices, Inc. $AMD Stock: Keybank National Association OH Decreases Position - MarketBeat",
+     "title": "AMD and Broadcom Stock Get a Boost From Nvidia’s Loss - Barron's",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "marketbeat.com"
+      "barrons.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdEtHZ1h6MDhOTVBlNDVDYVVtOGE0dEl4S2hSdHlUVDBGb2V2c0pTNVJsZG9UZFY3ZS1QS2kwb0xzMHlxcDFWZjBmWUhycHNFaDRmOWJsb0ZrT0RSMmJ1a2V6X0NvU0FicUhJZG5NWHgyb0taR2FvQkZKb1p2ZFJPRkEyY2IwdzJPZmdhRjdrMTJna2xwMU9GUWRYRW9yQUpQR0ZoMWFneUtsakd6dThLZDdwazQyekw4ZEFEV3lZTDhaX194VEtwbjFFM2d4dXcwcUJzWGc3SEVvSzJ6N0dVVzZ3?oc=5"
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGJPR1pTTlRRSUZBTFNIZTZCd1JYRHltdEx2N2F3OVpvRzRDbFZ2UWlhR01SLWZadTlKNnRjbi1sQU5RazZKaDdReWZmdHhqOEVuemFRTlQ3dWk5SUt2RnMtTU1CcTlDbGctMWZGLUhNREtPNXNnZXNNRUJwQkpMQTVB?oc=5"
      ],
-     "published": "2026-11-11T10:59:15+00:00",
-     "latency_min": 1115.3,
-     "sentiment": "bullish",
-     "high_impact": false
-    },
-    {
-     "ticker": "AMD",
-     "title": "Advanced Micro Devices soars 13% on Google Cloud deal, tech rally (AMD:NASDAQ) - Seeking Alpha",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "seekingalpha.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWlsWGwzaEFUQkppQnFleUFqeldtRmJNaVctS3luSE5XS0QyZUVPTi1rMkM2T29HMG9EWVBvTDB4cDN0dlpQX2JWZG9DdGl3blRuNEJJb1diS2k3bFlubzg5OWdqLTREZHgzWUl5eWtpQU55TFpaanJkS0Y1UG1tR1BQUmxzeDUwWHY1RWFUZlU0Z0RxMktwOS01cHBOTmRIcTdF?oc=5"
-     ],
-     "published": "2026-11-09T22:29:00+00:00",
-     "latency_min": 3305.5,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "AMD",
-     "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
-     "status": "UNCONFIRMED",
-     "red_flags": [],
-     "sources": [
-      "benzinga.com"
-     ],
-     "best_tier": 2,
-     "links": [
-      "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFlYbmZYRWVVbU9JRWJTN1ZkaDUySU9wWXdlM3QzLTgwcjFKMkt4OTZTQjJSTEh4ZWQya3k5SHBsblY0Q250dVRJc0hKRlk4cFlrUzAzcU04MndkZFkyVmVGZVlUdGNMa0FpaE10M1VRUEhXNEdiUEw0aW5LTHBER0ZZZEpzZm1Cc2ZzNzdUaDFMMDROR0hmTnBjbzhRQWFB?oc=5"
-     ],
-     "published": "2026-11-11T15:20:36+00:00",
-     "latency_min": 853.9,
+     "published": "2026-11-12T18:02:00+00:00",
+     "latency_min": 483.7,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -4307,26 +4305,26 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
    "only_halal_blocks": false,
    "six": {
     "signal": 61,
-    "halal": 56,
-    "momentum": 61,
+    "halal": 57,
+    "momentum": 76,
     "entry": 60,
     "catalyst": 30,
     "risk": 58,
-    "rank": 57.4
+    "rank": 59.6
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "ANET",
    "name": "Arista Networks, Inc.",
-   "generated_at": "2026-11-12T05:34:33.791837+00:00",
+   "generated_at": "2026-11-13T02:05:43.294827+00:00",
    "composite": 57.4,
    "scores": {
     "technical": 47,
@@ -4343,12 +4341,12 @@
      "ema20": 182.41,
      "ema50": 186.99,
      "ema200": 170.57,
-     "vwap20": 177.88,
+     "vwap20": 177.89,
      "rsi": 56.4,
-     "rel_volume": 0.99,
+     "rel_volume": 1.0,
      "macd_hist_pos": true,
      "weekly_up": false,
-     "avg_volume_20": 8574605,
+     "avg_volume_20": 8575380,
      "last_bar": "2026-11-11",
      "spark": [
       181.05,
@@ -4555,12 +4553,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 49.5416,
+      "value": 55.3968,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 15.1083,
+      "value": 15.8726,
       "ok": true
      },
      {
@@ -4595,7 +4593,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 6235540.0,
+      "value": 6210676.0,
       "ok": true
      }
     ],
@@ -4607,12 +4605,52 @@
     "calc": {
      "industry": "computer hardware technology",
      "debt_to_mcap": 0.0,
-     "cash_to_mcap": 0.058,
+     "cash_to_mcap": 0.055,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
    },
    "news": [
+    {
+     "ticker": "ANET",
+     "title": "Arista Networks, Inc. (ANET) stock price, news, quote and history - Yahoo Finance UK",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "uk.finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPam1xSlo3dHluTXhsbkhra3BxNHlJSGlnUnczajk2VnJPd2RuSjhLd3pialJaU2g3NWNEckhlNmxKd1VpVDBiTi1pWVVJdGkxdFE?oc=5"
+     ],
+     "published": "2026-11-12T21:00:17+00:00",
+     "latency_min": 305.4,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ANET",
+     "title": "Arista Networks Inc Stock (ANET) Moved Up by 4.87% on Nov 12: Facts Behind the Movement - TradingKey",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "tradingkey.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHdjVEllU21QMnRLMFhyazJZYm53cktHNlBXZnJXQnRuT2EyWDY1SmZTdERLa0FXUDJ5UnQwUkhObEhTdDBVVWJWY0czd1RfMVhqOV9Rci1VeUg3akplRnczcUo3YnBLb1FhVzRrdmk1U3UyVXdYTHVyUDZYVEVFbUFWWkx4VkJkaE5R?oc=5",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEdCTEt1bXhYbFp6SVNWTmNERS1YNy13R0RDRVNhMGhDOTVFaGJlUWY4Q3VZT0tZTlA2UXNGdEN0Q25WTHh1UjhRNU9SX2huYy1XVktwLXhCMzhRWGRJZkdnWHBMUFR1aWR4dUtoUnh4Wjd5ZDNoVm1uVGRfTktla1F0UEFuLVcxa0c0?oc=5",
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEpCT2ZFMXZmMnYzVC1HV0o4WncwaU5nTHkxeHYxZVl3aWZFSXJrbU92NjkzQjVvbS00Z3ZVbVpzeU5FM0lya0lLbEVJYUR4T19pcWtmUEZ6TXJUdk83cHgwY1Zxa3FYS1laWmU4X2FtaEpZcFZaTURnTzBNQVhjQTBwOFp2a05LZHB3?oc=5"
+     ],
+     "published": "2026-11-12T16:15:34+00:00",
+     "latency_min": 590.1,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
     {
      "ticker": "ANET",
      "title": "Arista Networks Inc. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
@@ -4628,87 +4666,49 @@
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjBVOGFwdURScVRLRW1vVTdQaWQ0RmZieGNnMGJyQ2JjNERBUVhFREJJQlYxTl9SWjJIYlRGVTd3Y3RVQ011TVRNd0NPeldQRms3Q1FETG9DanhlenlDc3R0cHlDSjRQVG1TMC0zYWZKY1Fvel8zaFVEYXY0WFFMUFd4RndqTW10ZUhqdW9Pd19jbjYxdE4yaGxWeXFtTEhRZ3VMNldJcTRicVQxSUcya05NQmY1WU1RbkNqakI3MmFFUG5kN2JqX1NvSV9EdlhCaThsQ2NPWnE2VVRIcXpGSDFnVVQydzk4aWRLeEQ4Zw?oc=5"
      ],
      "published": "2026-11-11T21:30:00+00:00",
-     "latency_min": 484.5,
+     "latency_min": 1715.7,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "ANET",
-     "title": "AI Sell-Off: Buy ANET, TSM & MU to Make Up for NVIDIA Losses - Yahoo Finance",
+     "title": "VOO is up 0.1% today, on ANET stock price movement - Quiver Quantitative",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "finance.yahoo.com"
+      "quiverquant.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzhSdElQN3hqWmFVOUFRTGFybG40S0ZOQzRZc05zaV9ITTBEMFRVWnlJTTFUUm1wRTVSd29KTFZRNGtmNFBEbS00RGttYl9RNXVwY3ctOEU2YmtVVVhUYU9LQW9YU1piUFhSMWRueXMxb3JJbVNZSnN5ZmdPVVNneTJDZko0aXNOWGk5N3FB?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-buy-anet-190000623.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZm56SUlHS1diN3BiVVFldjI0RFdHMVpjWkVLRVJQWEthem5MRHh4MVR5dDhVSG9NdVJibnVacGgzTVpENkQxMHVQU29NT0lfbGwzaTVjbjQwZk1NanBBWXloLTdiVEJTYVphTUhGaHVCc0U0SnBZV2RnWlFIQ3A3ZVZxZ1dUME9lMDlTaDRCa1M?oc=5"
      ],
-     "published": "2026-11-11T19:00:00+00:00",
-     "latency_min": 634.5,
+     "published": "2026-11-12T16:16:00+00:00",
+     "latency_min": 589.7,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "ANET",
-     "title": "Arista Networks Inc Stock (ANET) Moved Up by 5.31% on Nov 11: Facts Behind the Movement - TradingKey",
+     "title": "Arista Networks (ANET) Guides Higher, Is The Stock Overvalued Following Earnings? - Yahoo Finance Singapore",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "tradingkey.com"
+      "finance.yahoo.com",
+      "sg.finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEdCTEt1bXhYbFp6SVNWTmNERS1YNy13R0RDRVNhMGhDOTVFaGJlUWY4Q3VZT0tZTlA2UXNGdEN0Q25WTHh1UjhRNU9SX2huYy1XVktwLXhCMzhRWGRJZkdnWHBMUFR1aWR4dUtoUnh4Wjd5ZDNoVm1uVGRfTktla1F0UEFuLVcxa0c0?oc=5",
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEpCT2ZFMXZmMnYzVC1HV0o4WncwaU5nTHkxeHYxZVl3aWZFSXJrbU92NjkzQjVvbS00Z3ZVbVpzeU5FM0lya0lLbEVJYUR4T19pcWtmUEZ6TXJUdk83cHgwY1Zxa3FYS1laWmU4X2FtaEpZcFZaTURnTzBNQVhjQTBwOFp2a05LZHB3?oc=5"
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc1B2Z0lINlNVRVd2cUg4dng5ZVB0SnU3cXNMSk1NYjhKaVh6b2R0MW9qazFwUnhGQU9LZDlWcVFYZnVPZlRjLW1zSERpcnVOdmRuaF92MndPTUc4cjY4dU9KUDJadGFNWkIyaXNIaHZCaWFGc2pFTmFiSmsxanFtMjFwZ0ZYOEZ4a1lR?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-guides-higher-201254192.html?.tsrc=rss"
      ],
-     "published": "2026-11-11T15:15:31+00:00",
-     "latency_min": 859.0,
+     "published": "2026-11-12T20:12:54+00:00",
+     "latency_min": 352.8,
      "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ANET",
-     "title": "What Is Behind The Move In Arista Stock? - Trefis",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "trefis.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFJWZVB6UnoxY3RnMkw2VWNnbTdnRzRQaDVkODRoaE5BYjFYT1I5WnJ4MVNPU3UtUjFyX1lORVdwcWFUOVNCZkFYaWVJVzhGVGxiUk5UUWtPRUFNaUhZX1pKbW5XVVpRUndOcVJCZzhUNHlwdGdoVlJHbE9GbENBSDh1UnBZYTdrN2MwZmlPVnJiWHZFYll1TXdvdzJ5clhiVVE?oc=5"
-     ],
-     "published": "2026-11-07T11:59:04+00:00",
-     "latency_min": 6815.5,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ANET",
-     "title": "Arista Networks Posts Fastest Growth Since IPO as Big Tech Moves Beyond Nvidia. Wall Street Still Sees 47% Upside in ANET Stock. - Barchart.com",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "barchart.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT010YVY0QWc2Z2cwanpQd2xZZHZiT21ybUk3bU9fWjZBM01mU0xnVmRxdmU1NUdhdmZlXzJZYU1qem56Q1RldHUtYkJZOXhEcExoUkV0bnJzX21nMllWd1JlYTMxcThoSmxWWlZFRTZVOTM5VnRSN2J6ZXgzSGFBenhJVzJYbmJDUEJZaXdqSkJxQldXNDJrYjM1UnFyaTlOWWFrV2I2RjJaYVFyRi1wMlpMcU1qZXU5RXFsdnpqM0QyN3FTS3U5RWVXT0hJTHRleHZSWTJBbm9UR3hmQlpnRnlSQ1k1M29zWUFIaENjN1c2Um5wX0NQVzBaZ3N1dw?oc=5"
-     ],
-     "published": "2026-11-06T19:43:40+00:00",
-     "latency_min": 7790.9,
-     "sentiment": "bullish",
-     "high_impact": false
+     "high_impact": true
     }
    ],
    "earnings_date": "2026-11-03",
@@ -4735,7 +4735,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -4743,18 +4743,18 @@
    "six": {
     "signal": 57,
     "halal": 49,
-    "momentum": 62,
+    "momentum": 61,
     "entry": 60,
     "catalyst": 30,
     "risk": 72,
-    "rank": 57.3
+    "rank": 57.1
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "ASML",
    "name": "ASML Holding N.V. - New York Re",
-   "generated_at": "2026-11-12T05:34:38.389443+00:00",
+   "generated_at": "2026-11-13T02:05:47.645184+00:00",
    "composite": 40.9,
    "scores": {
     "technical": 22,
@@ -4770,7 +4770,7 @@
      "atr_pct": 4.45,
      "ema20": 1566.67,
      "ema50": 1637.83,
-     "ema200": 1551.58,
+     "ema200": 1551.61,
      "vwap20": 1554.53,
      "rsi": 45.1,
      "rel_volume": 0.82,
@@ -4993,12 +4993,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 37.0991,
+      "value": 36.8386,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 1317.5282,
+      "value": 1285.5005,
       "ok": true
      },
      {
@@ -5033,7 +5033,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 1443396.0,
+      "value": 1444448.0,
       "ok": true
      }
     ],
@@ -5053,79 +5053,24 @@
    "news": [
     {
      "ticker": "ASML",
-     "title": "If You Invested $100 In ASML Holding Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
-     "status": "UNCONFIRMED",
-     "red_flags": [],
-     "sources": [
-      "benzinga.com"
-     ],
-     "best_tier": 2,
-     "links": [
-      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjNKX3ZmdE1OcXJ5VW4xaVN2dkIxbW45aEJOalZHTHZNNjJXdDhkRmxOVm1aMGdWeU9PSHRSeFZ5LUZYSjZXUTdCSUtGaTNDQi1LaElNakk3RVM0akMzcGdRYV9kamFMSW9IcnU4ZTZGeW9MT0x0d25BTG54LURjY29Ock5XcW5oc2FKV0w5OWtfSnNpc255d2UycjVYRk1jblhZNGRkckhYWlNmUWFpN3FvekhUdVdDcDU2cmtLdw?oc=5"
-     ],
-     "published": "2026-11-11T21:15:17+00:00",
-     "latency_min": 499.3,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ASML",
-     "title": "Why ASML Holdings Fell in October - Yahoo Finance",
-     "status": "UNCONFIRMED",
+     "title": "Wall Street's Next Blockbuster Stock Split Could Come From This Chip Equipment Giant - Yahoo Finance",
+     "status": "CORROBORATED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
       "finance.yahoo.com",
-      "fool.com"
+      "fool.com",
+      "theglobeandmail.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXlUOGlTU0NidTJteW95YnhwS1dwODlaR3VSVkNUVm5hU3NHcFJhWDFIN3ZtWGpMNWIta3V3OU9zQmNkcjY0dmtnamNFeUIzWlhOSHdEeldRV0U0dHdfdHdCYW9zN0JuYzJjT1BvaTRoYmY2enJoLWdHMXR1YXB6bkJySmlrZU9QZGUzMFB5T19hUTZEUnQwSk9SWQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmpJNTZhaWVFTXlvendJVXotM2VCSHVNNHh5YzNiTl9kcF9pb0E0UEJPdV95cHVfbWFpZEZJZk1IVWMtcERsNXdUR0lrSEczWWtSdHU4YmR5Z3NIQnpzbnB3QzRFNFdNRXRxaG84ZXZmMUEzcnJnSFl5bHdYekEzMUN3?oc=5",
-      "https://www.fool.com/investing/2026/11/08/why-asml-holdings-fell-in-october/?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbC1ITm02aU16TDlXT2Z4Z2lHa2lBdTc0ZmhHNl9iUWZCVDItc0tTOTYwS1JnQjV1emdfc0VpU01EdlZzWWhtUkxBaV81NS1rS3JqdUhIaGl4Z183a19qOHRzaEpZQmJfZFRuZkJzSzUzTk5uQVVzQzRlckVJUGhQQlJPc29yX0huWWxSMTIycGNGdTUydVc5aTROVm1aTmJNbGc?oc=5",
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjhiTGhLNlZZSzctS3pWYnZsLVRReWFuWlNTSVlkLVRGTTY3SFJIM2NjVEhPWXlFMXpwYzFqakI4MHptQmNLSVdaelR3dnZ4ZjRqVENpU0VmMXM3YlRYX0tDTGJEeWthVVFPME9MVEQ0VzRpa24wLWZQckhEZlhXRUhtQjR1eHRrakdCeVRNekRjV2pEdnk3Tg?oc=5",
+      "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSG5ZT3VlMTlyQS1TZTlXU3UwemJwRnhSM2tpV0pXaEpHZjRwT3VVeWVITUpRZDZEX2VTWFIyek45U1FjUFRIZ1BTZFJfY3AwMkc0dkQzcEczYXdOWEJMUGdla0N4Q0NFS2tHakF0SDF4QnRvODgyV3hBZHlhX1lhU3J2MDBxaE5RUHlwV2Q4bGd0ODdyRDg3blM5MEhTMXMyeGZkcTNia0hXTjBoRGNmY2R0eG40eDZBZkZfUEh3RmJ3ak1lYkd5TjY3aFFVMnF4ZlgtTTZNMjcwdEk5Y0cyUlltdVRIbTJTYWx3dmlEbkpRNUUwbTZ4cGpKN0FBNGg1?oc=5"
      ],
-     "published": "2026-11-08T21:30:35+00:00",
-     "latency_min": 4804.0,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ASML",
-     "title": "ASML Holding NV Stock (ASML) Moved Up by 3.30% on Nov 11: Facts Behind the Movement - TradingKey",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "tradingkey.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEJmcmo5NC1QbjgtbFBXakJrbW5XcGdnczg3OXdsX0RyXzl0YnQ1UGt5bTFucWh6WkVLVURyb3NLalROT2dyQy1UY1dUeVRvQkxSMmlYQTBIM3d3dXdubWVrYzRlN25PdGhOcjVsRmpiN2RnVzRmU1lIRG5YVF9kYzNaZUxoTWxsVExj?oc=5"
-     ],
-     "published": "2026-11-11T16:20:38+00:00",
-     "latency_min": 794.0,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "ASML",
-     "title": "Why is ASML stock sliding today? - Investing.com",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "investing.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN28tclFtYlBLTjNOTkJyVlV1TUdGWl9Jd3o3d0t2dVZVTWdEZjlxRGo1dkpROFptS1YzcWhoMnFjQWl1cUp4OUU4R0ZpUlc4WnFWRl80dld4cVhxZHFvdE5aUFplbkhURlhLdVV1U3JXRVJydnJZVG8tZ0dyZDRYeG9NYzJLVU40d3pEcEItMWdCdVV4S08wSQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWJPSWVFQlpaQXFOSnBPbFNjNHdudmN2U3dfWVpMR0hJSzlIUHhXeW5XOWp0bXdPM2ZmZXdWd3U1U204aUtWLXRmcHc1NUE4WW5Jd2pKUkVObE1Ob2twcFVCa2RVQmVLeU9wWjRrTEdrSk9fT3l0cWVGTVRqZG9ycE4ycVB3ckdGTHBSeUJNYjRhczlLb2ZlaHlwaHd0dDY0cmRn?oc=5"
-     ],
-     "published": "2026-11-11T11:06:12+00:00",
-     "latency_min": 1108.4,
+     "published": "2026-11-12T13:58:08+00:00",
+     "latency_min": 727.6,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -5142,7 +5087,62 @@
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhjVzlpdUwzS1JPM0o3VFFnRXZfTnF5SndiVS1jOGNaUU9BWnowWWoySnRvbFpabjFEQVlZaWdhSFo0NnJmMTJaYXZWQ3R2c3I3dmNIdkY5TjVZQklTd0xTbXhGald1NjJGdVhBVTVkU2pjbll0MXA0NmpzSWFxNTlKVWxzeXRKWmtSMks1VGdMbkUzOG8zRWx4REZUb2RwNmFUd2ZkN1F5YXVaQ2pmREFBY1pxMl9tcmNF?oc=5"
      ],
      "published": "2026-10-15T07:00:00+00:00",
-     "latency_min": 40234.6,
+     "latency_min": 41465.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "If You Invested $100 In ASML Holding Stock 10 Years Ago, You Would Have This Much Today - Benzinga",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "benzinga.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjNKX3ZmdE1OcXJ5VW4xaVN2dkIxbW45aEJOalZHTHZNNjJXdDhkRmxOVm1aMGdWeU9PSHRSeFZ5LUZYSjZXUTdCSUtGaTNDQi1LaElNakk3RVM0akMzcGdRYV9kamFMSW9IcnU4ZTZGeW9MT0x0d25BTG54LURjY29Ock5XcW5oc2FKV0w5OWtfSnNpc255d2UycjVYRk1jblhZNGRkckhYWlNmUWFpN3FvekhUdVdDcDU2cmtLdw?oc=5"
+     ],
+     "published": "2026-11-11T21:15:17+00:00",
+     "latency_min": 1730.5,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "ASML",
+     "title": "Ahead of Earnings, Is ASML Stock Cheap, Expensive, or Fairly Valued? - Morningstar",
+     "status": "OUTDATED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "global.morningstar.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2NLRU9DajF3VWhxMFUxbThuODZzNmp2VXU4S0Eyb05wY3FGeXhHQWVZTG1OWmt6d19KZE1JaGxXcmRES2lVYllWWjZXY00ydHU1eUx4bGRtYm9Cc3pJby1lbEpSZHh4MG9uLUtTODB6b1BVcmt1SGNncl82cTkxNE9SQ01FYUpLUXVvN1dIZGJyT1Q0WUNaX3loN1FGYjJCRU1DZU4wV04?oc=5"
+     ],
+     "published": "2026-10-12T07:00:00+00:00",
+     "latency_min": 45785.8,
+     "sentiment": "neutral",
+     "high_impact": true
+    },
+    {
+     "ticker": "ASML",
+     "title": "Why is ASML stock sliding today? - Investing.com",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "investing.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN28tclFtYlBLTjNOTkJyVlV1TUdGWl9Jd3o3d0t2dVZVTWdEZjlxRGo1dkpROFptS1YzcWhoMnFjQWl1cUp4OUU4R0ZpUlc4WnFWRl80dld4cVhxZHFvdE5aUFplbkhURlhLdVV1U3JXRVJydnJZVG8tZ0dyZDRYeG9NYzJLVU40d3pEcEItMWdCdVV4S08wSQ?oc=5"
+     ],
+     "published": "2026-11-05T16:09:08+00:00",
+     "latency_min": 10676.6,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -5170,7 +5170,7 @@
      "freedom_broker": "тариф не задан в config",
      "paydax": "тариф не задан в config"
     },
-    "fx": 446.29998779296875,
+    "fx": 444.19000244140625,
     "limited_by": "риск"
    },
    "status": "WAIT",
@@ -5178,18 +5178,18 @@
    "six": {
     "signal": 41,
     "halal": 56,
-    "momentum": 34,
+    "momentum": 22,
     "entry": 60,
     "catalyst": 30,
     "risk": 80,
-    "rank": 47.5
+    "rank": 45.7
    },
    "insider_buys_90d": null
   },
   {
    "ticker": "COST",
    "name": "Costco Wholesale Corporation",
-   "generated_at": "2026-11-12T05:34:25.012344+00:00",
+   "generated_at": "2026-11-13T02:05:33.652029+00:00",
    "composite": 76.9,
    "scores": {
     "technical": 79,
@@ -5205,7 +5205,7 @@
      "atr_pct": 1.85,
      "ema20": 1022.98,
      "ema50": 984.34,
-     "ema200": 962.22,
+     "ema200": 962.23,
      "vwap20": 1022.26,
      "rsi": 73.3,
      "rel_volume": 0.91,
@@ -5391,12 +5391,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 51.3508,
+      "value": 52.6113,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 13.4654,
+      "value": 13.5223,
       "ok": true
      },
      {
@@ -5431,7 +5431,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 2182425.0,
+      "value": 2197106.0,
       "ok": true
      }
     ],
@@ -5457,16 +5457,14 @@
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "finance.yahoo.com",
-      "tradingview.com"
+      "finance.yahoo.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU03ekRHaEc0TWl0STFiVExmZnBzd0xRTXdpa2ctc05XeS1qRWlvb3J1NFdaMHVFc2lsLVNkeG1meGZSZTN6MUlLeTRNZFI3c19JeEhWbTlFdFV3MkxJWkt3a05iWVp3ZnZYanZXSTNWV21pLVZ6NTFrT3ZFYmZSOEVFN2pONzdlNHdSOHFYQTJJVzkxeWZQYmZjSlpJMmc?oc=5",
-      "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2NNLUp2cmhaRm5tRTFIVkxCeENLTTkxYlVjWjNVVmdlRDMtaXhRWk5udHlHa1hQRDdFalAxZi1VQ2pheXkwV3dZbUNBOERWZ2hGY2Z3YjJMcVNwY3NnSWFLekxUOEdTQUhfZmhQR05CMDVEU1hxSnduazRKSFZRVFpOQW0xbkR5ald3OGN3aHVuTFB2UWtuNmxQSmdYN3l6ZnBfMWFtanRPOW9UN2w0Z1FOUjI4dm9FZ0xMRVpTZUlnUkFESXR1d01FMWt0R2pZcjFMcWJEeTRnN2x5WTlfZW42d28zbzdjclluUFFzcw?oc=5"
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU03ekRHaEc0TWl0STFiVExmZnBzd0xRTXdpa2ctc05XeS1qRWlvb3J1NFdaMHVFc2lsLVNkeG1meGZSZTN6MUlLeTRNZFI3c19JeEhWbTlFdFV3MkxJWkt3a05iWVp3ZnZYanZXSTNWV21pLVZ6NTFrT3ZFYmZSOEVFN2pONzdlNHdSOHFYQTJJVzkxeWZQYmZjSlpJMmc?oc=5"
      ],
-     "published": "2026-11-11T01:59:00+00:00",
-     "latency_min": 1655.4,
+     "published": "2026-11-11T02:23:18+00:00",
+     "latency_min": 2862.2,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -5486,28 +5484,28 @@
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk1SbzRkY0hkTVlRbk9LWHduY2lLZnJjeUIxU3NvbWVNLWhVZFFJMjNJYUNlSF92N2p5YTY5RFFocmVYSGdKakNybjRTeVZZd250OGg0aWNVVmR6UzFhVHpXRnhVREVmbHJ0RXBVZU5HUVRWelYyRUFxOVhHeHN1QXAxUGxYRVZJSW93OEhjSnJ0V3BGMm9OeURlbk8?oc=5"
      ],
      "published": "2026-11-11T11:10:21+00:00",
-     "latency_min": 1104.1,
+     "latency_min": 2335.2,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "COST",
-     "title": "Costco Wholesale Corporation (COST) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "title": "Costco Wholesale (COST) Stock: Announces $4B Buyback Amid Valuation Concerns - Blockonomi",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "ca.finance.yahoo.com"
+      "blockonomi.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JS29haUVPZ0FuR1BDUFltYmhBTjRyTWlfSXdJdEF2QVlLRDJoQ2R3QUNxX2tTWXFGYklXaUtmMzlQNnZacWgyZVNNNGJRc3FaNHc?oc=5"
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnFYamJuU2Nlc1JzYmF5RjVreTZOUUQ3SExXVDliVFFYUkg5ZDNXcWR5UWFuSXlGUGZrZ1JTX1VtUGhUSlZJVUJVVkNmY1dCZ3BGZVRnT3VBYV9Ha1U2VzhQTEc4djFXUkpTSTJQdWtBLThjWGt6UTZGcVJWQXNiWExIVTJSVlZKVHY4Y0pqNFhEZTVjZ0hla3lHR1c?oc=5"
      ],
-     "published": "2026-11-10T22:11:41+00:00",
-     "latency_min": 1882.7,
-     "sentiment": "neutral",
-     "high_impact": false
+     "published": "2026-11-12T20:46:06+00:00",
+     "latency_min": 319.4,
+     "sentiment": "bullish",
+     "high_impact": true
     },
     {
      "ticker": "COST",
@@ -5521,29 +5519,28 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd040dEdhY1J1bGdUTE5jakswU0d5VTR3cTF6cmVKVGFiQ0o0OG0taVdmMm15ZGQ5dFEzTEJfS3BoWU1wVDZsVUROdUZhSDFzOENDUEhVRTBYQzc5RXdvVENKd3lrY21Rejg2NENfaFNpUDk3RmNSOGhsWE9mNG9GTDhMempQVklNcUxIaDl0UnRCdkhIaDQwYk1uazZ2dXVNblJ0X3FrTXBiYUczRGJr?oc=5",
-      "https://www.barchart.com/story/news/8786248/cost-stock-alert-what-to-know-as-costco-issues-30-special-dividend?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd040dEdhY1J1bGdUTE5jakswU0d5VTR3cTF6cmVKVGFiQ0o0OG0taVdmMm15ZGQ5dFEzTEJfS3BoWU1wVDZsVUROdUZhSDFzOENDUEhVRTBYQzc5RXdvVENKd3lrY21Rejg2NENfaFNpUDk3RmNSOGhsWE9mNG9GTDhMempQVklNcUxIaDl0UnRCdkhIaDQwYk1uazZ2dXVNblJ0X3FrTXBiYUczRGJr?oc=5"
      ],
      "published": "2026-11-11T19:09:16+00:00",
-     "latency_min": 625.1,
+     "latency_min": 1856.3,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "COST",
-     "title": "Costco Stock Moves Higher: What's Going On? - Benzinga",
+     "title": "Skydance details cost cuts, sets streaming bundle for early next year - Reuters",
      "status": "UNCONFIRMED",
      "red_flags": [],
      "sources": [
-      "benzinga.com"
+      "reuters.com"
      ],
      "best_tier": 2,
      "links": [
-      "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX3pFQTR6MjVmcVpNak42UEFXYU1PUkxrVUpOMUNMVGJ0aW12OE1WVDlJcDNwQmNhT2w4ZWZHbVFOa2ZLTTZ1OVZjQ3RQSC1aSEdkUTVDbUtvM2Z6MW5HUUhtaWgyX0hWQWhOVkxZT3J4cUxjSF9Hc20zWjR4YVdBVkpaYi1acDhmZjRqazhxeEo3OFh5OC1kX1ZiNHJiTjBfdmdyNGdB?oc=5"
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmMyY3U4ZHpzVFlybTRoZmg1SDk3M2hsMllXb1JsNkJfVUJleHVqYUFrZlY5YUZJd1FKMXhkMGtQOXRFU3dJYTZEMldzTHdWRFJ1YUtURmxYUVZIWmtwaDg3OEpzTEw2TzB3d0Rha21lUGE4dFFwRWN3cWt5X1FQbzBRMDlNWVNtNHQzLVlZMmIwZm9nMkRJdFowb3ZqdzNENFZEV19JeG95eUNDZXMwRGliS05UTVkwOTF5RQ?oc=5"
      ],
-     "published": "2026-11-11T15:53:56+00:00",
-     "latency_min": 820.5,
-     "sentiment": "neutral",
+     "published": "2026-11-09T23:56:16+00:00",
+     "latency_min": 4449.3,
+     "sentiment": "bearish",
      "high_impact": false
     }
    ],
@@ -5554,18 +5551,18 @@
    "six": {
     "signal": 77,
     "halal": 51,
-    "momentum": 78,
+    "momentum": 92,
     "entry": 30,
     "catalyst": 45,
     "risk": 96,
-    "rank": 64.1
+    "rank": 66.2
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "LLY",
    "name": "Eli Lilly and Company",
-   "generated_at": "2026-11-12T05:34:26.154454+00:00",
+   "generated_at": "2026-11-13T02:05:35.168690+00:00",
    "composite": 69.4,
    "scores": {
     "technical": 72,
@@ -5581,7 +5578,7 @@
      "atr_pct": 3.23,
      "ema20": 1343.86,
      "ema50": 1268.47,
-     "ema200": 1127.84,
+     "ema200": 1127.8,
      "vwap20": 1351.95,
      "rsi": 70.3,
      "rel_volume": 0.6,
@@ -5762,12 +5759,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 46.6501,
+      "value": 46.3252,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 31.8076,
+      "value": 31.5861,
       "ok": true
      },
      {
@@ -5802,7 +5799,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 2568845.0,
+      "value": 2567768.0,
       "ok": true
      }
     ],
@@ -5822,7 +5819,7 @@
    "news": [
     {
      "ticker": "LLY",
-     "title": "Is Eli Lilly (LLY) Priced Below Its Cash Flow Potential? - Yahoo Finance",
+     "title": "Baron Funds Sees Eli Lilly’s (LLY) Mounjaro, Zepbound and Orforglipron as Transformational - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -5832,11 +5829,29 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFFFWUlzX1ZuR21hQXI1dE5pQWkzb2dpOWN0Z1JNdFJ0TXcyU0hKcXJ6VFlwMzVLbEhCTklKcS1TWmlCV00xZXMzOEZxdWxWNVJTaGFpVElHck9pbU9KZlRZd1lXajNmVm1CSkw5WUtGcTQ4djM1OHZpdUpEYjE4NHQ4aGlOanZYZS1Ob2N5QWg?oc=5",
-      "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-priced-below-011832255.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDhHTTFsUjVfdTFfNl9Va3h4VmRBVVpNUWVYbUVkYnBKMmhUNkdnZkMtS3RQN1Uwd2lXQUE3M1NHTlVZd3diQUFQNkh1NmlfWmd3Mk1Obk5uS0ZRaGhPTDhGLWxfYW1ERXlpYWRjdmNYcDJsSHlZMXkwQ25HOU9nQnlRenZ6MzJZRHpCTjA1dm0?oc=5"
      ],
-     "published": "2026-11-12T01:18:32+00:00",
-     "latency_min": 255.9,
+     "published": "2026-11-12T11:32:52+00:00",
+     "latency_min": 872.7,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LLY",
+     "title": "Eli Lilly (LLY) Stock Climbs as China Approves First GLP-1 Weight-Loss Pill - Blockonomi",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "blockonomi.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNNndqOU4xWnRBYmRmOWJqY09QMUw1R0EwQkxWYzhNbnBfNVZvbVFQYS04R1dFc1Qwdjk2VGw2QkN3VEMtQm95Z3ZqbVI2c01HWFppWHBUYXhZMGpVZlpuZXlxVmdoZmRmRDUtb0NRdkQ1bEhjeVlfbHhpNXY1Y2lNSEpGVFdxVTk2NXRiU3gwcVdjVGI0c2w4UUx6OXhtdw?oc=5"
+     ],
+     "published": "2026-11-12T13:04:48+00:00",
+     "latency_min": 780.8,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -5855,46 +5870,27 @@
       "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEQtU0U2M2hWaHRXd0pvSllHX281QXNUX2VuMlZvVVZ6c25DMk9XLV9vc1REeThLRWhNcE4zWDFIWmdsZ0dFRWRxYlE3dU5Nck5WQ091NElCTl9fRWtsRHo5V0d0bkFBU3pwQ3BJT05Nd25URzROSDZNSW9VUlZQQWVpemVtUUNiWW5JUjFHVjB2LURFSUE?oc=5"
      ],
      "published": "2026-11-11T13:47:50+00:00",
-     "latency_min": 946.6,
+     "latency_min": 2177.7,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "LLY",
-     "title": "Eli Lilly (LLY) Stock Looks Reasonable After Its Very Large Five Year Run - Simply Wall St",
+     "title": "Eli Lilly’s Orforglipron Wins Big In China – Gains Edge Over Novo In Race For Potential $4.5B Market - TradingView",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
      "sources": [
-      "simplywall.st"
+      "tradingview.com"
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2xjUGpQYlJ5dFg3cE9vemZmZXFKUFctWjFMd1labllDVnhtNzFSSWRtYjVrY29mQldqRDZ1N1ZjWVZpRDc4YndCejM2aDJ4V3Bsc2I4NGdkVENlT3pQb0hKa2R4T1hIUE5lOEQzSlJBanNnZjhGcGotSnZUTkMzdExIYlhremJ2X3dkMndqMU9lXzUtWWgtOWhHOGdQTW5URFh5b0Q0VTJyNEpPb2lZcFZJMkQwZ1Y3VzhpODF0aTFCZ3h2Y1RCX1pmV1k1TkJxTlNVVzdkZ9IB3AFBVV95cUxNbml6S0liUWpIdEd3cDRITDlSY2FMUGk5dkR4dndrXzVjUmwtY3BkZEROTHVBNGtJWEVDY2wwRUVYNXBoODg0dENOdVBfWW5VZ1NzWms0NC1rdzFvZ0hNOEIwYy00TU02eElRYUp6MFpQTjdNRTQzUlNrMDRPVzY5OEFvc21PS1oxTDB0c1VhTUtPVEhfMGNXT3ZMZkk3eW0tNEMwQ0ZhR055LUZxbS1xWGo5ZFlKUF9xRTZSb3NWMk1VMTgwNDhsTlpRc2ZkcjN0ZW9RbTluNEp0M19q?oc=5"
+      "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMHdWSVpETDBQQXRia1J0WVprRVV2ZmVyZlBnREVDanQtd2JPa1BHZzBBa0NLeFN2ZjI2ZkN6RWt2TmgyZFFubzI4SlNQc1g4ZERFWFpLb2I2dW12M19VbkhkZ2c3SVB4RlBEbGJ3T1hkM3B4WkpfRlkySXcxQU5YYmNLTzAwTm9NdC1sRUQ0VlBaVGo4aWJSYS0tZ0FlV3g0OEtISi1pR0M3amptOGcxZk52SElTcU9OTFdRNzhBSXpRaTN6M1A1M1k2eWswZ3l6bFRzRjdQejVMR0Q2bzl2WENlUmV2eE5TMHhBOHBpTQ?oc=5"
      ],
-     "published": "2026-11-12T01:33:55+00:00",
-     "latency_min": 240.5,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "LLY",
-     "title": "S&P 500 After-Hours Movers: MNST, RDDT Among Gainers; VEEV, LLY Among Losers in Latest Session - ChartMill",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "chartmill.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDd1U0htSHdYRlV6NnNoRU1ZYWU1MS01bjlPaUw5LUFraHpzU1FTMTFBX2daMGc0VmtSenZ3TDdwMkZfQUpkcXpNbkYxeWhwNldyLVBRSGJyNDhaUDdOb3Nza3Q1RDJGV005a2RkOE9ZMWx2NnZ5YjlXOVlMNDgyd1RYS3BjZGRSVEV2QWdMQTJ2elNmVl82cE1qcnJ6R3RFMTI5RUpvaWxRUWFXT1F2WHBPUGpGZ0VXRVM1UVJuU3U1RHJ2ekhid3dWR1d1Q0ZZblplQVBINFA?oc=5"
-     ],
-     "published": "2026-11-11T22:06:19+00:00",
-     "latency_min": 448.1,
-     "sentiment": "neutral",
+     "published": "2026-11-12T10:51:22+00:00",
+     "latency_min": 914.2,
+     "sentiment": "bullish",
      "high_impact": false
     },
     {
@@ -5912,7 +5908,7 @@
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUpZVVBUSEVzaEwzaml5ci1vNk1GZ3ZkV3Y0TmN0enczRy14N2d2Rk5JdHp6ODA3bFh5VTVPc0xsdS10ZHFUZk52U19GeFlLc2FQYUZZaEo3bmZSeFJnaFJGQzR2Uk1xWUluRXkxVHZjQllBSFVjcXBldEdIaDk4aG96LTJZSk4teUhwX1hfZlhWOUNQdVpyUzlKN2NaSkNrLVJ6dWduaVJCQXF3TEVIYnBMSU0?oc=5"
      ],
      "published": "2026-11-11T12:04:30+00:00",
-     "latency_min": 1049.9,
+     "latency_min": 2281.1,
      "sentiment": "neutral",
      "high_impact": false
     }
@@ -5924,18 +5920,18 @@
    "six": {
     "signal": 69,
     "halal": 52,
-    "momentum": 75,
+    "momentum": 92,
     "entry": 30,
     "catalyst": 30,
     "risk": 93,
-    "rank": 58.7
+    "rank": 61.2
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "LOW",
    "name": "Lowe's Companies, Inc.",
-   "generated_at": "2026-11-12T05:34:31.455154+00:00",
+   "generated_at": "2026-11-13T02:05:40.482758+00:00",
    "composite": 56.0,
    "scores": {
     "technical": 60,
@@ -5951,7 +5947,7 @@
      "atr_pct": 2.72,
      "ema20": 213.5,
      "ema50": 205.29,
-     "ema200": 215.61,
+     "ema200": 215.63,
      "vwap20": 210.37,
      "rsi": 72.5,
      "rel_volume": 0.8,
@@ -6135,12 +6131,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 19.5939,
+      "value": 19.2274,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": -17.47,
+      "value": -17.1577,
       "ok": false
      },
      {
@@ -6175,7 +6171,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 3286568.0,
+      "value": 3296096.0,
       "ok": true
      }
     ],
@@ -6187,12 +6183,87 @@
     "reason": "превышены финансовые пороги",
     "calc": {
      "industry": "home improvement retail consumer cyclical",
-     "debt_to_mcap": 0.323,
-     "cash_to_mcap": 0.024,
+     "debt_to_mcap": 0.329,
+     "cash_to_mcap": 0.025,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     }
    },
    "news": [
+    {
+     "ticker": "LOW",
+     "title": "Nvidia PE falls to 14-year low, but CEO exit and AI worries cloud the bargain - Reuters",
+     "status": "UNCONFIRMED",
+     "red_flags": [],
+     "sources": [
+      "reuters.com"
+     ],
+     "best_tier": 2,
+     "links": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1pCSzVXOGZaWVZyWTl6OXJiSk40TnNaMmhDUXJuN3BsdnNzZU8tSmg0bVkycVVmSG1UNGV6N0lNZ0lqRjdZZXZmQW1USXdvMWJ6MGRCUVotRmpvQTdxVWRmcjdPZmRrLVhPSDFmcjZRMFNWSk9EQjVIaDRINVl5d182b3BJb0hmTEJ0RTJrZ0dRWFBITWtMdW9ET2g4b2hCLWRoQnc5ODZvZw?oc=5"
+     ],
+     "published": "2026-11-12T20:57:59+00:00",
+     "latency_min": 307.7,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "Nvidia stock plunges as CEO Jensen Huang resigns: How low it might go - Mashable",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "mashable.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTZUVEo5RE5qQ3Y5Ry1UOEk5NlNmaUhSUGE2SUFhbFBnSmFOeTAwTzFSTEpaVnEyZkFvbGxOdVMxMmlEQW44Z1dJRTNEQm9faFJXR3FpVC1vZXJZSTZJWUN4YTRaTGxiRlAyenlKOEJBa1U1Yi1KZWxjdW1kbDl0eVRWZGtETldGMjJQN1MzZkJQYXM?oc=5"
+     ],
+     "published": "2026-11-12T23:17:47+00:00",
+     "latency_min": 167.9,
+     "sentiment": "bearish",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "How Low Can Alphabet Stock Go? - Trefis",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "trefis.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWpKUC0xMEFyM0pIMmVDVmN1SGQ0a3dDRng4XzFsOHVQM3paeVMwdkhibDMxdGNsS1Y4cTV1M3FvS2s5Y3RjV0pOTHBjajZIRzFQMFZDeDk0YjVMZzVFb0hicl9obTdQMzU4REUzQWlzWjFxclNjYWxTWGJUSFlvQjB1WXdQeE8wc3daTHByaWpaNU92RFE?oc=5",
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNndlTjJSZkRVVmRuelZqeldaSjVtV3NzakE0WmtSSVNqVzU1RWx4NnhsdU55eHB5RXlheUlNWmRzOUEzOXBEUWozTzc5b2RTdDZyZWhTcE4wd2VCdDFkN3ZESVpQUEhqeGVlVXl0YXUwaERSSjlZalBtaHNQallzazBCWW5QMEF4YkU4LVpn?oc=5"
+     ],
+     "published": "2026-11-12T19:22:51+00:00",
+     "latency_min": 402.8,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "LOW",
+     "title": "Jensen Huang resigns: Nvidia shares tumble even further after scandal-ridden CEO replaced with interim boss - Fast Company",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "fastcompany.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWhxSW9xaFFZcS1WaDR6LTQ3NURnVGxKSTJZVE5QZDZoaVdteHE4SUtDWERrMkxSV1JoRXJwS244VVVtRk9HS2RPXzdkSjZsTy1VNmFNZDZRYTBfRTQyX19zYUk2alJGOGhScW94c0hoVE04UzBPNzZaTHpHakZkWWphTGdleWpDR3ZwTmJrSU41SXJJbjF5bnlndkxhb19JNDhMcW9Vc1B2WkRTTU1UOFpqUHNLaFNvR3VoMk5rVE1lVnljUm5aQWRlQ3NhWHh0YjdQWjBOVGw?oc=5"
+     ],
+     "published": "2026-11-12T14:47:56+00:00",
+     "latency_min": 677.7,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
     {
      "ticker": "LOW",
      "title": "Is Nvidia Stock a Buy After Hitting a Seven-Month Low? (Hint: Yes.) - The Motley Fool",
@@ -6210,86 +6281,9 @@
       "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRndXeDlNTWhHV2xYeGlZM1ZDc3ltaVdJdEliSnJNX2FlMDlIczF2Rjk1T0U5T1hScVhhYnNHai1pVVQyajgzZl80eTNCa08zdjVlRWNvYVREbFNwYnM2bUJmWVlpRzRteTJjcV84SFdENDFWQW8xZHpyRzI2T0NIVHRQREtEOW5jNGZ6R09xREgydktGQzFMZG1rbw?oc=5"
      ],
      "published": "2026-11-11T17:41:02+00:00",
-     "latency_min": 713.5,
+     "latency_min": 1944.6,
      "sentiment": "neutral",
      "high_impact": false
-    },
-    {
-     "ticker": "LOW",
-     "title": "Can Lowe’s Stock Keep Surging From Here? - Trefis",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "trefis.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDM2SXg2MWR1WXhER1dfbmo4dHR0VExiN19pY1hNZTRtRFZXdFM5V2o3dkxqZkZZUDR3V3NCSVRxNGNrb0ZXUk9vSEwxWWI3YzNTeUhRSXBqVXpvams2NkZrcWNoUnl6aUNLb3BGQ0RuamRyT0VoOFNUOE4zMDZPMVVOREFNZ0FSeWVWdW9wZ3FhYno4OWVhMkliT3NuOGs?oc=5",
-      "https://www.trefis.com/stock/low/articles/624282/can-lowes-stock-keep-surging-from-here/2026-11-11?.tsrc=rss"
-     ],
-     "published": "2026-11-11T20:35:05+00:00",
-     "latency_min": 539.4,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "LOW",
-     "title": "Stock Watch: Lilly’s 52-Week High Meets Alnylam’s 52-Week Low - Scrip",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "insights.citeline.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOem5uR2xSV2lqeDB0eF9EWEg3cjVJdVcySDlnOGJJLVg0Yk1VQTh1d3dLODhIUEpqM2x1Wnc4V1J5Tlh1N2UxekpnS2pvR2tGbHF1SFA3dUZOcmd5WHpDRDZaVUNQTUFhVUs1eWFGWG9nYU5VRFk0a1BwazY1Vm5qNEhmRFlTeURENTdMYXZabjZTT0xiSUdhWDMyTE55Z0k5azBZM1htQzBTSktDUUptN2M3NVJVZGVRd2dGMW12MWY4UVpfekNmek5XOXRheXEzSFdjeHVWMURCM2M?oc=5"
-     ],
-     "published": "2026-11-11T16:36:24+00:00",
-     "latency_min": 778.1,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "LOW",
-     "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles - MarketWatch",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "marketwatch.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzdoSVNxancxZzNsSGRPZTBJZ1FNSktlSXotYkQzQldsOFprNzJ6MkZHZWotZmlSc1FzejRwV0lfQ24tU1hkS05xMUVIZUFTTXBrSWxDWm9YaW1XeHJHUDZIWDh1UEJCbVpfZ3Q2N3dsVzFfeW9iUDY5RkxIdTNSbkwzNm5uQVhMT2s5Umoxem55UjNiamZxS09zMDdnd2dVdTZjM01XT3dyUklRZnRRNDlQLU1JX2VMMldsVzlSR3hkZw?oc=5"
-     ],
-     "published": "2026-11-11T15:15:00+00:00",
-     "latency_min": 859.5,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "LOW",
-     "title": "CoreWeave Raises 2026 Outlook to $13.3 Billion, Stock Rebounds From 52-Week Low - BeInCrypto",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "beincrypto.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTFAyeWt2Vk1HNGtPSkE0VGhsUmRZRzNlcHhzNUNLOVlMZ1VhMlViX2lPWUdibmNZVFNLVXhMVDhYZGllcThrb3BaMTZ6RVA3bHl1a1hJUXlSbGpSaWVtMGp2bm9KNFpTTGtIWkwtcnNtTFpBZw?oc=5"
-     ],
-     "published": "2026-11-11T17:22:36+00:00",
-     "latency_min": 731.9,
-     "sentiment": "bullish",
-     "high_impact": true
     }
    ],
    "earnings_date": "2026-11-18",
@@ -6301,18 +6295,18 @@
    "six": {
     "signal": 56,
     "halal": 0,
-    "momentum": 71,
+    "momentum": 79,
     "entry": 45,
     "catalyst": 40,
     "risk": 39,
-    "rank": 52.2
+    "rank": 53.4
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "NKE",
    "name": "Nike, Inc.",
-   "generated_at": "2026-11-12T05:34:28.295918+00:00",
+   "generated_at": "2026-11-13T02:05:37.874278+00:00",
    "composite": 66.2,
    "scores": {
     "technical": 65,
@@ -6334,7 +6328,7 @@
      "rel_volume": 0.8,
      "macd_hist_pos": true,
      "weekly_up": true,
-     "avg_volume_20": 23846980,
+     "avg_volume_20": 23848865,
      "last_bar": "2026-11-11",
      "spark": [
       42.44,
@@ -6502,12 +6496,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 18.6019,
+      "value": 18.1538,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 3.7338,
+      "value": 3.6792,
       "ok": true
      },
      {
@@ -6542,7 +6536,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 33247021.0,
+      "value": 33096075.0,
       "ok": true
      }
     ],
@@ -6553,8 +6547,8 @@
     "status": "NEEDS_REVIEW",
     "calc": {
      "industry": "footwear & accessories consumer cyclical",
-     "debt_to_mcap": 0.195,
-     "cash_to_mcap": 0.147,
+     "debt_to_mcap": 0.198,
+     "cash_to_mcap": 0.149,
      "method": "AAOIFI-подход; текущая капитализация вместо 36-мес. средней"
     },
     "reason": "доля процентного дохода (<5%) не проверяется автоматически; подтвердите вручную (Musaffa/Zoya/10-K) и добавьте в config halal.confirmed"
@@ -6576,13 +6570,34 @@
       "https://finance.yahoo.com/markets/stocks/articles/nike-nke-stock-trades-near-210941923.html?.tsrc=rss"
      ],
      "published": "2026-11-10T21:09:41+00:00",
-     "latency_min": 1944.8,
+     "latency_min": 3175.9,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "NKE",
-     "title": "NKE: Nike Inc. filed SEC Form 8-K: Leadership Update - Quantisnow",
+     "title": "NIKE's Shares Slide Nearly 40% YTD: Is a Rebound in Sight? - TradingView",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com",
+      "tradingview.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ29jQnpQYllqYWFWc3hGME5qLU02ejQ1d2I5TjZGWHlvWTBBVURKbzZvNmpJQ2x6Mk1SeFlQVHhYVlhYcEdjMUNLZnk5TVZVMXBEdVBWdXJzb3NIc3g0UER0U1ZUdkRpRmpQMDRGbE1ZU2lKQkVWSjFHb3dkRU1LWHpKUWprQ3N2cndjdGhlc2lMaDMwM0tmUXZPNFNBUlMzdFhCYVppbDg1aG9tTEFmMA?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/nikes-shares-slide-nearly-40-153300220.html?.tsrc=rss"
+     ],
+     "published": "2026-11-12T17:59:34+00:00",
+     "latency_min": 486.0,
+     "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "NKE",
+     "title": "Cantor Fitzgerald initiated coverage on NIKE with a new price target - Quantisnow",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -6592,48 +6607,10 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVI1bTBENnE5anlHUWtvclZUd0F6eUlVOFBvcjA0aGpkUlpNcFUzVjh6TzRWNHZZLVdnRjAwUXhhaWlqcU5JS3YxMmtUZkJSQkZKOWItS25MYV9fbzMxdmlXVGI1MWJXRnRQYzR3Mm5TekgwMlZqeGxUMzlBWnVZVUIzcW9Pbmp1eUVqd3lzcGUzZw?oc=5"
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkxiX2JTRko2UWd5Q3ZxZld3aVRyOEZ4VGgtVEdYMWNtSHBfWkc0eGVTS2RGb0ZWVl8wY0p5S3JES3ZGczlvMElYRVp2SHNIX0lXMlZvSFhydlNOckxzYXBQRFRocFAxVzk3QzFiSEd4bmNTanExbVhjeUg1Y3RWUkZnTW5rQzZiLVdqTGJ5LUxOV3ZrQkk3SjhDVXpBbXJ0YUtNT2NmUQ?oc=5"
      ],
-     "published": "2026-11-09T21:47:46+00:00",
-     "latency_min": 3346.7,
-     "sentiment": "neutral",
-     "high_impact": true
-    },
-    {
-     "ticker": "NKE",
-     "title": "Nike Inc (NKE) Stock Up 3.3% and Still Undervalued -- GF Score: 69/100 - GuruFocus",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "gurufocus.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmVnUzVITExfcnZXZTlQakdoUk5oSWtRaXNMOC01eEVHdUVJeUhuRGhCeGZ1OU5IZFk2bFBvS3dvNGFLMXpWSm9hSE1QRWVqT2JZYUI2NVRvRzdsVHpJTkYxVWlSU3VEcHlPZllhQVpJbnFKNldvSlBaVDMzeUZ2dkE5TlRheEI0Z0hwMHh3M2VncFVVNjhaWkJscGxsdjBXZ0E?oc=5"
-     ],
-     "published": "2026-11-10T00:19:22+00:00",
-     "latency_min": 3195.1,
-     "sentiment": "neutral",
-     "high_impact": false
-    },
-    {
-     "ticker": "NKE",
-     "title": "Nike Appoints Dan McKenzie as Chief Accounting Officer - The Globe and Mail",
-     "status": "UNCONFIRMED",
-     "red_flags": [
-      "нет источника уровня 1-2"
-     ],
-     "sources": [
-      "theglobeandmail.com"
-     ],
-     "best_tier": 3,
-     "links": [
-      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeEt6eGRnSXVxYmQtVTdNOW5IUHFxRnJvZDFUNnBJTURKQ0tFSWQ1UDJ3ZW9kbmtqMTAtVWV4RFBldWdub2F0cXhWbzgzWnV3dlB6RmxheEZZQkdYR1c3QzBSd1BNQ19IbmtJbnh0amh3bjd4cHpLQzZEeG5KX0tOdllleUYyS3oyenlRSnZmQUo0VnJURjhzNTlJTXdwSFpPc1M1OHc5SUFhWTUyNVU5MkREdUdWQ2NzVm9YT2J6TzJOcEpwUEVVZ2t0cklOSUtEN3phbw?oc=5"
-     ],
-     "published": "2026-11-10T22:47:16+00:00",
-     "latency_min": 1847.2,
+     "published": "2026-11-10T12:41:14+00:00",
+     "latency_min": 3684.4,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -6653,8 +6630,27 @@
       "https://finance.yahoo.com/markets/stocks/articles/nike-nke-declines-more-market-214502786.html?.tsrc=rss"
      ],
      "published": "2026-11-10T21:45:02+00:00",
-     "latency_min": 1909.4,
+     "latency_min": 3140.6,
      "sentiment": "neutral",
+     "high_impact": false
+    },
+    {
+     "ticker": "NKE",
+     "title": "NIKE (NKE) Could Be 6% Undervalued On Analyst Downgrades And Reset Risks - Yahoo Finance",
+     "status": "UNCONFIRMED",
+     "red_flags": [
+      "нет источника уровня 1-2"
+     ],
+     "sources": [
+      "finance.yahoo.com"
+     ],
+     "best_tier": 3,
+     "links": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjBMaHdEUmhwSElldTJEMlhGaklqOUFLQWJqalhRT2J4Q0xHZ3kxcUYtMzFBY2tyYlpVZjMyakZLcjBYcU9KMDg3bXlOTl9oblpaZXdLNHVibmc3TnNOdlA0ZmN6M2NBc3Z6a2ZDd2hnUjFmWU8wc1BuWEtKeUNSLXZDOUdnYkJQZXBNenQ1ekotUkdGVFU4Nw?oc=5"
+     ],
+     "published": "2026-11-07T21:16:46+00:00",
+     "latency_min": 7488.8,
+     "sentiment": "bearish",
      "high_impact": false
     }
    ],
@@ -6664,19 +6660,19 @@
    "status": "WATCHLIST",
    "six": {
     "signal": 66,
-    "halal": 21,
-    "momentum": 53,
+    "halal": 20,
+    "momentum": 50,
     "entry": 30,
     "catalyst": 30,
     "risk": 70,
-    "rank": 51.9
+    "rank": 51.4
    },
    "insider_buys_90d": 0
   },
   {
    "ticker": "ADBE",
    "name": "Adobe Inc.",
-   "generated_at": "2026-11-12T05:34:36.060917+00:00",
+   "generated_at": "2026-11-13T02:05:46.125408+00:00",
    "composite": 52.1,
    "scores": {
     "technical": 32,
@@ -6692,7 +6688,7 @@
      "atr_pct": 3.52,
      "ema20": 245.54,
      "ema50": 247.82,
-     "ema200": 262.91,
+     "ema200": 262.95,
      "vwap20": 250.14,
      "rsi": 41.5,
      "rel_volume": 1.0,
@@ -6901,12 +6897,12 @@
      },
      {
       "check": "P/E > 5",
-      "value": 13.2147,
+      "value": 13.3188,
       "ok": true
      },
      {
       "check": "P/B > 1",
-      "value": 7.8971,
+      "value": 7.9283,
       "ok": true
      },
      {
@@ -6941,7 +6937,7 @@
      },
      {
       "check": "Avg volume > min",
-      "value": 4632131.0,
+      "value": 4630653.0,
       "ok": true
      }
     ],
@@ -6961,7 +6957,7 @@
    "news": [
     {
      "ticker": "ADBE",
-     "title": "Should Value Investors Buy Adobe (ADBE) Stock? - Yahoo Finance",
+     "title": "Adobe (ADBE) Stock May Look Reasonable On Fresh AI Partnership News - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -6971,12 +6967,13 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRvbzU5ZktIZ1owUkNGYW4xU1o3TzJ4SXl5VFc0LVFiWlhNSU5qTkF3Y1UzRkxjVjJHbVl3UWFzNHk3VjIzV2h6YXp5MUVXZkhsZHNpQWd3NmpldnkzUkk1Xy1aTjFueEtEbHB0RVJKX1dCMFJmUlptdl9PVnRwZ3plbFdFNTJpWFh2RVl2dUJKVXJtZUVGcF9fMA?oc=5"
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGt5YWhneVZDS2QxSXdGVG1kWXRXS1F0VG9pcnZUVnp5aktOOUR1LXZuMG00WWdrZExkd0tkcFltN2NMWUMyUGVfNmN3bi1YaC1yWVpZaC1TbHd5dUpqRjRodUxwSlJ6STJzZ19yLU1yb3ZIVnZiMFpxdTBxZ25US1JFeVhPa1BlWGJwT1dYU292ZFhj?oc=5",
+      "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-may-look-130702558.html?.tsrc=rss"
      ],
-     "published": "2026-11-11T20:08:01+00:00",
-     "latency_min": 566.6,
+     "published": "2026-11-12T13:07:02+00:00",
+     "latency_min": 778.7,
      "sentiment": "neutral",
-     "high_impact": false
+     "high_impact": true
     },
     {
      "ticker": "ADBE",
@@ -6993,13 +6990,13 @@
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW9wRUFwbF9MekgxVVVveGRZbU0tZ21hV3hIb00yTHFzUmhRUTlsQncyNmptcXlXUFlUVDcxYk5qMnpTYkF5cVJJNmNVNTdnWGJxODZuNTVRcDAtQktxQlFEWjNJRmdWd0xobHFwWEE0OFJBcUhFS2s3eGJiaU5nQlZpdjllbVhHVVhBN3gzYzBwMnVqRU5zN19qZGZ4azJzR0dFTmxDRQ?oc=5"
      ],
      "published": "2026-11-11T07:20:15+00:00",
-     "latency_min": 1334.3,
+     "latency_min": 2565.5,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "ADBE",
-     "title": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next - Yahoo Finance",
+     "title": "Should Value Investors Buy Adobe (ADBE) Stock? - Yahoo Finance",
      "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
@@ -7009,11 +7006,10 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUc5TEQxMjFBVTFjWU1tNjR3V2xKWW8tc1RLM3FpQ3gyVDRlNlgyZERDLUhna0QtMUxleDFYSGZJZ2w2aVF3OHhLUlRrTnpRekFzM3hSR3JDWHV1bG1RSjBmUHc1c01WS3dQaFJuTUlpX3Nvb255dnJ4cEF2X1U0T1U3ZWt3dms1YTBwVHhwbUo3dw?oc=5",
-      "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-down-31-citi-180326888.html?.tsrc=rss"
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRvbzU5ZktIZ1owUkNGYW4xU1o3TzJ4SXl5VFc0LVFiWlhNSU5qTkF3Y1UzRkxjVjJHbVl3UWFzNHk3VjIzV2h6YXp5MUVXZkhsZHNpQWd3NmpldnkzUkk1Xy1aTjFueEtEbHB0RVJKX1dCMFJmUlptdl9PVnRwZ3plbFdFNTJpWFh2RVl2dUJKVXJtZUVGcF9fMA?oc=5"
      ],
-     "published": "2026-11-11T18:03:26+00:00",
-     "latency_min": 691.2,
+     "published": "2026-11-11T20:08:01+00:00",
+     "latency_min": 1797.7,
      "sentiment": "neutral",
      "high_impact": false
     },
@@ -7032,14 +7028,14 @@
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXpfX2dqMUpQN1VfNlNvLVJyRzZ6WmRmQmZLY3pDOUFKYkVuOGlmUUVWRXUtNGFYWmRUSm5INExuR0NrbkRKdFRmUzNtOENyMXBUb2dFWFV5anZmQkRvSHczV0FwUjF0OWNRRkZKRkhjVThLWW1leG1VcEZoNFlSU1I0aDE3Tno4UDBXdS1ZUHZpYXNmTWZpQ1FTeGpzUF9RYnpfNzhuVUpKUnlS?oc=5"
      ],
      "published": "2026-11-11T07:43:55+00:00",
-     "latency_min": 1310.7,
+     "latency_min": 2541.8,
      "sentiment": "neutral",
      "high_impact": false
     },
     {
      "ticker": "ADBE",
-     "title": "Adobe (ADBE) Stock May Trade Below Fair Value Following Fresh AI Partnership News - Yahoo Finance",
-     "status": "OUTDATED",
+     "title": "Adobe (ADBE) Is Down About 31% This Year. Here’s What Citi’s Tyler Radke Sees Next - Yahoo Finance",
+     "status": "UNCONFIRMED",
      "red_flags": [
       "нет источника уровня 1-2"
      ],
@@ -7048,13 +7044,12 @@
      ],
      "best_tier": 3,
      "links": [
-      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQanB2YlF6dzBlRDEwaWtrajByOTJkZUR5c3hzVHdzUWQ2aFpWajBuVVprRGJHVEM4VWduWnpScW5vSjdETF9oMW54V29qT1d2M295UWkybmRYeTNoX3AxdjVnRVJMUVBobHRuMmFZM0NWZmZRaUVObjdDejhtM2JtT3ctNUlKWkFmdzk1UkF2Unk2TGNhYXc?oc=5",
-      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1RjSzRQZHZWOTZjQVVIUXNzR05IUVE3VUJEM24ta1YzbEY4Z0tHQnEySWdTa2cwUlk0ZGF2MGJZSVpBNHJzb0g1WE5KTjdxcVZsRTd5T0NOd3VLVVllQm9IU1hYVWNOckZ6d2FNVERoWG5XUVN0UzBITktRZG9yQ0dFQWRrSm5CSFRULXlkR3RQUVcyQ2c?oc=5"
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYUc5TEQxMjFBVTFjWU1tNjR3V2xKWW8tc1RLM3FpQ3gyVDRlNlgyZERDLUhna0QtMUxleDFYSGZJZ2w2aVF3OHhLUlRrTnpRekFzM3hSR3JDWHV1bG1RSjBmUHc1c01WS3dQaFJuTUlpX3Nvb255dnJ4cEF2X1U0T1U3ZWt3dms1YTBwVHhwbUo3dw?oc=5"
      ],
-     "published": "2026-10-28T07:00:00+00:00",
-     "latency_min": 21514.6,
+     "published": "2026-11-11T18:03:26+00:00",
+     "latency_min": 1922.3,
      "sentiment": "neutral",
-     "high_impact": true
+     "high_impact": false
     }
    ],
    "earnings_date": "2026-12-09",
@@ -7064,21 +7059,21 @@
    "six": {
     "signal": 52,
     "halal": 46,
-    "momentum": 30,
+    "momentum": 21,
     "entry": 10,
     "catalyst": 45,
     "risk": 80,
-    "rank": 40.3
+    "rank": 39.0
    },
    "insider_buys_90d": 0
   }
  ],
  "meta": {
-  "generated_at": "2026-11-12T05:34:38.389876+00:00",
+  "generated_at": "2026-11-13T02:05:47.645343+00:00",
   "provider": {
    "ok": true,
-   "fetched_at": "2026-11-12T05:34:15.902498+00:00",
-   "tickers_ok": 39,
+   "fetched_at": "2026-11-13T02:05:22.792111+00:00",
+   "tickers_ok": 40,
    "tickers_requested": 40,
    "provider": "yfinance (Yahoo Finance)",
    "frequency": "1d (EOD)",
@@ -7086,7 +7081,7 @@
    "url": "https://finance.yahoo.com"
   },
   "fx": {
-   "usdkzt": 446.29998779296875,
+   "usdkzt": 444.19000244140625,
    "source": "KZT=X (yfinance)"
   },
   "universe": 39,
