@@ -1,0 +1,33 @@
+{
+ "all": {
+  "trades": 787,
+  "win_rate": 0.413,
+  "avg_win_R": 1.91,
+  "avg_loss_R": -1.02,
+  "profit_factor": 1.32,
+  "expectancy_R": 0.19,
+  "max_drawdown_R": 20.94,
+  "sharpe_per_trade": 0.12
+ },
+ "in_sample_first_half": {
+  "trades": 394,
+  "win_rate": 0.434,
+  "avg_win_R": 1.81,
+  "avg_loss_R": -1.01,
+  "profit_factor": 1.37,
+  "expectancy_R": 0.212,
+  "max_drawdown_R": 13.12,
+  "sharpe_per_trade": 0.14
+ },
+ "out_of_sample_second_half": {
+  "trades": 393,
+  "win_rate": 0.392,
+  "avg_win_R": 2.01,
+  "avg_loss_R": -1.02,
+  "profit_factor": 1.27,
+  "expectancy_R": 0.168,
+  "max_drawdown_R": 14.89,
+  "sharpe_per_trade": 0.1
+ },
+ "note": "Только технический сетап; без фундамента/халяль/новостей. Не гарантия будущих результатов."
+}
